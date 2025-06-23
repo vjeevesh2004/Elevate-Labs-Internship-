@@ -1,0 +1,50 @@
+🧩 Step 1: Importing the Required Library
+import pandas as pd
+This imports the Pandas library, which is used for working with structured data in Python (like Excel or CSV files).
+
+📂 Step 2: Load the CSV File
+file_path = "/content/netflix_titles.csv"
+df = pd.read_csv(file_path)
+file_path stores the location of the Netflix data file.
+
+pd.read_csv() reads the CSV file and loads it into a DataFrame called df.
+
+🧹 Step 3: Fill Missing Values (Nulls)
+3.1 Fill missing director values
+
+df["director"] = df["director"].fillna("Unknown")
+Replaces all missing (NaN) entries in the director column with "Unknown".
+
+3.2 Fill missing cast values
+df["cast"] = df["cast"].fillna("Unknown")
+Replaces missing values in the cast column with "Unknown".
+
+3.3 Fill missing country values using the most frequent value (mode)
+df["country"] = df["country"].fillna(df["country"].mode()[0])
+Calculates the most common country and fills missing values with it.
+
+3.4 Fill missing date_added values using mode
+df["date_added"] = df["date_added"].fillna(df["date_added"].mode()[0])
+Replaces missing dates with the most frequent date in the date_added column.
+
+3.5 Fill missing rating values using mode
+df["rating"] = df["rating"].fillna(df["rating"].mode()[0])
+Fills missing rating values with the most common rating.
+
+3.6 Fill missing duration values using mode
+df["duration"] = df["duration"].fillna(df["duration"].mode()[0])
+Replaces missing duration values with the most common duration.
+
+💾 Step 4: Save the Cleaned Data to a New CSV File
+output_file = "/content/netflix_titles_sorted.csv"
+df.to_csv(output_file, index=False)
+output_file is the path where the cleaned data will be saved.
+
+df.to_csv() writes the DataFrame to a new CSV file.
+
+index=False prevents writing row numbers (index) into the CSV.
+
+✅ Step 5: Confirm the File is Saved
+print("File saved at:", output_file)
+Displays a confirmation message showing the file path of the saved data.
+

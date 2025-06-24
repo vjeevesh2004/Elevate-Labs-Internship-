@@ -1,1 +1,48 @@
+# Laptop Lens Dashboard
+
+![Dashboard Preview](Dashboard-Laptop-Lens.png)
+
+A data visualization dashboard analyzing laptop pricing, specifications, and distributions across brands and categories.
+
+## Key Metrics
+
+### Price Analysis
+| Brand     | Avg Price |
+|-----------|-----------|
+| Apple     | $2.9K     |
+| Raze      | $2.7K     |
+| MSI       | $2.5K     |
+| Lenovo    | $2.0K     |
+| Microsoft | $2.0K     |
+
+### Operating Systems
+- FreeDOS: 13.30
+- Linux: 17.30
+
+### Hardware Specifications
+**Price vs RAM:**
+- 8GB RAM models
+- 6GB RAM models
+- 4GB RAM models
+
+**Processor Impact:**
+- AMD Ryzen 9
+- Intel i5/i7/i8/i9
+
+## Visualizations
+
+1. **OS Distribution**
+   - Windows
+   - FreeDOS
+   - Linux
+   - macOS
+
+2. **Screen Size Analysis**
+   - Primary sizes: 13.3", 14", 15.6", 17.3"
+   - Market distribution shown in percentages
+
+## Data Notes
+- Some labels truncated in visualizations
+- "M" suffix may represent millions or other units
+- Contains processor price comparisons by brand
 

@@ -1,1 +1,84 @@
 
+📚 The Literary Haven - Bookstore SQL Database
+A comprehensive relational database system for managing an online or offline bookstore, complete with books, users, sections, purchases, and interaction logs. This project is perfect for data analysis, backend integration, or as a sample dataset for practicing SQL.
+
+🗃️ Database Structure
+The database is named ccc and includes the following tables:
+
+Users: Stores user information (name, email).
+
+Books: Contains metadata for books such as title, author, price, genre, and publication details.
+
+Sections: Categorizes books into genres/sections like Self-help, Fiction, History, etc.
+
+Purchases: Records purchase transactions made by users.
+
+Interactions: Tracks user engagement like views or likes on books.
+
+🛠️ Technologies Used
+MySQL / MariaDB
+
+SQL (DDL & DML)
+
+📂 Schema Highlights
+sql
+Copy
+Edit
+CREATE TABLE Users (
+    UserID INT PRIMARY KEY AUTO_INCREMENT,
+    UserName VARCHAR(100) NOT NULL,
+    Email VARCHAR(100) NOT NULL UNIQUE
+);
+sql
+Copy
+Edit
+CREATE TABLE Books (
+    BookID INT PRIMARY KEY AUTO_INCREMENT,
+    Title VARCHAR(200) NOT NULL,
+    Author VARCHAR(100) NOT NULL,
+    Genre VARCHAR(100) NOT NULL,
+    ISBN VARCHAR(20) NOT NULL UNIQUE,
+    Publisher VARCHAR(100),
+    YearOfPublication INT,
+    NoOfRevisedVersions INT DEFAULT 0,
+    Price DECIMAL(10, 2) NOT NULL,
+    SectionID INT,
+    FOREIGN KEY (SectionID) REFERENCES Sections(SectionID)
+);
+🧪 Sample Data
+Includes a rich set of sample records:
+
+25+ popular books across genres.
+
+5 Indian users.
+
+Realistic purchase and interaction history for analytics or querying practice.
+
+✅ Features
+Normalized schema with foreign keys and constraints.
+
+Preloaded sample data for testing and development.
+
+Genre and interaction diversity for analytical use cases.
+
+🚀 Getting Started
+Clone this repository.
+
+Run the 1..sql file to create schema and tables.
+
+Run the 2.sql file to insert sample data.
+
+📌 Use Cases
+Backend DB for a bookstore application
+
+SQL learning or practice environment
+
+Data analytics and querying practice
+
+University/college assignments
+
+📝 Notes
+The database name used is ccc, but the schema uses The Literary Haven as its logical context.
+
+Ensure your SQL environment supports InnoDB (for foreign keys).
+

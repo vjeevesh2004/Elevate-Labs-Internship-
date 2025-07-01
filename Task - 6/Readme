@@ -1,0 +1,110 @@
+## 📊 Monthly Sales Trend Analysis with SQLite
+
+### 📝 Objective:
+
+Analyze online sales data to identify monthly revenue trends and order volumes for performance monitoring and business insights.
+
+---
+
+### 📂 Dataset: `online_sales`
+
+| Column Name | Type     | Description                         |
+| ----------- | -------- | ----------------------------------- |
+| order\_id   | TEXT/INT | Unique ID of the order              |
+| order\_date | DATE     | Date when the order was placed      |
+| amount      | FLOAT    | Total amount of the order in INR/\$ |
+
+---
+
+### 📌 Key Analyses:
+
+#### 🅰️ Extract Month from Order Date
+
+```sql
+SELECT
+    EXTRACT(MONTH FROM order_date) AS month
+FROM
+    online_sales;
+```
+
+#### 🅱️ Extract Year from Order Date
+
+```sql
+SELECT
+    EXTRACT(YEAR FROM order_date) AS year
+FROM
+    online_sales;
+```
+
+#### 🅲 Group Data by Year and Month
+
+```sql
+SELECT
+    EXTRACT(YEAR FROM order_date) AS year,
+    EXTRACT(MONTH FROM order_date) AS month
+FROM
+    online_sales
+GROUP BY
+    EXTRACT(YEAR FROM order_date),
+    EXTRACT(MONTH FROM order_date);
+```
+
+#### 🅳 Calculate Total Revenue per Month
+
+```sql
+SELECT
+    EXTRACT(YEAR FROM order_date) AS year,
+    EXTRACT(MONTH FROM order_date) AS month,
+    SUM(amount) AS total_revenue
+FROM
+    online_sales
+GROUP BY
+    year, month;
+```
+
+#### 🅴 Calculate Distinct Order Volume per Month
+
+```sql
+SELECT
+    EXTRACT(YEAR FROM order_date) AS year,
+    EXTRACT(MONTH FROM order_date) AS month,
+    COUNT(DISTINCT order_id) AS order_volume
+FROM
+    online_sales
+GROUP BY
+    year, month;
+```
+
+#### 🅵 Full Monthly Sales Trend Query
+
+```sql
+SELECT
+    EXTRACT(YEAR FROM order_date) AS year,
+    EXTRACT(MONTH FROM order_date) AS month,
+    SUM(amount) AS total_revenue,
+    COUNT(DISTINCT order_id) AS order_volume
+FROM
+    online_sales
+GROUP BY
+    year, month
+ORDER BY
+    year, month;
+```
+
+#### 🅶 Filter Results for Year 2024
+
+```sql
+SELECT
+    EXTRACT(YEAR FROM order_date) AS year,
+    EXTRACT(MONTH FROM order_date) AS month,
+    SUM(amount) AS total_revenue,
+    COUNT(DISTINCT order_id) AS order_volume
+FROM
+    online_sales
+WHERE
+    EXTRACT(YEAR FROM order_date) = 2024
+GROUP BY
+    year, month
+ORDER BY
+    year, month;
+``

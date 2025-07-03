@@ -1,1 +1,43 @@
-TAsk
+# 🧾 Basic Sales Summary using Python, SQLite, and Matplotlib
+
+This project demonstrates how to generate a basic sales summary using SQL inside Python. It connects to a SQLite database (created from a CSV file), runs queries to calculate total quantity and revenue per product, and visualizes the results using a bar chart.
+
+---
+
+## 📁 Dataset
+
+- **Input File:** `product.csv`
+- **Expected Columns:** `product`, `quantity`, `price`
+
+The CSV is loaded into a SQLite database (`sales_data.db`) and used as the data source for analysis.
+
+---
+
+## ⚙️ Tools & Libraries Used
+
+- Python (3.x)
+- SQLite3 (built-in)
+- Pandas
+- Matplotlib
+
+---
+
+## 🛠️ How It Works
+
+1. Load `product.csv` using pandas.
+2. Create and populate a SQLite database (`sales_data.db`) from the CSV.
+3. Run a SQL query to:
+   - Calculate total quantity sold per product.
+   - Calculate total revenue per product.
+4. Display the results using `print()`.
+5. Generate a bar chart of revenue by product using `matplotlib`.
+
+---
+
+## 📊 Sample Output
+
+product total_qty revenue
+0 Apple 15 7.5
+1 Banana 30 9.0
+2 Orange 20 8.0
+

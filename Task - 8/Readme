@@ -1,1 +1,55 @@
-Task
+# 🎬 The Film Library - Power BI Dashboard
+
+This repository contains a Power BI dashboard project titled **"The Film Library"**. It provides insightful visualizations and analytics for a movie dataset, helping users explore trends, performance, and characteristics of films in the dataset.
+
+## 📊 Dashboard Overview
+
+The dashboard includes:
+
+- 📈 **Revenue and Rating Analysis**: Track trends across revenue, ratings, and budgets.
+- 🎥 **Genre Breakdown**: Analyze performance across different genres.
+- 🌍 **Production Insights**: View distribution and performance by production companies and countries.
+- 🗓️ **Time-based Trends**: Explore movie data by release year or time range.
+- 🧑‍🤝‍🧑 **Cast and Crew**: Insights into directors, actors, and crew impact on performance.
+
+> _Note: All data is fictional or anonymized if not using real movie data._
+
+## 📁 File Contents
+
+- `The Film Library.pbix` – The Power BI project file (open in [Power BI Desktop](https://powerbi.microsoft.com/)).
+
+## 🚀 Getting Started
+
+### Requirements
+
+- [Power BI Desktop](https://powerbi.microsoft.com/) (latest version recommended)
+
+### How to Open
+
+1. Clone or download this repository.
+2. Open `The Film Library.pbix` using Power BI Desktop.
+3. Review or refresh the data (if source is external).
+4. Customize or publish the report to the Power BI Service if needed.
+
+## 📌 Features
+
+- Interactive filters and slicers for year, genre, rating, etc.
+- Dynamic tooltips and bookmarks.
+- Clean and modern visual layout.
+- Designed for both business stakeholders and data analysts.
+
+## 🛠️ Customization
+
+To adapt the dashboard to your own data:
+
+- Replace the data source via **Transform Data > Data Source Settings**.
+- Modify visuals or DAX measures to suit your metrics.
+- Add new pages or KPIs as needed.
+
+## 📃 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## 🙌 Credits
+
+Built with ❤️ using Microsoft Power BI.

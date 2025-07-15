@@ -1,0 +1,1814 @@
+OrderID,ProductCategory,Supplier,Region,OrderValue,MarketingChannel,ReturnStatus,ReturnReason,OrderDate,is_returned,return_probability
+ORD100000,Books,Supplier B,East,496.16,Email,Returned,,01-01-2024,1,0.406238517
+ORD100001,Beauty,Supplier A,South,427.2,Email,Not Returned,,02-01-2024,0,0.469484077
+ORD100003,Beauty,Supplier B,South,465.99,Email,Returned,Damaged,04-01-2024,1,0.425180036
+ORD100004,Beauty,Supplier C,South,67.02,Organic,Not Returned,,05-01-2024,0,0.409194583
+ORD100009,Beauty,Supplier B,South,404.9,Ads,Returned,,10-01-2024,1,0.40239224
+ORD100013,Beauty,Supplier D,East,207.46,Organic,Not Returned,,14-01-2024,0,0.417148484
+ORD100017,Toys,Supplier C,West,488.05,Social Media,Not Returned,,18-01-2024,0,0.407133518
+ORD100018,Clothing,Supplier C,East,324.08,Social Media,Not Returned,,19-01-2024,0,0.416029635
+ORD100019,Books,Supplier C,South,413.02,Email,Returned,,20-01-2024,1,0.447673224
+ORD100020,Beauty,Supplier D,West,74.94,Organic,Not Returned,Other,21-01-2024,0,0.419618195
+ORD100021,Electronics,Supplier A,West,432.39,Email,Not Returned,,22-01-2024,0,0.45719528
+ORD100022,Books,Supplier D,West,462.15,Organic,Not Returned,Other,23-01-2024,0,0.434665799
+ORD100025,Beauty,Supplier B,West,384.76,Email,Not Returned,,26-01-2024,0,0.42252959
+ORD100027,Electronics,Supplier D,East,256.26,Email,Not Returned,,28-01-2024,0,0.431361097
+ORD100028,Electronics,Supplier D,South,205.34,Social Media,Not Returned,,29-01-2024,0,0.415614691
+ORD100034,Toys,Supplier A,East,481.93,Email,Returned,,04-02-2024,1,0.423673258
+ORD100036,Toys,Supplier D,West,483.25,Social Media,Not Returned,,06-02-2024,0,0.413556433
+ORD100038,Books,Supplier C,South,162.79,Email,Returned,Wrong Item,08-02-2024,1,0.429794539
+ORD100042,Beauty,Supplier C,West,324,Social Media,Not Returned,,12-02-2024,0,0.435869934
+ORD100044,Beauty,Supplier D,West,313.6,Organic,Not Returned,Late Delivery,14-02-2024,0,0.436572254
+ORD100046,Clothing,Supplier C,South,84.49,Social Media,Returned,Changed Mind,16-02-2024,1,0.407880825
+ORD100047,Books,Supplier A,West,40.06,Ads,Not Returned,,17-02-2024,0,0.413640227
+ORD100048,Electronics,Supplier D,East,392.57,Email,Returned,,18-02-2024,1,0.441088688
+ORD100049,Books,Supplier A,West,235.3,Ads,Not Returned,Wrong Item,19-02-2024,0,0.427445506
+ORD100051,Clothing,Supplier B,West,497.48,Social Media,Returned,,21-02-2024,1,0.40182388
+ORD100054,Clothing,Supplier C,South,492,Social Media,Not Returned,,24-02-2024,0,0.436721299
+ORD100055,Beauty,Supplier D,South,127.2,Organic,Not Returned,,25-02-2024,0,0.420214214
+ORD100057,Books,Supplier D,South,69.48,Email,Returned,,27-02-2024,1,0.430005615
+ORD100058,Books,Supplier A,South,158.6,Ads,Returned,,28-02-2024,1,0.418908281
+ORD100059,Books,Supplier D,West,59.51,Email,Returned,,29-02-2024,1,0.432415394
+ORD100060,Books,Supplier C,East,349.16,Organic,Returned,,01-03-2024,1,0.408016569
+ORD100061,Beauty,Supplier A,South,40.52,Social Media,Not Returned,,02-03-2024,0,0.42066681
+ORD100064,Electronics,Supplier D,West,408.85,Social Media,Returned,,05-03-2024,1,0.43314574
+ORD100068,Clothing,Supplier C,West,268.25,Organic,Returned,,09-03-2024,1,0.41854361
+ORD100071,Toys,Supplier A,West,444.44,Email,Returned,,12-03-2024,1,0.432910391
+ORD100073,Books,Supplier C,West,105.37,Organic,Not Returned,,14-03-2024,0,0.40268006
+ORD100078,Books,Supplier B,South,386.96,Email,Not Returned,,19-03-2024,0,0.40725155
+ORD100079,Clothing,Supplier A,East,15.41,Social Media,Not Returned,,20-03-2024,0,0.402326426
+ORD100080,Clothing,Supplier C,East,213.92,Ads,Not Returned,,21-03-2024,0,0.410551934
+ORD100084,Toys,Supplier A,South,382.54,Social Media,Not Returned,,25-03-2024,0,0.40461328
+ORD100085,Books,Supplier D,East,77.18,Email,Not Returned,,26-03-2024,0,0.421777635
+ORD100088,Beauty,Supplier A,South,15.94,Organic,Not Returned,,29-03-2024,0,0.413568133
+ORD100089,Beauty,Supplier C,South,128.19,Organic,Returned,,30-03-2024,1,0.413492698
+ORD100090,Clothing,Supplier A,North,488.18,Email,Not Returned,Changed Mind,31-03-2024,0,0.429226885
+ORD100091,Beauty,Supplier A,West,402.75,Email,Returned,,01-04-2024,1,0.470884881
+ORD100092,Clothing,Supplier A,North,480.19,Email,Not Returned,,02-04-2024,0,0.428658946
+ORD100093,Electronics,Supplier A,East,249.05,Ads,Returned,,03-04-2024,1,0.413459533
+ORD100096,Books,Supplier D,East,232.64,Organic,Returned,Changed Mind,06-04-2024,1,0.406598544
+ORD100097,Beauty,Supplier B,East,423.73,Email,Not Returned,,07-04-2024,0,0.413456653
+ORD100102,Electronics,Supplier A,West,371.3,Ads,Not Returned,,12-04-2024,0,0.433987088
+ORD100103,Electronics,Supplier A,West,243.25,Email,Not Returned,Wrong Item,13-04-2024,0,0.44360974
+ORD100105,Books,Supplier D,East,203.29,Email,Not Returned,,15-04-2024,0,0.430727168
+ORD100114,Clothing,Supplier D,West,134.79,Email,Not Returned,Late Delivery,24-04-2024,0,0.442291376
+ORD100115,Clothing,Supplier C,West,422.03,Ads,Not Returned,,25-04-2024,0,0.437161775
+ORD100116,Electronics,Supplier C,West,28.83,Email,Not Returned,Late Delivery,26-04-2024,0,0.420278371
+ORD100119,Books,Supplier D,East,322.23,Email,Not Returned,Changed Mind,29-04-2024,0,0.439209653
+ORD100123,Beauty,Supplier A,West,310.83,Organic,Not Returned,,03-05-2024,0,0.437591385
+ORD100125,Books,Supplier C,East,264.02,Email,Returned,,05-05-2024,1,0.428199627
+ORD100129,Electronics,Supplier D,East,343.31,Social Media,Not Returned,,09-05-2024,0,0.416623106
+ORD100131,Beauty,Supplier C,South,51.55,Email,Returned,,11-05-2024,1,0.434354079
+ORD100132,Toys,Supplier A,West,361,Ads,Not Returned,Damaged,12-05-2024,0,0.408435837
+ORD100135,Beauty,Supplier C,South,15.93,Organic,Not Returned,,15-05-2024,0,0.405615316
+ORD100140,Clothing,Supplier D,North,181.35,Email,Returned,,20-05-2024,1,0.40637058
+ORD100141,Clothing,Supplier A,West,389.58,Ads,Not Returned,Wrong Item,21-05-2024,0,0.442944337
+ORD100142,Books,Supplier A,West,334.07,Email,Not Returned,,22-05-2024,0,0.45329064
+ORD100146,Books,Supplier D,West,333.55,Social Media,Not Returned,,26-05-2024,0,0.430921436
+ORD100147,Beauty,Supplier D,East,384.54,Ads,Not Returned,,27-05-2024,0,0.437414235
+ORD100148,Books,Supplier C,West,139.87,Ads,Not Returned,Wrong Item,28-05-2024,0,0.412689554
+ORD100151,Beauty,Supplier D,North,484.25,Social Media,Not Returned,Wrong Item,31-05-2024,0,0.414805808
+ORD100153,Beauty,Supplier A,North,386.92,Email,Returned,Damaged,02-06-2024,1,0.430007868
+ORD100155,Beauty,Supplier A,West,197.15,Social Media,Not Returned,,04-06-2024,0,0.434904906
+ORD100159,Books,Supplier A,South,389.57,Email,Not Returned,,08-06-2024,0,0.454130145
+ORD100160,Clothing,Supplier A,West,325.51,Social Media,Not Returned,,09-06-2024,0,0.436054673
+ORD100161,Clothing,Supplier A,East,269.85,Email,Not Returned,,10-06-2024,0,0.441189961
+ORD100162,Beauty,Supplier A,East,30.56,Social Media,Not Returned,Damaged,11-06-2024,0,0.411246845
+ORD100164,Electronics,Supplier C,West,401.37,Email,Returned,Changed Mind,13-06-2024,1,0.446820655
+ORD100167,Books,Supplier A,West,304.92,Email,Not Returned,Wrong Item,16-06-2024,0,0.451195207
+ORD100168,Books,Supplier D,West,295.39,Email,Returned,,17-06-2024,1,0.449286454
+ORD100169,Books,Supplier D,South,376.56,Organic,Returned,,18-06-2024,1,0.425460959
+ORD100170,Books,Supplier C,East,407.77,Organic,Not Returned,,19-06-2024,0,0.412130951
+ORD100171,Books,Supplier C,West,331.67,Organic,Not Returned,Other,20-06-2024,0,0.418571203
+ORD100175,Clothing,Supplier C,South,120.06,Ads,Not Returned,Changed Mind,24-06-2024,0,0.412646741
+ORD100176,Books,Supplier C,South,192.36,Ads,Not Returned,,25-06-2024,0,0.413298924
+ORD100177,Electronics,Supplier C,East,221.72,Email,Not Returned,Changed Mind,26-06-2024,0,0.422074888
+ORD100180,Electronics,Supplier D,West,472.11,Organic,Not Returned,,29-06-2024,0,0.43223563
+ORD100181,Electronics,Supplier D,West,127.94,Social Media,Not Returned,,30-06-2024,0,0.413250496
+ORD100184,Electronics,Supplier A,South,444.59,Organic,Not Returned,,03-07-2024,0,0.428372636
+ORD100185,Books,Supplier A,West,326.45,Email,Returned,,04-07-2024,1,0.452742717
+ORD100193,Beauty,Supplier A,South,235.66,Social Media,Not Returned,,12-07-2024,0,0.434525682
+ORD100194,Electronics,Supplier A,West,422.58,Email,Not Returned,,13-07-2024,0,0.456488902
+ORD100196,Clothing,Supplier A,East,390.46,Organic,Not Returned,Late Delivery,15-07-2024,0,0.423356013
+ORD100197,Books,Supplier C,West,331.52,Email,Not Returned,,16-07-2024,0,0.444971759
+ORD100201,Books,Supplier D,North,469.32,Email,Not Returned,,20-07-2024,0,0.42220817
+ORD100205,Clothing,Supplier A,South,365.73,Social Media,Not Returned,Wrong Item,24-07-2024,0,0.435797224
+ORD100206,Books,Supplier C,South,410.71,Ads,Returned,Late Delivery,25-07-2024,1,0.428742816
+ORD100208,Toys,Supplier A,East,257.87,Email,Not Returned,Late Delivery,27-07-2024,0,0.407881224
+ORD100211,Electronics,Supplier A,East,275.7,Social Media,Not Returned,,30-07-2024,0,0.413061151
+ORD100212,Beauty,Supplier C,North,299.27,Email,Not Returned,,31-07-2024,0,0.415775902
+ORD100216,Electronics,Supplier D,South,347.55,Social Media,Not Returned,Late Delivery,04-08-2024,0,0.425671253
+ORD100217,Clothing,Supplier D,North,437.93,Social Media,Not Returned,Damaged,05-08-2024,0,0.403682164
+ORD100218,Clothing,Supplier D,West,321.78,Social Media,Returned,,06-08-2024,1,0.434572818
+ORD100219,Books,Supplier C,East,382.95,Social Media,Not Returned,,07-08-2024,0,0.415736434
+ORD100221,Beauty,Supplier D,East,236.16,Social Media,Not Returned,,09-08-2024,0,0.424556216
+ORD100222,Electronics,Supplier A,West,14.57,Email,Returned,,10-08-2024,1,0.427297862
+ORD100225,Toys,Supplier D,West,495.99,Ads,Not Returned,Wrong Item,13-08-2024,0,0.416730631
+ORD100227,Beauty,Supplier A,South,206.73,Social Media,Not Returned,,15-08-2024,0,0.432464047
+ORD100228,Books,Supplier B,West,402.03,Email,Not Returned,,16-08-2024,0,0.411383814
+ORD100231,Books,Supplier C,South,369.2,Email,Not Returned,,19-08-2024,0,0.444531189
+ORD100234,Electronics,Supplier D,West,184.14,Email,Returned,Wrong Item,22-08-2024,1,0.43816232
+ORD100236,Beauty,Supplier C,South,281.57,Organic,Returned,Damaged,24-08-2024,1,0.424326714
+ORD100237,Books,Supplier C,West,12.56,Ads,Returned,,25-08-2024,1,0.403765094
+ORD100238,Clothing,Supplier A,West,382.89,Email,Not Returned,Changed Mind,26-08-2024,0,0.461345597
+ORD100240,Toys,Supplier C,West,375.41,Ads,Not Returned,,28-08-2024,0,0.40151943
+ORD100247,Beauty,Supplier C,South,439.56,Organic,Returned,Wrong Item,04-09-2024,1,0.435562801
+ORD100252,Books,Supplier D,South,444.24,Organic,Not Returned,,09-09-2024,0,0.430268666
+ORD100254,Clothing,Supplier A,South,201.85,Social Media,Returned,,11-09-2024,1,0.424142121
+ORD100258,Books,Supplier A,South,313.6,Ads,Not Returned,,15-09-2024,0,0.429895426
+ORD100259,Electronics,Supplier A,South,184.19,Email,Returned,,16-09-2024,1,0.436253455
+ORD100260,Electronics,Supplier C,South,399.16,Email,Not Returned,,17-09-2024,0,0.443520938
+ORD100261,Clothing,Supplier D,East,55.57,Social Media,Not Returned,,18-09-2024,0,0.403940465
+ORD100262,Electronics,Supplier D,South,298.22,Ads,Not Returned,Wrong Item,19-09-2024,0,0.424464371
+ORD100264,Books,Supplier D,East,324.74,Ads,Not Returned,Changed Mind,21-09-2024,0,0.420705594
+ORD100265,Electronics,Supplier D,West,41.78,Social Media,Not Returned,,22-09-2024,0,0.407201486
+ORD100267,Clothing,Supplier D,West,285.13,Social Media,Not Returned,,24-09-2024,0,0.43196136
+ORD100271,Books,Supplier A,East,404.44,Organic,Not Returned,,28-09-2024,0,0.41988512
+ORD100272,Clothing,Supplier D,South,142.21,Ads,Returned,,29-09-2024,1,0.421000282
+ORD100273,Electronics,Supplier C,North,414.27,Email,Not Returned,,30-09-2024,0,0.408440842
+ORD100277,Clothing,Supplier C,East,173.78,Email,Not Returned,,04-10-2024,0,0.426267399
+ORD100280,Books,Supplier B,South,396.42,Email,Not Returned,,07-10-2024,0,0.407914393
+ORD100281,Beauty,Supplier C,West,263.46,Organic,Not Returned,,08-10-2024,0,0.426150748
+ORD100282,Beauty,Supplier A,West,225.7,Social Media,Not Returned,Late Delivery,09-10-2024,0,0.436942088
+ORD100284,Electronics,Supplier D,South,170.81,Ads,Not Returned,,11-10-2024,0,0.41545836
+ORD100285,Electronics,Supplier A,West,222.67,Organic,Returned,,12-10-2024,1,0.415767305
+ORD100289,Books,Supplier A,East,370.47,Social Media,Not Returned,,16-10-2024,0,0.422861436
+ORD100291,Electronics,Supplier A,East,467.23,Organic,Returned,Changed Mind,18-10-2024,1,0.421209438
+ORD100292,Books,Supplier A,East,324.86,Ads,Not Returned,,19-10-2024,0,0.421919942
+ORD100294,Electronics,Supplier B,West,321.73,Email,Not Returned,,21-10-2024,0,0.402673965
+ORD100295,Books,Supplier D,West,394.97,Ads,Not Returned,,22-10-2024,0,0.437603694
+ORD100297,Books,Supplier C,South,210.85,Email,Returned,,24-10-2024,1,0.433215676
+ORD100298,Toys,Supplier A,South,421.5,Ads,Not Returned,,25-10-2024,0,0.409605286
+ORD100303,Electronics,Supplier C,East,187.5,Email,Not Returned,Wrong Item,30-10-2024,0,0.419654541
+ORD100305,Clothing,Supplier C,West,22.84,Organic,Returned,,01-11-2024,1,0.4013197
+ORD100306,Toys,Supplier A,South,21.85,Email,Returned,,02-11-2024,1,0.400031366
+ORD100307,Clothing,Supplier C,South,417.53,Email,Not Returned,,03-11-2024,0,0.452524113
+ORD100308,Clothing,Supplier A,East,143.8,Social Media,Not Returned,Late Delivery,04-11-2024,0,0.411316903
+ORD100311,Beauty,Supplier B,West,470.93,Organic,Not Returned,,07-11-2024,0,0.402497576
+ORD100313,Books,Supplier A,West,220.53,Organic,Not Returned,,09-11-2024,0,0.4187253
+ORD100317,Toys,Supplier C,East,403.3,Email,Not Returned,,13-11-2024,0,0.410133405
+ORD100318,Beauty,Supplier C,South,234.51,Organic,Not Returned,,14-11-2024,0,0.420994375
+ORD100319,Books,Supplier D,East,246.65,Social Media,Not Returned,,15-11-2024,0,0.412918223
+ORD100322,Electronics,Supplier C,West,366.69,Social Media,Not Returned,Late Delivery,18-11-2024,0,0.423309858
+ORD100330,Toys,Supplier A,East,378.17,Email,Not Returned,,26-11-2024,0,0.416338662
+ORD100331,Toys,Supplier D,West,331.91,Email,Returned,,27-11-2024,1,0.423703809
+ORD100332,Beauty,Supplier C,South,478.74,Ads,Not Returned,,28-11-2024,0,0.446115213
+ORD100338,Beauty,Supplier D,West,454.06,Email,Not Returned,,04-12-2024,0,0.473363024
+ORD100341,Books,Supplier D,East,382.11,Ads,Not Returned,,07-12-2024,0,0.424768177
+ORD100343,Beauty,Supplier A,West,390.59,Social Media,Not Returned,Late Delivery,09-12-2024,0,0.448747375
+ORD100344,Books,Supplier D,South,42.03,Ads,Not Returned,,10-12-2024,0,0.409500784
+ORD100345,Beauty,Supplier A,East,248.91,Email,Returned,,11-12-2024,1,0.447731837
+ORD100349,Electronics,Supplier C,South,78.23,Ads,Not Returned,,15-12-2024,0,0.402213774
+ORD100354,Beauty,Supplier A,West,20.69,Email,Returned,Wrong Item,20-12-2024,1,0.443378731
+ORD100356,Beauty,Supplier C,South,482.06,Ads,Returned,,22-12-2024,1,0.446353282
+ORD100359,Books,Supplier A,South,35.61,Ads,Returned,,25-12-2024,1,0.410246476
+ORD100361,Beauty,Supplier D,West,137.48,Social Media,Returned,,27-12-2024,1,0.429442049
+ORD100362,Beauty,Supplier B,West,368.1,Social Media,Not Returned,,28-12-2024,0,0.400629163
+ORD100365,Beauty,Supplier C,West,330.55,Email,Not Returned,Wrong Item,31-12-2024,0,0.457495787
+ORD100367,Books,Supplier D,South,287.01,Email,Not Returned,Wrong Item,02-01-2025,0,0.445540863
+ORD100368,Electronics,Supplier A,West,237.33,Organic,Not Returned,Late Delivery,03-01-2025,0,0.416801021
+ORD100369,Books,Supplier C,West,486.28,Email,Not Returned,,04-01-2025,0,0.456088659
+ORD100370,Beauty,Supplier A,West,308.18,Ads,Returned,,05-01-2025,1,0.445153857
+ORD100371,Beauty,Supplier D,South,181.26,Social Media,Returned,,06-01-2025,1,0.429438637
+ORD100374,Clothing,Supplier C,West,120.41,Social Media,Not Returned,Damaged,09-01-2025,0,0.413481567
+ORD100376,Clothing,Supplier C,West,426.8,Social Media,Returned,Wrong Item,11-01-2025,1,0.435196273
+ORD100378,Clothing,Supplier C,North,266.46,Email,Returned,Wrong Item,13-01-2025,1,0.405589039
+ORD100380,Toys,Supplier D,West,431.47,Organic,Not Returned,,15-01-2025,0,0.404590716
+ORD100383,Clothing,Supplier A,East,356.84,Ads,Not Returned,,18-01-2025,0,0.428658523
+ORD100385,Clothing,Supplier A,West,50.05,Email,Not Returned,,20-01-2025,0,0.437451337
+ORD100386,Clothing,Supplier B,South,234.57,Email,Not Returned,,21-01-2025,0,0.401007184
+ORD100387,Clothing,Supplier D,East,247.5,Email,Returned,Late Delivery,22-01-2025,1,0.438373528
+ORD100388,Electronics,Supplier D,South,91.23,Social Media,Not Returned,Late Delivery,23-01-2025,0,0.407595353
+ORD100389,Electronics,Supplier C,East,473.39,Email,Not Returned,,24-01-2025,0,0.439983136
+ORD100394,Clothing,Supplier C,West,328.98,Email,Returned,,29-01-2025,1,0.449310967
+ORD100398,Electronics,Supplier D,West,405.14,Email,Returned,,02-02-2025,1,0.454007257
+ORD100403,Books,Supplier C,South,136.72,Email,Not Returned,Damaged,07-02-2025,0,0.427941533
+ORD100404,Beauty,Supplier C,West,90.71,Ads,Not Returned,Changed Mind,08-02-2025,0,0.421587005
+ORD100405,Books,Supplier D,West,171.81,Organic,Not Returned,,09-02-2025,0,0.414087749
+ORD100406,Electronics,Supplier A,West,380.81,Social Media,Not Returned,,10-02-2025,0,0.43236245
+ORD100409,Books,Supplier C,South,440.14,Email,Not Returned,,13-02-2025,0,0.449619926
+ORD100411,Books,Supplier C,South,436.58,Ads,Not Returned,,15-02-2025,0,0.430582449
+ORD100412,Clothing,Supplier D,South,127.01,Ads,Returned,,16-02-2025,1,0.41992548
+ORD100419,Beauty,Supplier A,North,455.52,Social Media,Not Returned,,23-02-2025,0,0.413982882
+ORD100421,Clothing,Supplier C,South,253.93,Ads,Not Returned,,25-02-2025,0,0.422092973
+ORD100422,Clothing,Supplier D,West,61.68,Social Media,Not Returned,,26-02-2025,0,0.416126438
+ORD100425,Books,Supplier C,South,196.41,Social Media,Returned,,01-03-2025,1,0.411311705
+ORD100426,Clothing,Supplier A,West,390.05,Organic,Not Returned,,02-03-2025,0,0.435234441
+ORD100427,Toys,Supplier D,East,482.59,Email,Returned,Late Delivery,03-03-2025,1,0.422512778
+ORD100430,Books,Supplier C,South,150.7,Email,Not Returned,,06-03-2025,0,0.428934957
+ORD100431,Beauty,Supplier C,East,398.5,Organic,Not Returned,,07-03-2025,0,0.423849222
+ORD100432,Electronics,Supplier D,South,293.02,Ads,Returned,,08-03-2025,1,0.424095781
+ORD100434,Books,Supplier C,East,400.98,Ads,Not Returned,,10-03-2025,0,0.419289136
+ORD100437,Beauty,Supplier D,West,271.18,Social Media,Not Returned,,13-03-2025,0,0.438973251
+ORD100444,Books,Supplier A,West,145.68,Email,Not Returned,,20-03-2025,0,0.439780753
+ORD100445,Beauty,Supplier D,West,491.93,Email,Not Returned,,21-03-2025,0,0.476103335
+ORD100446,Clothing,Supplier C,West,78.95,Ads,Not Returned,,22-03-2025,0,0.412837917
+ORD100447,Books,Supplier D,West,108.99,Ads,Returned,Changed Mind,23-03-2025,1,0.417296764
+ORD100451,Electronics,Supplier D,East,84.53,Ads,Returned,,27-03-2025,1,0.400743223
+ORD100453,Books,Supplier D,South,311.5,Organic,Not Returned,,29-03-2025,0,0.420852606
+ORD100454,Clothing,Supplier D,East,50.9,Social Media,Not Returned,,30-03-2025,0,0.403614221
+ORD100455,Clothing,Supplier B,South,442.38,Email,Returned,,31-03-2025,1,0.415574657
+ORD100456,Beauty,Supplier C,South,403.77,Organic,Not Returned,,01-04-2025,0,0.433011218
+ORD100457,Clothing,Supplier D,West,257.55,Organic,Returned,,02-04-2025,1,0.424599143
+ORD100458,Beauty,Supplier D,South,483.89,Social Media,Returned,Other,03-04-2025,1,0.451076298
+ORD100460,Electronics,Supplier A,South,492.21,Ads,Returned,,05-04-2025,1,0.439489535
+ORD100462,Beauty,Supplier A,South,320.99,Email,Returned,,07-04-2025,1,0.46181544
+ORD100465,Clothing,Supplier C,North,219.47,Email,Not Returned,,10-04-2025,0,0.402305902
+ORD100466,Electronics,Supplier D,West,89.49,Organic,Not Returned,Late Delivery,11-04-2025,0,0.405218791
+ORD100470,Electronics,Supplier C,North,362.48,Email,Returned,Changed Mind,15-04-2025,1,0.404814707
+ORD100471,Beauty,Supplier A,North,446.23,Ads,Not Returned,,16-04-2025,0,0.415604527
+ORD100472,Beauty,Supplier C,West,48.91,Social Media,Not Returned,,17-04-2025,0,0.416351722
+ORD100473,Electronics,Supplier A,South,368.43,Email,Returned,,18-04-2025,1,0.449443966
+ORD100474,Beauty,Supplier C,West,101.83,Social Media,Not Returned,,19-04-2025,0,0.420088155
+ORD100475,Beauty,Supplier D,West,430.51,Email,Returned,,20-04-2025,1,0.471659721
+ORD100477,Beauty,Supplier C,East,274.99,Email,Not Returned,,22-04-2025,0,0.44148052
+ORD100479,Books,Supplier A,East,164.03,Organic,Not Returned,Changed Mind,24-04-2025,0,0.402993262
+ORD100485,Beauty,Supplier A,West,415.84,Organic,Not Returned,Other,30-04-2025,0,0.445104507
+ORD100487,Books,Supplier C,West,95.14,Ads,Not Returned,,02-05-2025,0,0.409547106
+ORD100489,Electronics,Supplier C,East,414.73,Email,Returned,,04-05-2025,1,0.435793259
+ORD100495,Books,Supplier D,West,376.92,Social Media,Not Returned,,10-05-2025,0,0.434010364
+ORD100496,Clothing,Supplier A,South,329.06,Ads,Not Returned,,11-05-2025,0,0.43548629
+ORD100497,Clothing,Supplier A,South,314.25,Organic,Not Returned,,12-05-2025,0,0.426721464
+ORD100503,Beauty,Supplier A,South,71.87,Organic,Returned,,18-05-2025,1,0.417509851
+ORD100506,Toys,Supplier D,East,346.3,Email,Returned,,21-05-2025,1,0.412893622
+ORD100509,Clothing,Supplier D,North,429.31,Social Media,Returned,Damaged,24-05-2025,1,0.403080165
+ORD100511,Clothing,Supplier A,East,420.15,Social Media,Not Returned,,26-05-2025,0,0.43086295
+ORD100514,Clothing,Supplier D,North,350.13,Email,Not Returned,,29-05-2025,0,0.418237654
+ORD100517,Beauty,Supplier C,West,114.2,Ads,Returned,Damaged,01-06-2025,1,0.423250091
+ORD100518,Books,Supplier D,South,26.26,Social Media,Not Returned,,02-06-2025,0,0.406131205
+ORD100519,Clothing,Supplier D,West,158.93,Email,Returned,,03-06-2025,1,0.44402001
+ORD100523,Books,Supplier A,East,385.37,Ads,Not Returned,Damaged,07-06-2025,0,0.426208447
+ORD100525,Clothing,Supplier A,South,335.84,Organic,Returned,,09-06-2025,1,0.428254798
+ORD100528,Electronics,Supplier A,South,338.66,Organic,Not Returned,,12-06-2025,0,0.420862627
+ORD100534,Books,Supplier C,East,277.86,Email,Not Returned,Damaged,18-06-2025,0,0.429183248
+ORD100536,Electronics,Supplier D,South,488.63,Ads,Not Returned,Changed Mind,20-06-2025,0,0.438015788
+ORD100540,Books,Supplier A,West,372.55,Social Media,Not Returned,,24-06-2025,0,0.434914021
+ORD100542,Beauty,Supplier C,West,147.22,Ads,Not Returned,,26-06-2025,0,0.425590835
+ORD100543,Books,Supplier A,South,430.59,Social Media,Not Returned,Wrong Item,27-06-2025,0,0.435927852
+ORD100546,Beauty,Supplier B,West,379.44,Email,Returned,,30-06-2025,1,0.422152954
+ORD100548,Clothing,Supplier A,South,18.82,Ads,Not Returned,,02-07-2025,0,0.413496745
+ORD100550,Electronics,Supplier D,East,366.07,Social Media,Not Returned,,04-07-2025,0,0.418229228
+ORD100551,Clothing,Supplier A,West,159.33,Social Media,Not Returned,,05-07-2025,0,0.42423483
+ORD100552,Beauty,Supplier B,South,416.4,Email,Not Returned,,06-07-2025,0,0.421666859
+ORD100555,Clothing,Supplier A,East,65.16,Organic,Not Returned,,09-07-2025,0,0.400493562
+ORD100556,Toys,Supplier A,West,354.81,Organic,Not Returned,,10-07-2025,0,0.400430238
+ORD100559,Electronics,Supplier D,South,128.53,Ads,Returned,,13-07-2025,1,0.412481911
+ORD100561,Clothing,Supplier A,East,239.7,Email,Not Returned,Late Delivery,15-07-2025,0,0.439034069
+ORD100564,Beauty,Supplier A,South,155.65,Email,Returned,,18-07-2025,1,0.449914656
+ORD100566,Beauty,Supplier A,East,374.16,Email,Returned,Wrong Item,20-07-2025,1,0.456735095
+ORD100569,Beauty,Supplier C,East,427.61,Email,Not Returned,,23-07-2025,0,0.452427472
+ORD100570,Beauty,Supplier D,South,337.22,Email,Returned,,24-07-2025,1,0.461756732
+ORD100572,Books,Supplier D,South,447.23,Organic,Not Returned,,26-07-2025,0,0.430481373
+ORD100573,Clothing,Supplier A,South,100.81,Social Media,Not Returned,,27-07-2025,0,0.416997155
+ORD100575,Electronics,Supplier A,South,127.36,Ads,Not Returned,,29-07-2025,0,0.41359868
+ORD100579,Books,Supplier A,North,497.76,Social Media,Returned,,02-08-2025,1,0.404649652
+ORD100580,Clothing,Supplier B,West,429.29,Email,Returned,Damaged,03-08-2025,1,0.41774263
+ORD100581,Electronics,Supplier A,East,265.51,Ads,Returned,Other,04-08-2025,1,0.414618351
+ORD100590,Toys,Supplier C,West,440.7,Ads,Not Returned,,13-08-2025,0,0.406080612
+ORD100591,Electronics,Supplier A,South,290.17,Email,Returned,,14-08-2025,1,0.443831212
+ORD100593,Toys,Supplier A,West,220.91,Email,Not Returned,,16-08-2025,0,0.417060578
+ORD100594,Books,Supplier D,North,165.3,Email,Not Returned,,17-08-2025,0,0.400846942
+ORD100597,Beauty,Supplier A,South,304.94,Organic,Not Returned,,20-08-2025,0,0.43404397
+ORD100600,Electronics,Supplier D,South,307.47,Ads,Not Returned,,23-08-2025,0,0.425120243
+ORD100601,Books,Supplier C,West,319.34,Email,Not Returned,,24-08-2025,0,0.444099017
+ORD100602,Books,Supplier D,South,299.93,Ads,Not Returned,,25-08-2025,0,0.427712416
+ORD100603,Beauty,Supplier D,East,354.29,Email,Not Returned,Changed Mind,26-08-2025,0,0.454078423
+ORD100607,Electronics,Supplier D,North,198.41,Email,Not Returned,,30-08-2025,0,0.400083877
+ORD100608,Books,Supplier C,West,248.96,Ads,Not Returned,Late Delivery,31-08-2025,0,0.420382946
+ORD100613,Beauty,Supplier D,East,258.07,Social Media,Not Returned,,05-09-2025,0,0.42611026
+ORD100616,Books,Supplier A,West,134.65,Organic,Not Returned,Wrong Item,08-09-2025,0,0.412672205
+ORD100617,Electronics,Supplier D,South,187.31,Organic,Not Returned,Damaged,09-09-2025,0,0.409000506
+ORD100620,Beauty,Supplier D,South,78.61,Social Media,Not Returned,,12-09-2025,0,0.422155901
+ORD100621,Books,Supplier C,West,145.64,Email,Returned,,13-09-2025,1,0.431692797
+ORD100622,Beauty,Supplier D,South,486.05,Ads,Not Returned,,14-09-2025,0,0.453554352
+ORD100623,Electronics,Supplier C,East,172.36,Ads,Not Returned,,15-09-2025,0,0.400154655
+ORD100624,Beauty,Supplier C,South,246.2,Organic,Returned,,16-09-2025,1,0.42182149
+ORD100625,Beauty,Supplier D,South,106.09,Ads,Not Returned,,17-09-2025,0,0.42639406
+ORD100626,Clothing,Supplier C,South,309.28,Organic,Returned,Other,18-09-2025,1,0.418346026
+ORD100629,Clothing,Supplier C,East,263.12,Email,Not Returned,,21-09-2025,0,0.432619541
+ORD100630,Beauty,Supplier A,East,12.7,Social Media,Returned,,22-09-2025,1,0.40999257
+ORD100636,Books,Supplier A,South,403.27,Ads,Not Returned,Changed Mind,28-09-2025,0,0.436284074
+ORD100637,Electronics,Supplier A,East,290.3,Email,Not Returned,Other,29-09-2025,0,0.435000857
+ORD100640,Books,Supplier A,East,466.56,Email,Not Returned,,02-10-2025,0,0.450774517
+ORD100641,Electronics,Supplier A,North,204.54,Email,Not Returned,,03-10-2025,0,0.401699013
+ORD100642,Beauty,Supplier A,West,52.68,Email,Not Returned,Changed Mind,04-10-2025,0,0.445670918
+ORD100645,Beauty,Supplier D,East,179.16,Email,Returned,,07-10-2025,1,0.441512566
+ORD100647,Electronics,Supplier A,East,438.37,Email,Not Returned,,09-10-2025,0,0.445589216
+ORD100648,Clothing,Supplier C,West,251.84,Ads,Returned,Other,10-10-2025,1,0.425050157
+ORD100650,Clothing,Supplier C,North,496.48,Social Media,Not Returned,,12-10-2025,0,0.401049511
+ORD100652,Beauty,Supplier A,North,144.62,Email,Not Returned,,14-10-2025,0,0.412865742
+ORD100653,Beauty,Supplier D,West,203.34,Organic,Not Returned,,15-10-2025,0,0.428718615
+ORD100660,Books,Supplier C,East,413.66,Ads,Returned,,22-10-2025,1,0.420185321
+ORD100661,Electronics,Supplier A,West,477.98,Ads,Returned,Changed Mind,23-10-2025,1,0.441606402
+ORD100662,Electronics,Supplier D,South,412.39,Social Media,Not Returned,,24-10-2025,0,0.430277517
+ORD100663,Beauty,Supplier C,South,10.77,Email,Not Returned,Late Delivery,25-10-2025,0,0.431448922
+ORD100664,Books,Supplier C,South,321.84,Organic,Not Returned,,26-10-2025,0,0.414786627
+ORD100665,Books,Supplier A,South,35.06,Ads,Returned,,27-10-2025,1,0.410207862
+ORD100669,Beauty,Supplier A,North,346.43,Social Media,Not Returned,Wrong Item,31-10-2025,0,0.406324509
+ORD100673,Clothing,Supplier D,South,190.84,Email,Returned,,04-11-2025,1,0.443166406
+ORD100678,Beauty,Supplier D,South,49.29,Organic,Not Returned,,09-11-2025,0,0.414716193
+ORD100680,Clothing,Supplier A,West,471.45,Ads,Returned,Wrong Item,11-11-2025,1,0.448814054
+ORD100683,Clothing,Supplier A,West,187.34,Ads,Not Returned,Late Delivery,14-11-2025,0,0.428516047
+ORD100687,Electronics,Supplier D,West,457.51,Organic,Returned,,18-11-2025,1,0.431196207
+ORD100688,Electronics,Supplier A,East,310.16,Organic,Not Returned,,19-11-2025,0,0.410139198
+ORD100690,Beauty,Supplier A,West,364.75,Organic,Not Returned,,21-11-2025,0,0.441445832
+ORD100691,Books,Supplier D,East,69.07,Email,Returned,Wrong Item,22-11-2025,1,0.421203789
+ORD100692,Toys,Supplier C,South,452.2,Email,Not Returned,Late Delivery,23-11-2025,0,0.422300331
+ORD100695,Electronics,Supplier A,West,79.65,Email,Not Returned,,26-11-2025,0,0.43192558
+ORD100701,Clothing,Supplier D,East,31.43,Social Media,Not Returned,,02-12-2025,0,0.402254974
+ORD100702,Books,Supplier C,East,70.27,Email,Not Returned,,03-12-2025,0,0.414492549
+ORD100703,Beauty,Supplier A,West,283.73,Email,Not Returned,Damaged,04-12-2025,0,0.46228918
+ORD100704,Beauty,Supplier C,East,178.15,Email,Not Returned,,05-12-2025,0,0.434563188
+ORD100706,Beauty,Supplier A,West,329.62,Social Media,Not Returned,,07-12-2025,0,0.444374774
+ORD100711,Beauty,Supplier C,East,144.94,Email,Not Returned,,12-12-2025,0,0.432196698
+ORD100712,Books,Supplier A,East,160.09,Social Media,Returned,,13-12-2025,1,0.4080368
+ORD100715,Books,Supplier C,North,401.21,Email,Returned,,16-12-2025,1,0.41061631
+ORD100716,Electronics,Supplier D,South,412.99,Ads,Not Returned,Late Delivery,17-12-2025,0,0.432620265
+ORD100717,Clothing,Supplier D,East,430.21,Social Media,Not Returned,,18-12-2025,0,0.430366042
+ORD100718,Electronics,Supplier B,South,459.15,Email,Not Returned,,19-12-2025,0,0.40922338
+ORD100719,Electronics,Supplier C,South,221.18,Ads,Returned,Damaged,20-12-2025,1,0.41222681
+ORD100721,Electronics,Supplier A,West,295.28,Social Media,Not Returned,,22-12-2025,0,0.426281619
+ORD100726,Electronics,Supplier C,East,193.53,Email,Not Returned,,27-12-2025,0,0.42008076
+ORD100729,Clothing,Supplier C,West,79.87,Ads,Not Returned,Other,30-12-2025,0,0.412902633
+ORD100731,Books,Supplier C,West,179.48,Ads,Not Returned,Late Delivery,01-01-2026,0,0.415478264
+ORD100732,Books,Supplier A,West,85.69,Social Media,Returned,Other,02-01-2026,1,0.414577904
+ORD100734,Clothing,Supplier C,West,326.45,Ads,Not Returned,Other,04-01-2026,0,0.430349616
+ORD100735,Books,Supplier D,South,322.08,Organic,Not Returned,,05-01-2026,0,0.421601096
+ORD100736,Books,Supplier C,South,176.9,Social Media,Not Returned,Other,06-01-2026,0,0.409941547
+ORD100737,Clothing,Supplier D,South,45.14,Email,Not Returned,,07-01-2026,0,0.432759515
+ORD100740,Clothing,Supplier B,West,341.79,Email,Not Returned,,10-01-2026,0,0.411579824
+ORD100741,Books,Supplier C,South,306.83,Organic,Not Returned,Damaged,11-01-2026,0,0.413729727
+ORD100743,Beauty,Supplier C,South,116.77,Ads,Not Returned,Changed Mind,13-01-2026,0,0.420330213
+ORD100744,Electronics,Supplier D,East,494.14,Social Media,Not Returned,,14-01-2026,0,0.42729827
+ORD100748,Electronics,Supplier D,South,247.94,Social Media,Returned,,18-01-2026,1,0.418620238
+ORD100751,Beauty,Supplier D,East,482.37,Social Media,Not Returned,,21-01-2026,0,0.442098309
+ORD100752,Books,Supplier A,East,198.26,Email,Not Returned,,22-01-2026,0,0.431582218
+ORD100753,Beauty,Supplier D,East,29.11,Social Media,Not Returned,,23-01-2026,0,0.409948066
+ORD100754,Books,Supplier A,West,25.17,Social Media,Not Returned,,24-01-2026,0,0.410322037
+ORD100756,Beauty,Supplier A,South,88.41,Email,Not Returned,,26-01-2026,0,0.445090448
+ORD100759,Beauty,Supplier A,West,234.68,Email,Not Returned,,29-01-2026,0,0.458752977
+ORD100760,Toys,Supplier D,West,151.73,Email,Not Returned,Other,30-01-2026,0,0.410990366
+ORD100761,Clothing,Supplier A,West,451.04,Social Media,Returned,,31-01-2026,1,0.445032396
+ORD100763,Beauty,Supplier D,South,478.4,Organic,Not Returned,Wrong Item,02-02-2026,0,0.445225493
+ORD100765,Clothing,Supplier B,South,445.32,Email,Returned,,04-02-2026,1,0.415781877
+ORD100767,Toys,Supplier C,West,415.09,Email,Returned,,06-02-2026,1,0.422776
+ORD100770,Beauty,Supplier B,South,480.96,Ads,Not Returned,,09-02-2026,0,0.407711083
+ORD100771,Beauty,Supplier C,East,200.85,Ads,Not Returned,,10-02-2026,0,0.41753381
+ORD100774,Electronics,Supplier A,East,275.29,Email,Returned,,13-02-2026,1,0.433930642
+ORD100776,Electronics,Supplier D,South,281.32,Organic,Not Returned,,15-02-2026,0,0.41561069
+ORD100778,Beauty,Supplier C,South,383.33,Organic,Returned,,17-02-2026,1,0.431555569
+ORD100779,Clothing,Supplier C,West,418.49,Organic,Not Returned,,18-02-2026,0,0.429189831
+ORD100785,Beauty,Supplier A,West,177.8,Ads,Returned,,24-02-2026,1,0.435829524
+ORD100786,Electronics,Supplier A,South,142.42,Ads,Returned,,25-02-2026,1,0.414659004
+ORD100788,Electronics,Supplier A,North,283.28,Email,Not Returned,,27-02-2026,0,0.407202647
+ORD100790,Electronics,Supplier A,West,294.43,Social Media,Returned,,01-03-2026,1,0.426221296
+ORD100791,Beauty,Supplier D,West,78.21,Organic,Not Returned,,02-03-2026,0,0.419849308
+ORD100793,Books,Supplier D,North,316.85,Email,Not Returned,,04-03-2026,0,0.411453536
+ORD100794,Electronics,Supplier C,South,249.56,Social Media,Returned,Damaged,05-03-2026,1,0.41195039
+ORD100795,Beauty,Supplier A,East,206.87,Organic,Returned,,06-03-2026,1,0.418309845
+ORD100799,Beauty,Supplier C,West,288.99,Ads,Not Returned,,10-03-2026,0,0.435677418
+ORD100800,Beauty,Supplier C,East,314.12,Ads,Returned,,11-03-2026,1,0.425548614
+ORD100801,Beauty,Supplier D,West,108.64,Social Media,Not Returned,Damaged,12-03-2026,0,0.427392697
+ORD100802,Beauty,Supplier A,West,203.62,Social Media,Not Returned,,13-03-2026,0,0.435366382
+ORD100803,Clothing,Supplier A,East,29.34,Email,Returned,,14-03-2026,1,0.424060466
+ORD100806,Electronics,Supplier C,South,121.6,Ads,Not Returned,,17-03-2026,0,0.405243458
+ORD100807,Beauty,Supplier A,East,482.37,Social Media,Not Returned,,18-03-2026,0,0.443318556
+ORD100809,Electronics,Supplier D,South,363.85,Ads,Not Returned,,20-03-2026,0,0.429123492
+ORD100816,Toys,Supplier A,East,145.13,Email,Not Returned,,27-03-2026,0,0.4000044
+ORD100817,Electronics,Supplier D,West,439.77,Ads,Not Returned,Other,28-03-2026,0,0.437656377
+ORD100818,Electronics,Supplier A,South,472.58,Organic,Returned,,29-03-2026,1,0.430362687
+ORD100821,Clothing,Supplier C,North,490.68,Social Media,Not Returned,Late Delivery,01-04-2026,0,0.400645289
+ORD100822,Clothing,Supplier A,North,246.87,Email,Returned,,02-04-2026,1,0.412162987
+ORD100823,Clothing,Supplier C,South,433.14,Organic,Not Returned,,03-04-2026,0,0.427116782
+ORD100824,Toys,Supplier A,West,298.48,Email,Not Returned,,04-04-2026,0,0.422543166
+ORD100828,Clothing,Supplier D,West,383.28,Social Media,Not Returned,,08-04-2026,0,0.438963038
+ORD100829,Books,Supplier C,East,199.4,Email,Returned,,09-04-2026,1,0.423614655
+ORD100832,Books,Supplier A,South,292.87,Social Media,Not Returned,Other,12-04-2026,0,0.42612722
+ORD100833,Beauty,Supplier A,North,434.13,Ads,Not Returned,,13-04-2026,0,0.414751978
+ORD100838,Electronics,Supplier D,South,291.03,Social Media,Not Returned,,18-04-2026,0,0.421666513
+ORD100839,Beauty,Supplier C,North,478.46,Organic,Returned,,19-04-2026,1,0.402317839
+ORD100842,Clothing,Supplier C,East,428.44,Email,Not Returned,,22-04-2026,0,0.444431027
+ORD100846,Books,Supplier A,East,40.6,Email,Returned,Other,26-04-2026,1,0.420395673
+ORD100847,Clothing,Supplier C,South,442.9,Email,Not Returned,,27-04-2026,0,0.454348652
+ORD100850,Clothing,Supplier C,East,317.03,Email,Not Returned,Wrong Item,30-04-2026,0,0.436463467
+ORD100851,Clothing,Supplier D,North,463.93,Email,Not Returned,Damaged,01-05-2026,0,0.426293696
+ORD100856,Books,Supplier A,West,349.34,Organic,Not Returned,,06-05-2026,0,0.427849755
+ORD100857,Electronics,Supplier C,South,75.87,Email,Returned,,07-05-2026,1,0.420505484
+ORD100858,Toys,Supplier A,East,156.7,Email,Not Returned,,08-05-2026,0,0.400810461
+ORD100865,Beauty,Supplier A,North,498.93,Social Media,Not Returned,Changed Mind,15-05-2026,0,0.417042193
+ORD100866,Beauty,Supplier A,South,341.64,Email,Not Returned,,16-05-2026,0,0.463305123
+ORD100868,Clothing,Supplier C,West,154.36,Social Media,Returned,,18-05-2026,1,0.415872792
+ORD100871,Electronics,Supplier A,West,418.73,Social Media,Not Returned,,21-05-2026,0,0.435065054
+ORD100872,Books,Supplier A,East,372.83,Ads,Not Returned,,22-05-2026,0,0.425318769
+ORD100874,Beauty,Supplier C,West,379.18,Ads,Not Returned,,24-05-2026,0,0.44212258
+ORD100875,Clothing,Supplier C,North,386.77,Email,Not Returned,,25-05-2026,0,0.414032887
+ORD100877,Beauty,Supplier A,South,385.4,Email,Not Returned,,27-05-2026,0,0.466464086
+ORD100879,Beauty,Supplier D,East,310.67,Ads,Not Returned,,29-05-2026,0,0.432146464
+ORD100885,Electronics,Supplier C,West,42.34,Ads,Returned,,04-06-2026,1,0.402767745
+ORD100889,Books,Supplier A,West,474.37,Organic,Not Returned,Wrong Item,08-06-2026,0,0.436753695
+ORD100895,Clothing,Supplier A,East,255.31,Social Media,Not Returned,,14-06-2026,0,0.419173926
+ORD100896,Beauty,Supplier D,South,399.31,Organic,Not Returned,,15-06-2026,0,0.439564019
+ORD100897,Clothing,Supplier A,West,356.47,Email,Returned,,16-06-2026,1,0.459440949
+ORD100900,Beauty,Supplier A,East,207.41,Email,Not Returned,,19-06-2026,0,0.444755969
+ORD100901,Beauty,Supplier D,South,154.69,Email,Returned,Wrong Item,20-06-2026,1,0.448621977
+ORD100903,Books,Supplier A,South,147.69,Ads,Not Returned,,22-06-2026,0,0.418137817
+ORD100905,Beauty,Supplier C,West,465.32,Organic,Not Returned,Changed Mind,24-06-2026,0,0.440533615
+ORD100907,Beauty,Supplier D,South,453.99,Organic,Not Returned,,26-06-2026,0,0.443476572
+ORD100909,Electronics,Supplier C,East,243.45,Email,Not Returned,Changed Mind,28-06-2026,0,0.423613782
+ORD100910,Beauty,Supplier D,South,120.75,Email,Not Returned,,29-06-2026,0,0.446187001
+ORD100911,Electronics,Supplier A,East,323.83,Social Media,Not Returned,,30-06-2026,0,0.416451308
+ORD100912,Books,Supplier A,South,489.7,Email,Not Returned,,01-07-2026,0,0.461342188
+ORD100913,Clothing,Supplier C,West,305.71,Ads,Not Returned,Damaged,02-07-2026,0,0.428874822
+ORD100916,Electronics,Supplier D,West,70.23,Organic,Not Returned,Wrong Item,05-07-2026,0,0.403872472
+ORD100918,Clothing,Supplier A,West,256.51,Email,Not Returned,,07-07-2026,0,0.452245895
+ORD100922,Clothing,Supplier A,East,45.17,Social Media,Returned,,11-07-2026,1,0.40440476
+ORD100923,Electronics,Supplier C,East,344.48,Email,Not Returned,Damaged,12-07-2026,0,0.430787637
+ORD100926,Toys,Supplier D,West,413.04,Social Media,Not Returned,Changed Mind,15-07-2026,0,0.40862405
+ORD100928,Beauty,Supplier C,South,280.73,Organic,Not Returned,,17-07-2026,0,0.424267172
+ORD100931,Books,Supplier C,East,389.92,Social Media,Not Returned,,20-07-2026,0,0.416227805
+ORD100932,Electronics,Supplier A,West,142.99,Social Media,Returned,,21-07-2026,1,0.415510525
+ORD100933,Electronics,Supplier D,West,253.38,Ads,Returned,,22-07-2026,1,0.424392631
+ORD100938,Toys,Supplier D,West,376.84,Email,Not Returned,,27-07-2026,0,0.426890549
+ORD100939,Clothing,Supplier D,East,165.62,Organic,Returned,,28-07-2026,1,0.406319164
+ORD100940,Books,Supplier A,West,10.07,Social Media,Not Returned,,29-07-2026,0,0.409262243
+ORD100943,Beauty,Supplier A,East,145.32,Social Media,Returned,Wrong Item,01-08-2026,1,0.419333104
+ORD100944,Clothing,Supplier A,West,356.42,Email,Not Returned,,02-08-2026,0,0.459437346
+ORD100951,Books,Supplier C,West,59.93,Social Media,Not Returned,,09-08-2026,0,0.404817487
+ORD100954,Clothing,Supplier D,North,422.93,Email,Returned,,12-08-2026,1,0.423386511
+ORD100955,Toys,Supplier D,South,163.54,Email,Not Returned,,13-08-2026,0,0.40874306
+ORD100958,Electronics,Supplier C,South,222.57,Email,Not Returned,Late Delivery,16-08-2026,0,0.430912676
+ORD100959,Beauty,Supplier A,South,455.87,Ads,Not Returned,,17-08-2026,0,0.452609774
+ORD100960,Books,Supplier A,South,194.89,Email,Not Returned,,18-08-2026,0,0.440165571
+ORD100961,Clothing,Supplier A,West,482.4,Organic,Not Returned,,19-08-2026,0,0.441832753
+ORD100963,Electronics,Supplier D,West,346.64,Email,Not Returned,Damaged,21-08-2026,0,0.449802584
+ORD100965,Clothing,Supplier D,North,199.95,Email,Returned,,23-08-2026,1,0.407673283
+ORD100966,Toys,Supplier D,West,320.03,Email,Not Returned,,24-08-2026,0,0.422862247
+ORD100967,Books,Supplier D,West,354.89,Social Media,Returned,,25-08-2026,1,0.432440672
+ORD100969,Electronics,Supplier C,West,91.81,Ads,Not Returned,Changed Mind,27-08-2026,0,0.406225666
+ORD100970,Beauty,Supplier C,South,359.39,Email,Not Returned,,28-08-2026,0,0.456416521
+ORD100972,Electronics,Supplier A,South,483.36,Email,Not Returned,,30-08-2026,0,0.457709656
+ORD100973,Books,Supplier A,West,382.91,Social Media,Not Returned,Damaged,31-08-2026,0,0.435653011
+ORD100974,Clothing,Supplier C,North,475.88,Ads,Not Returned,,01-09-2026,0,0.401866157
+ORD100976,Electronics,Supplier A,South,156.05,Organic,Not Returned,,03-09-2026,0,0.408003724
+ORD100981,Clothing,Supplier C,South,186.42,Social Media,Not Returned,,08-09-2026,0,0.415043474
+ORD100987,Beauty,Supplier A,East,190.67,Social Media,Returned,Changed Mind,14-09-2026,1,0.42254081
+ORD100989,Books,Supplier A,South,35.65,Ads,Not Returned,,16-09-2026,0,0.410249284
+ORD100990,Clothing,Supplier C,East,386.11,Social Media,Not Returned,,17-09-2026,0,0.420409272
+ORD100991,Clothing,Supplier C,South,214.09,Organic,Returned,,18-09-2026,1,0.411640054
+ORD100995,Toys,Supplier D,South,332.1,Email,Not Returned,Changed Mind,22-09-2026,0,0.420614767
+ORD100996,Beauty,Supplier C,East,241.42,Organic,Not Returned,,23-09-2026,0,0.412758376
+ORD100997,Electronics,Supplier A,South,441.28,Social Media,Returned,Other,24-09-2026,1,0.43354806
+ORD100999,Beauty,Supplier C,East,342.13,Ads,Not Returned,,26-09-2026,0,0.427536778
+ORDX200000,Clothing,Supplier B,East,616.42,Email,Returned,Better Price Elsewhere,17-04-2024,1,0.41912916
+ORDX200001,Books,Supplier D,South,474.39,Organic,Not Returned,,20-03-2024,0,0.432414694
+ORDX200002,Toys,Supplier D,South,329.8,Email,Returned,Damaged on Arrival,24-03-2024,1,0.420452125
+ORDX200003,Electronics,Supplier D,West,619.27,Social Media,Returned,Incorrect Item,20-05-2024,1,0.448194807
+ORDX200004,Books,Supplier A,East,218.21,Organic,Returned,Wrong Size,07-05-2024,1,0.406781577
+ORDX200005,Books,Supplier C,East,357.4,Organic,Not Returned,,22-05-2024,0,0.408594247
+ORDX200006,Clothing,Supplier D,West,75.89,Ads,Returned,Wrong Size,17-04-2024,1,0.419410127
+ORDX200008,Electronics,Supplier C,North,707.06,Social Media,Not Returned,,14-05-2024,0,0.408284142
+ORDX200009,Clothing,Supplier D,West,99.71,Organic,Not Returned,,29-06-2024,0,0.413449273
+ORDX200010,Beauty,Supplier D,West,447.72,Ads,Returned,Incorrect Item,07-04-2024,1,0.453949799
+ORDX200014,Beauty,Supplier A,West,488.93,Organic,Not Returned,,13-04-2024,0,0.45034892
+ORDX200020,Books,Supplier A,West,68.47,Social Media,Not Returned,,23-06-2024,0,0.413365637
+ORDX200021,Beauty,Supplier A,West,590.01,Email,Not Returned,,24-03-2024,0,0.484441975
+ORDX200022,Books,Supplier C,West,649.79,Organic,Returned,Changed Mind,08-03-2024,1,0.441191549
+ORDX200026,Beauty,Supplier C,South,49.87,Email,Not Returned,,18-04-2024,0,0.434234306
+ORDX200028,Clothing,Supplier C,North,329.98,Email,Returned,Other,25-03-2024,1,0.410040512
+ORDX200030,Home & Kitchen,Supplier A,South,574.93,Email,Not Returned,,24-03-2024,0,0.408386499
+ORDX200033,Books,Supplier A,North,748.3,Ads,Returned,Late Delivery,16-05-2024,1,0.424568004
+ORDX200036,Beauty,Supplier A,West,596.3,Social Media,Not Returned,,10-06-2024,0,0.463555002
+ORDX200037,Clothing,Supplier C,South,173.94,Social Media,Returned,Wrong Size,08-06-2024,1,0.414164505
+ORDX200038,Clothing,Supplier D,South,220.42,Email,Returned,Other,18-06-2024,1,0.445285624
+ORDX200042,Beauty,Supplier C,South,59.73,Ads,Returned,Late Delivery,26-06-2024,1,0.416302629
+ORDX200045,Books,Supplier A,East,153.13,Organic,Not Returned,,03-04-2024,0,0.402232505
+ORDX200046,Beauty,Supplier D,South,493.22,Organic,Not Returned,,15-03-2024,0,0.446287977
+ORDX200047,Electronics,Supplier D,South,337.28,Organic,Returned,Other,22-06-2024,1,0.419560068
+ORDX200048,Books,Supplier D,West,369.67,Social Media,Returned,Better Price Elsewhere,30-03-2024,1,0.433493636
+ORDX200049,Toys,Supplier A,East,612.86,Social Media,Not Returned,,06-05-2024,0,0.412090444
+ORDX200050,Beauty,Supplier C,South,253.53,Social Media,Not Returned,,29-04-2024,0,0.427732484
+ORDX200051,Beauty,Supplier C,East,216.12,Email,Returned,Changed Mind,13-05-2024,1,0.437272522
+ORDX200052,Electronics,Supplier D,North,622.47,Ads,Not Returned,,30-03-2024,0,0.411372332
+ORDX200053,Clothing,Supplier C,North,692.41,Social Media,Not Returned,,16-03-2024,0,0.414780395
+ORDX200055,Beauty,Supplier C,South,715.29,Email,Returned,Better Price Elsewhere,03-03-2024,1,0.482132518
+ORDX200058,Beauty,Supplier B,West,270.46,Email,Not Returned,,11-03-2024,0,0.414458078
+ORDX200061,Beauty,Supplier C,South,586.1,Organic,Not Returned,,14-06-2024,0,0.446044331
+ORDX200064,Clothing,Supplier D,West,45.96,Email,Not Returned,,27-05-2024,0,0.435942717
+ORDX200065,Clothing,Supplier B,West,548.45,Email,Not Returned,,10-04-2024,0,0.426176443
+ORDX200066,Clothing,Supplier C,East,330.83,Email,Returned,Wrong Size,06-04-2024,1,0.437448692
+ORDX200067,Books,Supplier C,West,424.58,Email,Not Returned,,09-05-2024,0,0.451650676
+ORDX200068,Books,Supplier B,West,539.16,Email,Returned,Defective Item,25-06-2024,1,0.421052436
+ORDX200069,Beauty,Supplier A,West,561.71,Ads,Returned,Late Delivery,10-06-2024,1,0.463390608
+ORDX200071,Electronics,Supplier C,West,419.95,Email,Returned,Late Delivery,24-05-2024,1,0.448153699
+ORDX200072,Electronics,Supplier C,South,255.88,Social Media,Returned,Damaged on Arrival,07-06-2024,1,0.412394737
+ORDX200075,Beauty,Supplier C,East,312.03,Organic,Not Returned,,13-05-2024,0,0.417733647
+ORDX200077,Books,Supplier A,East,586.41,Organic,Not Returned,,20-06-2024,0,0.432799101
+ORDX200080,Electronics,Supplier D,South,23.35,Email,Returned,Defective Item,05-04-2024,1,0.423602803
+ORDX200082,Beauty,Supplier C,West,407.92,Social Media,Not Returned,,20-04-2024,0,0.441866946
+ORDX200084,Beauty,Supplier A,West,123.77,Email,Returned,Damaged on Arrival,22-04-2024,1,0.450772891
+ORDX200088,Home & Kitchen,Supplier A,West,526.11,Email,Not Returned,,15-06-2024,0,0.408036551
+ORDX200089,Beauty,Supplier D,West,576.6,Ads,Returned,Wrong Size,15-03-2024,1,0.463235183
+ORDX200090,Clothing,Supplier B,South,453.76,Email,Not Returned,,21-04-2024,0,0.41637692
+ORDX200091,Beauty,Supplier A,East,285.81,Organic,Not Returned,,12-06-2024,0,0.423893999
+ORDX200092,Electronics,Supplier D,South,406.12,Social Media,Not Returned,,06-03-2024,0,0.429831553
+ORDX200093,Beauty,Supplier D,East,525.07,Social Media,Not Returned,,17-05-2024,0,0.445156655
+ORDX200095,Books,Supplier A,South,138.21,Ads,Returned,Better Price Elsewhere,29-04-2024,1,0.417468663
+ORDX200096,Books,Supplier C,East,669.77,Email,Not Returned,,22-05-2024,0,0.45724031
+ORDX200099,Beauty,Supplier C,West,607.27,Ads,Not Returned,,24-03-2024,0,0.458504754
+ORDX200100,Books,Supplier A,East,136.99,Email,Returned,Defective Item,16-04-2024,1,0.427225938
+ORDX200102,Electronics,Supplier C,West,643.81,Ads,Not Returned,,29-03-2024,0,0.445366997
+ORDX200104,Clothing,Supplier D,North,642.55,Ads,Not Returned,,31-03-2024,0,0.420336608
+ORDX200107,Books,Supplier A,North,741.38,Organic,Not Returned,,05-04-2024,0,0.416417333
+ORDX200108,Books,Supplier D,West,547.93,Ads,Not Returned,,04-06-2024,0,0.44855612
+ORDX200109,Electronics,Supplier C,East,236.95,Social Media,Returned,Incorrect Item,07-04-2024,1,0.402405035
+ORDX200111,Books,Supplier C,East,513.65,Organic,Not Returned,,07-05-2024,0,0.419594504
+ORDX200112,Electronics,Supplier A,West,131.67,Email,Not Returned,,30-06-2024,0,0.43563323
+ORDX200115,Beauty,Supplier A,West,402.78,Social Media,Returned,Better Price Elsewhere,07-04-2024,1,0.449622582
+ORDX200116,Books,Supplier D,West,220.55,Organic,Returned,Product Not as Described,16-03-2024,1,0.417523387
+ORDX200117,Electronics,Supplier C,West,573.29,Organic,Not Returned,,23-04-2024,0,0.432584763
+ORDX200118,Electronics,Supplier D,West,158.55,Email,Returned,Product Not as Described,20-04-2024,1,0.4363351
+ORDX200121,Books,Supplier A,South,637.59,Ads,Not Returned,,04-05-2024,0,0.453073379
+ORDX200122,Beauty,Supplier B,West,691.06,Email,Not Returned,,06-03-2024,0,0.444353019
+ORDX200123,Clothing,Supplier C,South,288.74,Ads,Not Returned,,01-03-2024,0,0.424558923
+ORDX200124,Electronics,Supplier A,South,745.26,Email,Returned,Changed Mind,19-04-2024,1,0.476625335
+ORDX200125,Beauty,Supplier C,East,655.75,Ads,Returned,Damaged on Arrival,02-03-2024,1,0.449943215
+ORDX200126,Electronics,Supplier C,South,506.78,Email,Not Returned,,13-04-2024,0,0.451241756
+ORDX200134,Toys,Supplier A,South,631.41,Social Media,Not Returned,,03-03-2024,0,0.422123836
+ORDX200135,Clothing,Supplier D,East,386.35,Social Media,Not Returned,,18-03-2024,0,0.427248675
+ORDX200139,Books,Supplier A,South,427.48,Email,Returned,Damaged on Arrival,19-03-2024,1,0.456858583
+ORDX200140,Books,Supplier D,West,613.45,Email,Not Returned,,27-04-2024,0,0.472214242
+ORDX200141,Electronics,Supplier C,West,404.53,Social Media,Not Returned,,26-04-2024,0,0.425992666
+ORDX200143,Books,Supplier D,East,163.87,Social Media,Returned,Better Price Elsewhere,17-04-2024,1,0.407107426
+ORDX200144,Toys,Supplier A,South,434.74,Ads,Not Returned,,30-05-2024,0,0.410534728
+ORDX200146,Clothing,Supplier A,South,88.82,Email,Returned,Damaged on Arrival,12-04-2024,1,0.437090174
+ORDX200148,Books,Supplier D,East,680.55,Social Media,Returned,Late Delivery,19-05-2024,1,0.443738528
+ORDX200149,Beauty,Supplier B,West,671.55,Social Media,Returned,Product Not as Described,16-05-2024,1,0.421946616
+ORDX200150,Toys,Supplier A,East,683.23,Social Media,Not Returned,,29-06-2024,0,0.417046451
+ORDX200151,Electronics,Supplier D,South,387.71,Ads,Returned,Changed Mind,23-05-2024,1,0.430820494
+ORDX200152,Beauty,Supplier D,West,166.87,Email,Not Returned,,09-05-2024,0,0.452645525
+ORDX200156,Toys,Supplier D,East,529.14,Ads,Not Returned,,29-06-2024,0,0.407286536
+ORDX200159,Beauty,Supplier D,South,616.5,Organic,Returned,Damaged on Arrival,18-06-2024,1,0.455144366
+ORDX200161,Beauty,Supplier B,South,404.25,Ads,Not Returned,,07-04-2024,0,0.402346883
+ORDX200162,Books,Supplier A,East,125.22,Ads,Not Returned,,29-04-2024,0,0.407857501
+ORDX200163,Books,Supplier A,North,705.09,Social Media,Not Returned,,29-03-2024,0,0.419222916
+ORDX200164,Toys,Supplier D,South,560.04,Organic,Not Returned,,13-04-2024,0,0.410528229
+ORDX200166,Beauty,Supplier D,West,396.85,Social Media,Returned,Better Price Elsewhere,04-05-2024,1,0.447973379
+ORDX200167,Books,Supplier A,South,510.98,Social Media,Returned,Changed Mind,12-06-2024,1,0.441672418
+ORDX200168,Books,Supplier A,West,459.13,Email,Not Returned,,05-04-2024,0,0.4622984
+ORDX200169,Clothing,Supplier D,South,70.61,Organic,Not Returned,,22-03-2024,0,0.408326712
+ORDX200170,Beauty,Supplier D,North,646.36,Organic,Returned,Defective Item,30-04-2024,1,0.420881441
+ORDX200171,Toys,Supplier D,South,197.45,Email,Not Returned,,20-05-2024,0,0.411123281
+ORDX200173,Beauty,Supplier B,South,554.74,Ads,Returned,Other,31-05-2024,1,0.412891243
+ORDX200174,Toys,Supplier C,West,529.84,Organic,Returned,Incorrect Item,22-06-2024,1,0.404736975
+ORDX200175,Clothing,Supplier C,South,719.17,Organic,Not Returned,,05-05-2024,0,0.44753815
+ORDX200176,Beauty,Supplier A,North,694.22,Organic,Not Returned,,07-05-2024,0,0.425478812
+ORDX200177,Electronics,Supplier C,South,269.57,Ads,Returned,Damaged on Arrival,21-05-2024,1,0.415633292
+ORDX200178,Beauty,Supplier D,East,274.97,Ads,Returned,Wrong Size,14-04-2024,1,0.429606062
+ORDX200185,Beauty,Supplier D,East,475.1,Social Media,Not Returned,,16-03-2024,0,0.441578033
+ORDX200189,Books,Supplier C,South,190.71,Email,Not Returned,,03-06-2024,0,0.431781221
+ORDX200193,Clothing,Supplier D,North,634.04,Social Media,Not Returned,,21-04-2024,0,0.417453065
+ORDX200196,Beauty,Supplier C,North,462.98,Email,Returned,Late Delivery,25-05-2024,1,0.427359653
+ORDX200197,Clothing,Supplier D,West,642.34,Social Media,Not Returned,,28-05-2024,0,0.457553397
+ORDX200198,Clothing,Supplier A,North,135.81,Email,Not Returned,,16-04-2024,0,0.404377344
+ORDX200199,Beauty,Supplier C,North,369.41,Social Media,Returned,Defective Item,27-04-2024,1,0.400016428
+ORDX200200,Clothing,Supplier C,South,133.05,Email,Not Returned,,10-03-2024,0,0.432163532
+ORDX200201,Electronics,Supplier C,East,179,Email,Not Returned,,29-05-2024,0,0.419053938
+ORDX200202,Clothing,Supplier C,East,377.01,Ads,Returned,Defective Item,16-06-2024,1,0.422051409
+ORDX200205,Electronics,Supplier D,West,233.94,Social Media,Returned,Damaged on Arrival,27-04-2024,1,0.420728301
+ORDX200207,Beauty,Supplier C,East,727,Organic,Returned,Product Not as Described,26-03-2024,1,0.447280284
+ORDX200210,Books,Supplier D,East,701.62,Social Media,Returned,Wrong Size,06-03-2024,1,0.445248242
+ORDX200211,Clothing,Supplier C,West,248.77,Ads,Returned,Defective Item,03-03-2024,1,0.424832458
+ORDX200213,Toys,Supplier C,West,544.52,Email,Not Returned,,02-06-2024,0,0.43196728
+ORDX200214,Beauty,Supplier A,West,56.96,Social Media,Not Returned,,06-05-2024,0,0.42493478
+ORDX200216,Clothing,Supplier A,South,229.35,Email,Returned,Incorrect Item,03-06-2024,1,0.447148141
+ORDX200219,Beauty,Supplier C,South,365.74,Organic,Not Returned,,10-06-2024,0,0.43030383
+ORDX200220,Toys,Supplier A,South,741.85,Social Media,Not Returned,,21-06-2024,0,0.42996039
+ORDX200222,Beauty,Supplier A,South,594.55,Email,Returned,Defective Item,26-05-2024,1,0.481595067
+ORDX200223,Beauty,Supplier C,West,471.31,Email,Not Returned,,16-06-2024,0,0.467649846
+ORDX200224,Beauty,Supplier C,East,195.61,Ads,Returned,Better Price Elsewhere,23-03-2024,1,0.417164054
+ORDX200225,Books,Supplier D,West,379.29,Social Media,Returned,Incorrect Item,07-03-2024,1,0.434179312
+ORDX200226,Beauty,Supplier B,East,682.54,Ads,Not Returned,,04-04-2024,0,0.413181994
+ORDX200227,Books,Supplier C,West,550.23,Email,Returned,Better Price Elsewhere,28-04-2024,1,0.460695843
+ORDX200229,Books,Supplier D,West,642.87,Organic,Returned,Other,01-04-2024,1,0.447593869
+ORDX200233,Clothing,Supplier A,South,255.61,Social Media,Returned,Damaged on Arrival,06-03-2024,1,0.427956883
+ORDX200235,Clothing,Supplier B,East,658.08,Ads,Returned,Incorrect Item,01-04-2024,1,0.403597952
+ORDX200236,Clothing,Supplier D,North,610.83,Ads,Not Returned,,13-05-2024,0,0.41809551
+ORDX200238,Clothing,Supplier A,South,647.35,Email,Returned,Late Delivery,02-03-2024,1,0.477290013
+ORDX200241,Toys,Supplier A,North,628.71,Email,Returned,Changed Mind,06-05-2024,1,0.406815169
+ORDX200243,Clothing,Supplier C,South,453.26,Email,Not Returned,,12-06-2024,0,0.455094069
+ORDX200244,Clothing,Supplier A,North,117.51,Email,Returned,Wrong Size,06-06-2024,1,0.403098953
+ORDX200247,Beauty,Supplier A,East,238.05,Organic,Not Returned,,31-05-2024,0,0.420513076
+ORDX200249,Electronics,Supplier A,East,643.1,Organic,Not Returned,,04-03-2024,0,0.433698867
+ORDX200251,Toys,Supplier A,South,318.05,Email,Not Returned,,15-03-2024,0,0.420826511
+ORDX200252,Electronics,Supplier B,East,718.94,Email,Not Returned,,07-05-2024,0,0.418806218
+ORDX200254,Beauty,Supplier D,South,156.92,Organic,Returned,Defective Item,21-06-2024,1,0.422316827
+ORDX200257,Toys,Supplier C,South,549.98,Organic,Not Returned,,07-03-2024,0,0.403081967
+ORDX200260,Clothing,Supplier A,North,206.94,Email,Not Returned,,28-05-2024,0,0.409358492
+ORDX200261,Clothing,Supplier D,North,692.15,Email,Returned,Damaged on Arrival,21-03-2024,1,0.442563934
+ORDX200267,Beauty,Supplier A,North,525.49,Ads,Not Returned,,09-06-2024,0,0.421201354
+ORDX200268,Clothing,Supplier B,West,550.58,Ads,Returned,Late Delivery,11-04-2024,1,0.407795531
+ORDX200269,Beauty,Supplier D,South,68.46,Organic,Returned,Damaged on Arrival,08-04-2024,1,0.416067085
+ORDX200270,Clothing,Supplier A,West,582.23,Social Media,Not Returned,,13-06-2024,0,0.454453314
+ORDX200272,Books,Supplier B,West,365.24,Email,Not Returned,,06-06-2024,0,0.408801135
+ORDX200273,Books,Supplier D,South,156.56,Social Media,Returned,Wrong Size,07-04-2024,1,0.415282227
+ORDX200276,Books,Supplier D,West,39.76,Social Media,Not Returned,,17-03-2024,0,0.410149746
+ORDX200277,Beauty,Supplier B,West,636.84,Social Media,Returned,Incorrect Item,13-05-2024,1,0.419491844
+ORDX200278,Clothing,Supplier C,West,131.99,Email,Not Returned,,30-06-2024,0,0.435211613
+ORDX200280,Beauty,Supplier C,West,486.07,Email,Not Returned,,19-06-2024,0,0.468716296
+ORDX200282,Electronics,Supplier D,West,360.41,Social Media,Returned,Other,16-04-2024,1,0.429697714
+ORDX200283,Beauty,Supplier A,East,172.96,Organic,Not Returned,,04-06-2024,0,0.415917404
+ORDX200286,Books,Supplier A,West,445.83,Ads,Returned,Product Not as Described,17-04-2024,1,0.442458983
+ORDX200289,Electronics,Supplier A,South,148.99,Organic,Not Returned,,22-04-2024,0,0.407508978
+ORDX200296,Beauty,Supplier D,South,162.44,Social Media,Returned,Damaged on Arrival,21-05-2024,1,0.428101023
+ORDX200299,Books,Supplier C,South,410.91,Organic,Not Returned,,13-05-2024,0,0.421074154
+ORDX200300,Beauty,Supplier D,South,66.45,Social Media,Not Returned,,12-03-2024,0,0.421295356
+ORDX200302,Beauty,Supplier D,East,364.2,Social Media,Not Returned,,15-03-2024,0,0.433658048
+ORDX200307,Electronics,Supplier A,West,385.13,Email,Returned,Other,01-03-2024,1,0.453793914
+ORDX200309,Electronics,Supplier A,West,369.38,Email,Returned,Changed Mind,12-03-2024,1,0.452661306
+ORDX200311,Beauty,Supplier A,West,514.71,Social Media,Returned,Incorrect Item,17-06-2024,1,0.457672737
+ORDX200315,Books,Supplier C,West,130.17,Ads,Returned,Better Price Elsewhere,06-04-2024,1,0.41200748
+ORDX200319,Books,Supplier D,East,390.34,Ads,Returned,Other,13-04-2024,1,0.425351821
+ORDX200322,Toys,Supplier D,South,347.47,Email,Returned,Better Price Elsewhere,25-06-2024,1,0.421702081
+ORDX200324,Toys,Supplier A,East,675.48,Organic,Returned,Damaged on Arrival,26-04-2024,1,0.411147518
+ORDX200326,Books,Supplier C,South,89.23,Email,Not Returned,,09-04-2024,0,0.42457126
+ORDX200327,Books,Supplier D,West,405.02,Ads,Not Returned,,16-05-2024,0,0.438321561
+ORDX200328,Beauty,Supplier D,West,666.49,Social Media,Returned,Incorrect Item,03-05-2024,1,0.46739215
+ORDX200330,Clothing,Supplier D,North,556.81,Social Media,Not Returned,,24-05-2024,0,0.412013304
+ORDX200331,Books,Supplier B,East,552.01,Email,Not Returned,,08-06-2024,0,0.410153621
+ORDX200332,Books,Supplier C,South,123.13,Organic,Returned,Wrong Size,05-05-2024,1,0.400861913
+ORDX200333,Clothing,Supplier C,South,611.51,Organic,Not Returned,,03-04-2024,0,0.439827051
+ORDX200334,Toys,Supplier A,West,531.24,Email,Not Returned,,20-04-2024,0,0.439104188
+ORDX200335,Electronics,Supplier C,West,377.34,Email,Not Returned,,19-06-2024,0,0.445097731
+ORDX200338,Books,Supplier C,West,633.19,Email,Returned,Better Price Elsewhere,07-05-2024,1,0.466682481
+ORDX200340,Clothing,Supplier D,South,608.69,Ads,Returned,Incorrect Item,17-05-2024,1,0.45430222
+ORDX200346,Beauty,Supplier D,West,504.66,Social Media,Returned,Incorrect Item,30-04-2024,1,0.455721908
+ORDX200347,Electronics,Supplier A,West,164.73,Organic,Returned,Better Price Elsewhere,04-04-2024,1,0.41168913
+ORDX200348,Toys,Supplier A,South,546.7,Organic,Returned,Defective Item,05-03-2024,1,0.410788362
+ORDX200349,Books,Supplier D,North,577.94,Email,Returned,Incorrect Item,13-06-2024,1,0.429915679
+ORDX200350,Books,Supplier D,West,391.28,Organic,Returned,Damaged on Arrival,26-03-2024,1,0.429619177
+ORDX200352,Beauty,Supplier C,East,47.8,Ads,Returned,Damaged on Arrival,11-03-2024,1,0.406773794
+ORDX200354,Beauty,Supplier D,West,417.48,Ads,Returned,Product Not as Described,05-04-2024,1,0.451775497
+ORDX200355,Books,Supplier D,East,459.05,Organic,Returned,Changed Mind,21-05-2024,1,0.422542725
+ORDX200356,Electronics,Supplier B,West,556.36,Email,Not Returned,,06-05-2024,0,0.419153433
+ORDX200357,Home & Kitchen,Supplier C,South,693.84,Email,Not Returned,,05-06-2024,0,0.408778345
+ORDX200359,Toys,Supplier C,East,721.76,Email,Not Returned,,05-05-2024,0,0.432661277
+ORDX200360,Electronics,Supplier C,West,159.61,Email,Returned,Incorrect Item,24-06-2024,1,0.429551741
+ORDX200364,Beauty,Supplier C,East,680.17,Social Media,Not Returned,,04-05-2024,0,0.449376498
+ORDX200368,Books,Supplier A,North,554.54,Ads,Returned,Product Not as Described,27-05-2024,1,0.410892937
+ORDX200369,Electronics,Supplier B,South,532.53,Email,Not Returned,,05-04-2024,0,0.414381143
+ORDX200371,Books,Supplier D,South,585.11,Ads,Returned,Better Price Elsewhere,10-06-2024,1,0.448078985
+ORDX200372,Electronics,Supplier A,South,409.34,Ads,Not Returned,,21-05-2024,0,0.433574555
+ORDX200373,Clothing,Supplier A,East,231.97,Ads,Returned,Changed Mind,30-06-2024,1,0.419807922
+ORDX200374,Electronics,Supplier B,East,498.68,Email,Returned,Defective Item,06-03-2024,1,0.403334066
+ORDX200375,Clothing,Supplier C,South,287.99,Organic,Returned,Product Not as Described,11-04-2024,1,0.416843466
+ORDX200379,Beauty,Supplier B,East,726.04,Social Media,Not Returned,,20-06-2024,0,0.413969409
+ORDX200380,Toys,Supplier D,East,488.86,Email,Returned,Product Not as Described,14-05-2024,1,0.422956782
+ORDX200385,Beauty,Supplier B,East,693.52,Ads,Returned,Incorrect Item,14-06-2024,1,0.413954751
+ORDX200390,Books,Supplier D,East,446.41,Ads,Returned,Wrong Size,19-04-2024,1,0.429333582
+ORDX200394,Toys,Supplier A,South,510.36,Email,Returned,Product Not as Described,21-03-2024,1,0.434484904
+ORDX200395,Beauty,Supplier A,South,660.56,Organic,Not Returned,,25-06-2024,0,0.459544953
+ORDX200396,Electronics,Supplier D,West,310.24,Ads,Not Returned,,07-05-2024,0,0.428428242
+ORDX200399,Beauty,Supplier B,South,742,Ads,Not Returned,,12-05-2024,0,0.426123336
+ORDX200401,Home & Kitchen,Supplier D,West,563.9,Email,Not Returned,,29-04-2024,0,0.409491485
+ORDX200403,Home & Kitchen,Supplier A,South,512.95,Email,Not Returned,,24-03-2024,0,0.404048291
+ORDX200404,Electronics,Supplier A,West,118.15,Social Media,Not Returned,,14-05-2024,0,0.413761
+ORDX200408,Beauty,Supplier D,East,235.49,Organic,Returned,Late Delivery,20-05-2024,1,0.419127449
+ORDX200409,Beauty,Supplier C,East,485.94,Organic,Not Returned,,28-06-2024,0,0.430057202
+ORDX200410,Beauty,Supplier C,West,86.02,Email,Returned,Defective Item,03-04-2024,1,0.439944503
+ORDX200411,Books,Supplier D,South,103.87,Ads,Returned,Product Not as Described,17-03-2024,1,0.413847025
+ORDX200412,Toys,Supplier A,South,388.92,Ads,Not Returned,,01-05-2024,0,0.407320945
+ORDX200413,Beauty,Supplier A,South,187.56,Ads,Returned,Incorrect Item,13-05-2024,1,0.433400283
+ORDX200417,Books,Supplier D,North,379.46,Email,Not Returned,,17-06-2024,0,0.415860186
+ORDX200418,Beauty,Supplier A,West,170.62,Organic,Returned,Better Price Elsewhere,11-05-2024,1,0.427604854
+ORDX200419,Books,Supplier B,East,736.91,Social Media,Returned,Product Not as Described,19-03-2024,1,0.402445195
+ORDX200420,Books,Supplier B,South,459.63,Email,Returned,Changed Mind,01-03-2024,1,0.412351883
+ORDX200421,Clothing,Supplier C,South,328.51,Organic,Not Returned,,14-05-2024,0,0.419704503
+ORDX200426,Books,Supplier A,East,736.45,Social Media,Returned,Late Delivery,12-03-2024,1,0.448969388
+ORDX200428,Beauty,Supplier D,West,744.04,Organic,Returned,Wrong Size,28-04-2024,1,0.467501465
+ORDX200432,Toys,Supplier C,West,165.78,Email,Not Returned,,29-05-2024,0,0.405226589
+ORDX200433,Beauty,Supplier C,East,302.75,Organic,Returned,Late Delivery,11-06-2024,1,0.417078787
+ORDX200435,Electronics,Supplier A,East,92.1,Social Media,Returned,Changed Mind,20-03-2024,1,0.400206902
+ORDX200436,Books,Supplier D,South,426.12,Organic,Returned,Product Not as Described,24-04-2024,1,0.428980167
+ORDX200438,Beauty,Supplier C,West,375.6,Email,Not Returned,,17-05-2024,0,0.460742144
+ORDX200442,Clothing,Supplier D,East,620.05,Organic,Not Returned,,03-03-2024,0,0.438479852
+ORDX200443,Beauty,Supplier D,East,341.74,Social Media,Not Returned,,10-03-2024,0,0.432058038
+ORDX200446,Electronics,Supplier D,South,542.31,Ads,Returned,Better Price Elsewhere,29-03-2024,1,0.441853861
+ORDX200447,Books,Supplier C,South,738.93,Organic,Returned,Incorrect Item,13-04-2024,1,0.444435761
+ORDX200450,Toys,Supplier D,South,513.96,Organic,Returned,Changed Mind,02-06-2024,1,0.407296248
+ORDX200453,Home & Kitchen,Supplier A,West,568.59,Email,Not Returned,,14-04-2024,0,0.411017411
+ORDX200454,Beauty,Supplier C,West,525.54,Social Media,Returned,Other,30-06-2024,1,0.450300426
+ORDX200455,Beauty,Supplier C,West,104.3,Social Media,Not Returned,,02-04-2024,0,0.420262777
+ORDX200457,Clothing,Supplier C,South,395.16,Social Media,Returned,Incorrect Item,21-06-2024,1,0.429821151
+ORDX200458,Clothing,Supplier C,North,533.54,Ads,Returned,Incorrect Item,27-05-2024,1,0.405894571
+ORDX200462,Books,Supplier D,South,139.37,Social Media,Returned,Defective Item,15-05-2024,1,0.41407147
+ORDX200465,Toys,Supplier C,West,664.32,Organic,Returned,Wrong Size,02-03-2024,1,0.414172754
+ORDX200466,Electronics,Supplier D,South,458.8,Ads,Returned,Other,18-05-2024,1,0.435886142
+ORDX200467,Beauty,Supplier C,East,659.14,Email,Returned,Better Price Elsewhere,23-03-2024,1,0.469119166
+ORDX200468,Books,Supplier A,East,470.95,Organic,Returned,Better Price Elsewhere,30-03-2024,1,0.42459344
+ORDX200469,Clothing,Supplier C,West,100.85,Social Media,Returned,Damaged on Arrival,20-05-2024,1,0.412105726
+ORDX200470,Clothing,Supplier A,South,127.17,Social Media,Returned,Changed Mind,05-05-2024,1,0.418857952
+ORDX200473,Toys,Supplier A,South,525.34,Organic,Not Returned,,29-03-2024,0,0.409288935
+ORDX200475,Electronics,Supplier D,South,414.76,Social Media,Returned,Incorrect Item,10-05-2024,1,0.430446117
+ORDX200480,Electronics,Supplier D,West,161.68,Organic,Not Returned,,20-06-2024,0,0.410277587
+ORDX200481,Books,Supplier D,East,713.1,Ads,Not Returned,,22-03-2024,0,0.448389229
+ORDX200483,Beauty,Supplier A,West,498.35,Email,Returned,Defective Item,03-04-2024,1,0.477801947
+ORDX200487,Books,Supplier C,West,288.47,Organic,Returned,Better Price Elsewhere,06-04-2024,1,0.41552347
+ORDX200488,Beauty,Supplier A,West,419.99,Social Media,Not Returned,,10-06-2024,0,0.45085874
+ORDX200490,Beauty,Supplier D,East,541.85,Email,Returned,Other,25-04-2024,1,0.467600916
+ORDX200492,Beauty,Supplier D,East,120.55,Organic,Returned,Other,25-05-2024,1,0.411029703
+ORDX200493,Beauty,Supplier D,North,570.75,Organic,Not Returned,,16-05-2024,0,0.415543031
+ORDX200494,Electronics,Supplier D,North,725.56,Ads,Not Returned,,10-03-2024,0,0.418634877
+ORDX200495,Beauty,Supplier C,West,489.15,Organic,Returned,Other,27-04-2024,1,0.442238637
+ORDX200497,Electronics,Supplier A,South,272.09,Organic,Not Returned,,27-06-2024,0,0.416161526
+ORDX200498,Beauty,Supplier C,East,525.83,Organic,Returned,Better Price Elsewhere,05-04-2024,1,0.43289672
+ORDX200499,Books,Supplier A,West,745.75,Organic,Returned,Late Delivery,22-06-2024,1,0.456213202
+ORDX200503,Electronics,Supplier D,West,240.3,Ads,Not Returned,,02-05-2024,0,0.423465688
+ORDX200508,Clothing,Supplier C,West,499.58,Social Media,Not Returned,,02-06-2024,0,0.44039443
+ORDX200510,Books,Supplier B,West,289.35,Email,Returned,Better Price Elsewhere,13-04-2024,1,0.403489633
+ORDX200512,Clothing,Supplier D,West,359.99,Social Media,Not Returned,,12-04-2024,0,0.437299303
+ORDX200513,Books,Supplier A,East,424.03,Ads,Returned,Other,29-03-2024,1,0.428954249
+ORDX200520,Electronics,Supplier C,South,102.5,Social Media,Returned,Late Delivery,19-03-2024,1,0.401652814
+ORDX200521,Books,Supplier C,South,131.04,Social Media,Returned,Changed Mind,04-04-2024,1,0.406726403
+ORDX200522,Beauty,Supplier D,North,736.06,Organic,Not Returned,,21-05-2024,0,0.42723865
+ORDX200523,Electronics,Supplier A,East,531.32,Ads,Not Returned,,25-04-2024,0,0.433454321
+ORDX200524,Books,Supplier D,East,428.89,Ads,Not Returned,,22-03-2024,0,0.428088407
+ORDX200528,Beauty,Supplier C,West,107.12,Organic,Returned,Better Price Elsewhere,30-06-2024,1,0.415095197
+ORDX200529,Clothing,Supplier D,South,445.09,Ads,Returned,Wrong Size,11-03-2024,1,0.442560442
+ORDX200530,Books,Supplier C,East,390.61,Social Media,Returned,Incorrect Item,18-04-2024,1,0.416276458
+ORDX200531,Clothing,Supplier A,South,707.75,Social Media,Returned,Late Delivery,09-04-2024,1,0.460336677
+ORDX200532,Electronics,Supplier D,North,733.12,Email,Returned,Other,26-05-2024,1,0.437835702
+ORDX200533,Books,Supplier C,East,203.97,Ads,Returned,Defective Item,13-05-2024,1,0.405436869
+ORDX200535,Clothing,Supplier A,South,96.88,Email,Not Returned,,23-05-2024,0,0.437665726
+ORDX200537,Beauty,Supplier D,East,497.81,Organic,Not Returned,,23-06-2024,0,0.437765707
+ORDX200539,Beauty,Supplier A,North,354.93,Ads,Not Returned,,14-04-2024,0,0.409184474
+ORDX200545,Books,Supplier D,East,685.91,Organic,Returned,Changed Mind,23-06-2024,1,0.438682113
+ORDX200547,Books,Supplier B,West,738.38,Ads,Returned,Damaged on Arrival,01-04-2024,1,0.416567712
+ORDX200548,Clothing,Supplier B,West,721.91,Organic,Returned,Damaged on Arrival,29-06-2024,1,0.412216559
+ORDX200550,Clothing,Supplier C,North,515.19,Email,Not Returned,,02-03-2024,0,0.423101898
+ORDX200551,Books,Supplier A,South,293.53,Organic,Returned,Product Not as Described,02-04-2024,1,0.420787113
+ORDX200553,Books,Supplier A,North,639.62,Ads,Returned,Incorrect Item,15-04-2024,1,0.416882027
+ORDX200554,Toys,Supplier A,East,592.26,Organic,Not Returned,,30-04-2024,0,0.405313658
+ORDX200555,Beauty,Supplier A,East,336.37,Social Media,Not Returned,,22-06-2024,0,0.432889498
+ORDX200556,Clothing,Supplier D,West,529.13,Ads,Returned,Product Not as Described,29-03-2024,1,0.451732884
+ORDX200558,Beauty,Supplier A,South,487.28,Ads,Returned,Product Not as Described,27-03-2024,1,0.454868948
+ORDX200559,Electronics,Supplier D,South,90.59,Organic,Not Returned,,15-04-2024,0,0.40223396
+ORDX200561,Clothing,Supplier D,South,550.5,Social Media,Returned,Product Not as Described,17-04-2024,1,0.447799659
+ORDX200563,Beauty,Supplier A,South,221.8,Email,Not Returned,,12-06-2024,0,0.454669875
+ORDX200565,Clothing,Supplier D,East,434.32,Organic,Returned,Wrong Size,17-03-2024,1,0.42525683
+ORDX200568,Toys,Supplier C,South,410.16,Ads,Returned,Product Not as Described,20-03-2024,1,0.400886567
+ORDX200570,Toys,Supplier A,West,309.3,Email,Returned,Incorrect Item,13-03-2024,1,0.423309466
+ORDX200571,Home & Kitchen,Supplier D,West,519.14,Email,Returned,Incorrect Item,04-06-2024,1,0.40635444
+ORDX200572,Clothing,Supplier D,East,75.58,Organic,Not Returned,,30-03-2024,0,0.400032135
+ORDX200573,Beauty,Supplier D,South,195.44,Organic,Returned,Better Price Elsewhere,18-05-2024,1,0.425046202
+ORDX200574,Clothing,Supplier A,South,424.92,Organic,Not Returned,,23-05-2024,0,0.434595583
+ORDX200576,Beauty,Supplier C,East,716.23,Organic,Returned,Better Price Elsewhere,18-04-2024,1,0.446507773
+ORDX200577,Beauty,Supplier A,West,265.61,Social Media,Not Returned,,12-06-2024,0,0.439793415
+ORDX200579,Books,Supplier B,West,647.94,Organic,Returned,Incorrect Item,14-03-2024,1,0.40261886
+ORDX200582,Clothing,Supplier A,West,664.98,Organic,Returned,Incorrect Item,27-05-2024,1,0.454936337
+ORDX200583,Books,Supplier A,West,20.72,Ads,Returned,Defective Item,22-06-2024,1,0.412279698
+ORDX200585,Electronics,Supplier A,West,598.76,Email,Not Returned,,29-06-2024,0,0.469198847
+ORDX200586,Books,Supplier A,South,530.34,Ads,Returned,Damaged on Arrival,27-05-2024,1,0.445373176
+ORDX200589,Books,Supplier C,South,677.48,Email,Returned,Wrong Size,14-06-2024,1,0.466715849
+ORDX200593,Clothing,Supplier B,South,672.58,Organic,Returned,Product Not as Described,17-05-2024,1,0.405682498
+ORDX200594,Beauty,Supplier D,North,565.29,Organic,Not Returned,,11-04-2024,0,0.415158281
+ORDX200595,Electronics,Supplier D,North,683.02,Social Media,Returned,Damaged on Arrival,25-04-2024,1,0.413357979
+ORDX200596,Clothing,Supplier A,East,657.34,Ads,Returned,Defective Item,21-05-2024,1,0.450134906
+ORDX200597,Books,Supplier A,South,390.31,Organic,Not Returned,,14-06-2024,0,0.427646747
+ORDX200598,Books,Supplier A,West,728.59,Organic,Returned,Defective Item,20-06-2024,1,0.454978125
+ORDX200599,Electronics,Supplier C,East,308.11,Ads,Returned,Defective Item,18-05-2024,1,0.409646228
+ORDX200604,Toys,Supplier A,West,519.26,Ads,Not Returned,,11-06-2024,0,0.419576893
+ORDX200606,Clothing,Supplier C,South,686.86,Ads,Not Returned,,07-05-2024,0,0.452999847
+ORDX200608,Clothing,Supplier C,South,328.51,Organic,Not Returned,,28-05-2024,0,0.419704503
+ORDX200609,Beauty,Supplier A,South,512.76,Organic,Returned,Damaged on Arrival,24-06-2024,1,0.448912861
+ORDX200614,Clothing,Supplier A,East,424.29,Organic,Not Returned,,03-05-2024,0,0.425754376
+ORDX200615,Books,Supplier A,West,627.73,Organic,Not Returned,,23-03-2024,0,0.447730485
+ORDX200618,Toys,Supplier A,West,376.83,Email,Not Returned,,24-05-2024,0,0.42810032
+ORDX200620,Electronics,Supplier D,South,235.49,Ads,Returned,Late Delivery,16-04-2024,1,0.420023624
+ORDX200621,Books,Supplier D,East,210.62,Social Media,Returned,Other,03-03-2024,1,0.41038599
+ORDX200622,Beauty,Supplier D,South,30.6,Email,Not Returned,,17-03-2024,0,0.439732151
+ORDX200623,Toys,Supplier C,East,548.64,Ads,Returned,Defective Item,10-03-2024,1,0.401919397
+ORDX200625,Books,Supplier A,East,284.75,Organic,Not Returned,,23-05-2024,0,0.411449284
+ORDX200626,Toys,Supplier A,West,602.9,Organic,Not Returned,,01-03-2024,0,0.417831765
+ORDX200629,Electronics,Supplier A,West,112.72,Organic,Not Returned,,03-03-2024,0,0.408038629
+ORDX200632,Clothing,Supplier A,South,246.44,Ads,Returned,Defective Item,11-06-2024,1,0.429601673
+ORDX200635,Clothing,Supplier D,West,660.61,Social Media,Returned,Incorrect Item,31-05-2024,1,0.458869561
+ORDX200636,Electronics,Supplier A,West,211.89,Email,Not Returned,,16-03-2024,0,0.441364789
+ORDX200637,Toys,Supplier D,West,734.09,Ads,Not Returned,,16-04-2024,0,0.433615285
+ORDX200638,Electronics,Supplier D,East,295.58,Social Media,Not Returned,,09-06-2024,0,0.413260687
+ORDX200640,Beauty,Supplier A,West,68.39,Email,Not Returned,,08-05-2024,0,0.446797444
+ORDX200641,Books,Supplier A,West,736.58,Social Media,Returned,Incorrect Item,16-04-2024,1,0.461030887
+ORDX200642,Toys,Supplier D,South,312.48,Ads,Not Returned,,06-05-2024,0,0.400788849
+ORDX200645,Toys,Supplier B,West,680.48,Email,Returned,Incorrect Item,10-03-2024,1,0.403217636
+ORDX200647,Books,Supplier C,West,118.67,Organic,Returned,Incorrect Item,04-06-2024,1,0.403608721
+ORDX200648,Electronics,Supplier C,West,475.25,Organic,Returned,Changed Mind,13-03-2024,1,0.425615447
+ORDX200650,Beauty,Supplier D,East,577.75,Email,Not Returned,,13-05-2024,0,0.47019525
+ORDX200651,Clothing,Supplier D,East,182.89,Ads,Returned,Late Delivery,15-05-2024,1,0.41514158
+ORDX200652,Books,Supplier A,West,457.57,Ads,Returned,Damaged on Arrival,24-03-2024,1,0.443299563
+ORDX200657,Home & Kitchen,Supplier C,South,597.21,Email,Not Returned,,30-04-2024,0,0.402019253
+ORDX200658,Books,Supplier C,East,299.46,Social Media,Returned,Other,14-04-2024,1,0.409863833
+ORDX200660,Books,Supplier D,West,568.8,Ads,Returned,Incorrect Item,17-05-2024,1,0.450054599
+ORDX200663,Clothing,Supplier A,East,433.63,Organic,Returned,Product Not as Described,01-03-2024,1,0.426417152
+ORDX200664,Electronics,Supplier D,North,591.37,Organic,Returned,Other,12-03-2024,1,0.401610036
+ORDX200666,Beauty,Supplier D,East,38.14,Ads,Not Returned,,04-03-2024,0,0.412853083
+ORDX200667,Books,Supplier C,West,164.64,Ads,Returned,Better Price Elsewhere,09-05-2024,1,0.414432822
+ORDX200668,Electronics,Supplier D,South,179.89,Organic,Returned,Changed Mind,30-04-2024,1,0.408480144
+ORDX200670,Books,Supplier C,East,424.45,Social Media,Not Returned,,17-03-2024,0,0.41866454
+ORDX200673,Toys,Supplier C,South,465.25,Ads,Not Returned,,24-03-2024,0,0.40473212
+ORDX200674,Clothing,Supplier D,West,397.08,Ads,Returned,Late Delivery,27-06-2024,1,0.442261077
+ORDX200675,Books,Supplier C,East,444.97,Email,Not Returned,,05-06-2024,0,0.441101883
+ORDX200678,Beauty,Supplier D,West,362.51,Social Media,Not Returned,,28-03-2024,0,0.445510404
+ORDX200681,Beauty,Supplier D,West,631.19,Ads,Returned,Damaged on Arrival,17-04-2024,1,0.467176294
+ORDX200682,Books,Supplier C,South,675.81,Ads,Not Returned,,02-04-2024,0,0.447678728
+ORDX200683,Electronics,Supplier C,West,263.71,Ads,Not Returned,,18-06-2024,0,0.418311775
+ORDX200687,Beauty,Supplier D,West,66.69,Social Media,Returned,Other,15-04-2024,1,0.424416217
+ORDX200690,Beauty,Supplier B,East,713.91,Email,Not Returned,,01-06-2024,0,0.434015168
+ORDX200691,Books,Supplier C,North,696.96,Ads,Returned,Wrong Size,05-06-2024,1,0.412938384
+ORDX200692,Electronics,Supplier D,East,599.34,Email,Not Returned,,13-04-2024,0,0.45592888
+ORDX200694,Beauty,Supplier D,West,89.28,Ads,Not Returned,,15-06-2024,0,0.428312739
+ORDX200695,Books,Supplier D,East,670.15,Organic,Returned,Wrong Size,28-03-2024,1,0.437556294
+ORDX200698,Beauty,Supplier B,West,485.04,Ads,Returned,Better Price Elsewhere,31-03-2024,1,0.411072487
+ORDX200704,Electronics,Supplier A,East,175.36,Organic,Returned,Defective Item,11-05-2024,1,0.400710153
+ORDX200707,Clothing,Supplier C,West,274.55,Social Media,Not Returned,,15-05-2024,0,0.424369376
+ORDX200708,Beauty,Supplier C,West,148.59,Email,Not Returned,,24-06-2024,0,0.444423008
+ORDX200710,Electronics,Supplier D,East,709,Email,Returned,Product Not as Described,23-06-2024,1,0.463832933
+ORDX200711,Beauty,Supplier A,East,715.48,Ads,Returned,Late Delivery,18-05-2024,1,0.462400379
+ORDX200713,Home & Kitchen,Supplier A,West,707.2,Ads,Returned,Wrong Size,26-04-2024,1,0.402328092
+ORDX200714,Clothing,Supplier D,South,254.21,Email,Not Returned,,05-05-2024,0,0.447708895
+ORDX200718,Books,Supplier C,East,228.28,Ads,Not Returned,,14-03-2024,0,0.407138519
+ORDX200720,Toys,Supplier A,East,488.28,Email,Not Returned,,13-04-2024,0,0.424123256
+ORDX200721,Toys,Supplier D,South,129.02,Email,Returned,Late Delivery,15-05-2024,1,0.40632441
+ORDX200722,Toys,Supplier A,West,669.12,Social Media,Not Returned,,09-06-2024,0,0.427906014
+ORDX200723,Electronics,Supplier A,West,682.36,Email,Not Returned,,12-06-2024,0,0.475244935
+ORDX200728,Clothing,Supplier B,South,661.89,Email,Not Returned,,24-03-2024,0,0.431123665
+ORDX200729,Books,Supplier A,West,28.62,Organic,Not Returned,,02-03-2024,0,0.40523532
+ORDX200730,Beauty,Supplier D,East,471.35,Email,Returned,Defective Item,17-03-2024,1,0.462511419
+ORDX200732,Beauty,Supplier D,East,620.91,Email,Not Returned,,25-04-2024,0,0.473316352
+ORDX200735,Clothing,Supplier D,South,339.92,Organic,Not Returned,,08-04-2024,0,0.42733392
+ORDX200736,Toys,Supplier D,North,578.19,Email,Returned,Defective Item,18-05-2024,1,0.402092668
+ORDX200739,Beauty,Supplier B,West,480.21,Social Media,Not Returned,,25-03-2024,0,0.40846574
+ORDX200742,Clothing,Supplier D,West,679.34,Social Media,Returned,Late Delivery,14-04-2024,1,0.46021946
+ORDX200743,Electronics,Supplier A,West,84,Organic,Returned,Late Delivery,28-04-2024,1,0.406027129
+ORDX200746,Books,Supplier D,East,406.01,Social Media,Returned,Defective Item,25-04-2024,1,0.424171857
+ORDX200747,Beauty,Supplier A,South,637.22,Email,Not Returned,,31-05-2024,0,0.484687094
+ORDX200749,Electronics,Supplier D,West,559.71,Organic,Returned,Damaged on Arrival,16-05-2024,1,0.438484395
+ORDX200750,Electronics,Supplier A,East,401.75,Ads,Not Returned,,11-06-2024,0,0.424245109
+ORDX200752,Beauty,Supplier C,East,336.71,Ads,Not Returned,,08-03-2024,0,0.427151879
+ORDX200754,Beauty,Supplier A,South,36.27,Ads,Returned,Defective Item,25-06-2024,1,0.422652614
+ORDX200759,Electronics,Supplier C,East,52.12,Email,Not Returned,,23-04-2024,0,0.410118134
+ORDX200760,Electronics,Supplier D,North,674.06,Social Media,Returned,Wrong Size,27-06-2024,1,0.412727624
+ORDX200761,Books,Supplier D,West,593.29,Organic,Not Returned,,15-05-2024,0,0.444039272
+ORDX200762,Beauty,Supplier C,South,605.17,Ads,Returned,Changed Mind,16-05-2024,1,0.455197668
+ORDX200763,Electronics,Supplier C,South,307.67,Social Media,Returned,Late Delivery,07-04-2024,1,0.416041309
+ORDX200764,Clothing,Supplier C,East,703.49,Social Media,Not Returned,,05-04-2024,0,0.44300027
+ORDX200766,Electronics,Supplier C,West,709.87,Social Media,Not Returned,,25-05-2024,0,0.447787355
+ORDX200769,Electronics,Supplier A,South,616.86,Ads,Not Returned,,13-06-2024,0,0.448418575
+ORDX200771,Beauty,Supplier B,West,568.24,Ads,Not Returned,,24-06-2024,0,0.416929712
+ORDX200773,Electronics,Supplier D,West,189.24,Email,Returned,Defective Item,21-06-2024,1,0.438526681
+ORDX200775,Beauty,Supplier A,South,599.53,Organic,Not Returned,,13-06-2024,0,0.455149692
+ORDX200777,Clothing,Supplier D,South,437.39,Organic,Returned,Better Price Elsewhere,06-05-2024,1,0.434269461
+ORDX200780,Toys,Supplier A,West,405.37,Organic,Not Returned,,24-06-2024,0,0.403957817
+ORDX200781,Books,Supplier B,South,358.07,Email,Not Returned,,09-06-2024,0,0.405229384
+ORDX200783,Electronics,Supplier B,West,700.18,Social Media,Not Returned,,11-03-2024,0,0.408510298
+ORDX200785,Clothing,Supplier A,East,41.94,Social Media,Not Returned,,30-06-2024,0,0.40417902
+ORDX200786,Beauty,Supplier C,East,276.47,Ads,Returned,Wrong Size,25-04-2024,1,0.422879998
+ORDX200787,Beauty,Supplier D,North,143.7,Email,Returned,Changed Mind,01-03-2024,1,0.411602672
+ORDX200789,Books,Supplier C,East,398.12,Organic,Not Returned,,26-03-2024,0,0.411452666
+ORDX200792,Electronics,Supplier A,West,715.06,Organic,Not Returned,,31-03-2024,0,0.450837095
+ORDX200795,Beauty,Supplier C,South,628.11,Ads,Returned,Better Price Elsewhere,21-05-2024,1,0.456849008
+ORDX200797,Books,Supplier D,North,535.62,Organic,Not Returned,,03-05-2024,0,0.400795242
+ORDX200805,Clothing,Supplier D,South,313.52,Social Media,Not Returned,,17-04-2024,0,0.430862464
+ORDX200806,Clothing,Supplier C,South,283.26,Organic,Not Returned,,05-03-2024,0,0.416509851
+ORDX200807,Clothing,Supplier C,North,529.2,Social Media,Not Returned,,28-04-2024,0,0.403332392
+ORDX200809,Clothing,Supplier C,West,229,Email,Not Returned,,08-06-2024,0,0.442143363
+ORDX200810,Home & Kitchen,Supplier A,South,563.52,Email,Not Returned,,01-04-2024,0,0.407586777
+ORDX200811,Clothing,Supplier D,South,677.54,Social Media,Returned,Incorrect Item,22-05-2024,1,0.456932044
+ORDX200812,Beauty,Supplier D,East,537.1,Organic,Not Returned,,20-03-2024,0,0.440573859
+ORDX200813,Beauty,Supplier D,North,491.03,Email,Returned,Better Price Elsewhere,29-06-2024,1,0.436211063
+ORDX200816,Clothing,Supplier C,West,663.68,Organic,Not Returned,,26-03-2024,0,0.446701577
+ORDX200817,Electronics,Supplier A,West,92.61,Organic,Returned,Changed Mind,26-05-2024,1,0.406629831
+ORDX200824,Electronics,Supplier A,South,385.08,Social Media,Not Returned,,29-04-2024,0,0.42954739
+ORDX200826,Clothing,Supplier A,East,161.31,Ads,Returned,Other,26-04-2024,1,0.414822024
+ORDX200827,Books,Supplier C,West,243.2,Email,Returned,Wrong Size,12-06-2024,1,0.438651326
+ORDX200828,Electronics,Supplier C,East,450.67,Ads,Not Returned,,26-04-2024,0,0.419686818
+ORDX200829,Electronics,Supplier C,South,616.82,Organic,Not Returned,,07-06-2024,0,0.432563538
+ORDX200830,Beauty,Supplier C,North,706.98,Social Media,Returned,Defective Item,22-03-2024,1,0.423740055
+ORDX200831,Electronics,Supplier A,East,115.36,Social Media,Not Returned,,09-03-2024,0,0.4018282
+ORDX200833,Books,Supplier B,South,719.14,Email,Returned,Changed Mind,05-03-2024,1,0.430712403
+ORDX200834,Electronics,Supplier C,West,706.44,Email,Returned,Product Not as Described,17-05-2024,1,0.468791123
+ORDX200838,Toys,Supplier A,West,582.61,Social Media,Not Returned,,24-05-2024,0,0.421771925
+ORDX200842,Toys,Supplier C,East,662.31,Email,Not Returned,,26-04-2024,0,0.428431637
+ORDX200843,Books,Supplier D,South,58.65,Email,Returned,Incorrect Item,12-04-2024,1,0.429235504
+ORDX200844,Electronics,Supplier B,South,530.27,Email,Not Returned,,09-04-2024,0,0.414222004
+ORDX200845,Clothing,Supplier D,South,226.65,Organic,Not Returned,,12-03-2024,0,0.419310035
+ORDX200847,Clothing,Supplier C,South,535.19,Email,Not Returned,,01-04-2024,0,0.460995878
+ORDX200848,Clothing,Supplier D,West,414.02,Organic,Not Returned,,27-05-2024,0,0.435728531
+ORDX200849,Clothing,Supplier A,South,339.55,Social Media,Not Returned,,31-03-2024,0,0.433930194
+ORDX200850,Home & Kitchen,Supplier D,South,536.91,Email,Not Returned,,24-03-2024,0,0.404531637
+ORDX200851,Beauty,Supplier D,West,83.35,Ads,Not Returned,,22-04-2024,0,0.427891434
+ORDX200855,Electronics,Supplier D,West,351.48,Ads,Returned,Damaged on Arrival,02-05-2024,1,0.431361232
+ORDX200856,Electronics,Supplier A,West,396.91,Email,Not Returned,,11-06-2024,0,0.454641345
+ORDX200858,Electronics,Supplier A,East,321.97,Social Media,Returned,Defective Item,30-04-2024,1,0.416320145
+ORDX200861,Clothing,Supplier A,East,322.3,Ads,Not Returned,,08-05-2024,0,0.426205557
+ORDX200863,Books,Supplier D,South,546.4,Social Media,Not Returned,,15-04-2024,0,0.442987795
+ORDX200864,Beauty,Supplier C,North,431,Email,Returned,Defective Item,31-05-2024,1,0.425090132
+ORDX200866,Beauty,Supplier D,South,585.33,Email,Not Returned,,09-04-2024,0,0.479692565
+ORDX200869,Electronics,Supplier A,East,520.52,Organic,Returned,Better Price Elsewhere,05-03-2024,1,0.424983961
+ORDX200870,Clothing,Supplier A,South,631.36,Email,Returned,Changed Mind,29-03-2024,1,0.476132512
+ORDX200871,Books,Supplier C,West,324.49,Organic,Returned,Late Delivery,26-06-2024,1,0.418064221
+ORDX200875,Clothing,Supplier D,West,732.76,Email,Returned,Other,14-04-2024,1,0.485417786
+ORDX200876,Books,Supplier C,North,717.22,Email,Not Returned,,21-06-2024,0,0.432976675
+ORDX200877,Electronics,Supplier C,East,276.11,Social Media,Not Returned,,06-05-2024,0,0.405140721
+ORDX200878,Books,Supplier D,South,472.25,Email,Returned,Incorrect Item,12-04-2024,1,0.458855713
+ORDX200879,Clothing,Supplier C,North,332.16,Email,Returned,Wrong Size,07-03-2024,1,0.410193552
+ORDX200880,Beauty,Supplier C,North,342.36,Ads,Not Returned,,19-04-2024,0,0.400382944
+ORDX200881,Books,Supplier A,South,440.91,Ads,Returned,Changed Mind,12-03-2024,1,0.438972223
+ORDX200882,Books,Supplier B,East,733.07,Ads,Returned,Defective Item,20-04-2024,1,0.404433683
+ORDX200884,Clothing,Supplier A,East,558.17,Social Media,Not Returned,,31-05-2024,0,0.440710317
+ORDX200886,Electronics,Supplier C,East,734.04,Email,Not Returned,,05-04-2024,0,0.458695944
+ORDX200887,Electronics,Supplier D,South,523.58,Social Media,Not Returned,,28-04-2024,0,0.438204249
+ORDX200889,Books,Supplier A,East,334.59,Organic,Returned,Damaged on Arrival,08-05-2024,1,0.414956022
+ORDX200890,Electronics,Supplier B,South,691.76,Ads,Not Returned,,12-04-2024,0,0.407113165
+ORDX200892,Books,Supplier D,East,623.61,Ads,Returned,Product Not as Described,02-03-2024,1,0.441975178
+ORDX200893,Beauty,Supplier D,South,454.47,Ads,Returned,Defective Item,31-03-2024,1,0.451284087
+ORDX200894,Electronics,Supplier B,South,627.35,Email,Returned,Other,27-03-2024,1,0.421073636
+ORDX200895,Beauty,Supplier A,South,334.88,Ads,Returned,Changed Mind,11-03-2024,1,0.443926571
+ORDX200896,Electronics,Supplier D,West,559.3,Email,Returned,Product Not as Described,20-04-2024,1,0.465117391
+ORDX200897,Clothing,Supplier C,North,407.51,Email,Not Returned,,07-03-2024,0,0.415493773
+ORDX200904,Electronics,Supplier A,North,180.49,Email,Not Returned,,24-06-2024,0,0.400022866
+ORDX200907,Beauty,Supplier D,North,498.07,Organic,Returned,Late Delivery,14-06-2024,1,0.410430093
+ORDX200909,Beauty,Supplier C,West,477.39,Email,Not Returned,,16-05-2024,0,0.468089107
+ORDX200911,Toys,Supplier A,South,599.02,Organic,Returned,Defective Item,15-04-2024,1,0.414468071
+ORDX200913,Beauty,Supplier A,North,113.58,Email,Returned,Better Price Elsewhere,14-03-2024,1,0.410684015
+ORDX200914,Electronics,Supplier C,West,206.49,Ads,Returned,Damaged on Arrival,20-03-2024,1,0.414277035
+ORDX200915,Clothing,Supplier D,East,412.17,Ads,Returned,Better Price Elsewhere,29-05-2024,1,0.431381619
+ORDX200916,Clothing,Supplier D,West,304.69,Ads,Not Returned,,10-03-2024,0,0.435658508
+ORDX200917,Books,Supplier D,East,616.34,Social Media,Returned,Better Price Elsewhere,05-06-2024,1,0.43914425
+ORDX200918,Clothing,Supplier D,South,124.49,Email,Returned,Better Price Elsewhere,08-04-2024,1,0.438420481
+ORDX200919,Home & Kitchen,Supplier D,South,496.02,Email,Returned,Late Delivery,23-06-2024,1,0.401676627
+ORDX200923,Beauty,Supplier C,East,704.28,Ads,Not Returned,,01-03-2024,0,0.453431008
+ORDX200925,Beauty,Supplier D,North,310.62,Social Media,Returned,Better Price Elsewhere,25-04-2024,1,0.402630107
+ORDX200928,Books,Supplier A,East,103.12,Email,Not Returned,,01-03-2024,0,0.424822582
+ORDX200929,Electronics,Supplier A,East,287.33,Social Media,Not Returned,,22-04-2024,0,0.413879597
+ORDX200933,Toys,Supplier C,East,554.61,Social Media,Not Returned,,29-04-2024,0,0.400083314
+ORDX200934,Electronics,Supplier D,North,635.69,Ads,Not Returned,,24-04-2024,0,0.412301577
+ORDX200935,Electronics,Supplier A,West,570.17,Ads,Returned,Other,11-05-2024,1,0.448213165
+ORDX200936,Beauty,Supplier A,North,588.04,Social Media,Not Returned,,25-03-2024,0,0.423342011
+ORDX200937,Beauty,Supplier A,North,710.41,Organic,Returned,Incorrect Item,07-03-2024,1,0.426627649
+ORDX200944,Books,Supplier D,North,279.74,Email,Not Returned,,24-03-2024,0,0.408848279
+ORDX200951,Beauty,Supplier D,South,46.61,Email,Not Returned,,11-05-2024,0,0.440877063
+ORDX200952,Toys,Supplier D,West,574.51,Ads,Returned,Incorrect Item,03-03-2024,1,0.422279275
+ORDX200953,Beauty,Supplier D,South,177.11,Social Media,Not Returned,,24-04-2024,0,0.429143591
+ORDX200956,Beauty,Supplier A,East,539.19,Organic,Not Returned,,29-06-2024,0,0.441942803
+ORDX200958,Clothing,Supplier B,South,553.03,Email,Not Returned,,14-05-2024,0,0.423393582
+ORDX200960,Books,Supplier B,South,727.99,Social Media,Not Returned,,01-05-2024,0,0.41047815
+ORDX200961,Books,Supplier D,West,528.13,Organic,Returned,Late Delivery,05-03-2024,1,0.439376433
+ORDX200963,Toys,Supplier C,West,580.63,Social Media,Not Returned,,10-03-2024,0,0.413634001
+ORDX200965,Clothing,Supplier A,East,219.2,Ads,Not Returned,,20-03-2024,0,0.418905604
+ORDX200966,Beauty,Supplier C,West,746.03,Email,Not Returned,,14-04-2024,0,0.48753713
+ORDX200967,Clothing,Supplier C,South,48.98,Ads,Returned,Damaged on Arrival,04-05-2024,1,0.407656701
+ORDX200969,Toys,Supplier C,West,614.05,Organic,Not Returned,,25-03-2024,0,0.410637791
+ORDX200970,Beauty,Supplier C,East,320.28,Organic,Returned,Wrong Size,15-04-2024,1,0.418316068
+ORDX200971,Books,Supplier C,North,636.11,Email,Not Returned,,24-04-2024,0,0.427207532
+ORDX200978,Electronics,Supplier A,East,269.2,Social Media,Returned,Incorrect Item,22-05-2024,1,0.412603931
+ORDX200980,Electronics,Supplier D,West,251.37,Organic,Not Returned,,24-05-2024,0,0.41658914
+ORDX200981,Beauty,Supplier D,North,288.51,Ads,Not Returned,,30-03-2024,0,0.403342348
+ORDX200982,Electronics,Supplier C,South,273.38,Email,Not Returned,,30-06-2024,0,0.434532006
+ORDX200983,Electronics,Supplier D,South,634.41,Email,Returned,Wrong Size,18-05-2024,1,0.467376444
+ORDX200984,Books,Supplier D,North,565.56,Social Media,Returned,Better Price Elsewhere,15-03-2024,1,0.408202835
+ORDX200985,Clothing,Supplier A,West,230.5,Organic,Returned,Other,31-05-2024,1,0.423889908
+ORDX200986,Books,Supplier D,South,363.2,Social Media,Returned,Other,08-04-2024,1,0.429912794
+ORDX200987,Beauty,Supplier D,East,549.97,Ads,Not Returned,,04-05-2024,0,0.449260873
+ORDX200991,Electronics,Supplier C,West,543.34,Email,Not Returned,,05-05-2024,0,0.457024476
+ORDX200993,Clothing,Supplier C,East,164.79,Email,Returned,Late Delivery,20-06-2024,1,0.425629512
+ORDX200998,Electronics,Supplier A,South,681.23,Email,Not Returned,,08-03-2024,0,0.471992484
+ORDX200002,Electronics,Supplier C,East,303.45,Social Media,Not Returned,,16-03-2024,0,0.407054181
+ORDX200004,Beauty,Supplier A,West,159.05,Email,Returned,Incorrect Item,25-04-2024,1,0.453308776
+ORDX200007,Electronics,Supplier C,West,226.29,Organic,Returned,Other,09-06-2024,1,0.40805602
+ORDX200008,Beauty,Supplier D,West,189.2,Social Media,Returned,Product Not as Described,28-06-2024,1,0.433123262
+ORDX200009,Toys,Supplier C,West,715.03,Ads,Returned,Changed Mind,16-06-2024,1,0.425414419
+ORDX200010,Books,Supplier C,South,380.12,Email,Returned,Damaged on Arrival,15-05-2024,1,0.445313784
+ORDX200011,Beauty,Supplier D,East,213.33,Email,Not Returned,,05-03-2024,0,0.443958957
+ORDX200012,Clothing,Supplier D,East,267.92,Organic,Returned,Product Not as Described,09-04-2024,1,0.413499578
+ORDX200014,Toys,Supplier A,West,71.14,Email,Returned,Product Not as Described,30-05-2024,1,0.406533868
+ORDX200015,Beauty,Supplier D,North,119.64,Email,Returned,Wrong Size,17-03-2024,1,0.409912812
+ORDX200017,Books,Supplier A,East,483.81,Organic,Returned,Better Price Elsewhere,08-03-2024,1,0.425505423
+ORDX200018,Books,Supplier A,West,332.09,Organic,Returned,Changed Mind,13-06-2024,1,0.426624832
+ORDX200019,Toys,Supplier D,South,414.3,Email,Returned,Other,09-03-2024,1,0.426438512
+ORDX200020,Beauty,Supplier B,South,451.48,Social Media,Returned,Product Not as Described,02-05-2024,1,0.403388302
+ORDX200021,Electronics,Supplier D,West,276.77,Organic,Not Returned,,03-05-2024,0,0.418381633
+ORDX200025,Beauty,Supplier D,West,723.46,Ads,Returned,Incorrect Item,14-05-2024,1,0.47384677
+ORDX200027,Electronics,Supplier A,East,123.68,Email,Returned,Late Delivery,25-03-2024,1,0.423156977
+ORDX200029,Electronics,Supplier D,East,158.15,Email,Returned,Damaged on Arrival,11-05-2024,1,0.424391788
+ORDX200030,Books,Supplier D,East,232.91,Organic,Not Returned,,24-05-2024,0,0.406617448
+ORDX200031,Clothing,Supplier D,North,242.29,Email,Not Returned,,07-05-2024,0,0.410643498
+ORDX200032,Electronics,Supplier A,South,165.82,Organic,Returned,Defective Item,02-06-2024,1,0.408688686
+ORDX200034,Books,Supplier C,South,373.76,Social Media,Returned,Other,12-05-2024,1,0.423827379
+ORDX200036,Clothing,Supplier A,West,231.44,Ads,Not Returned,,01-05-2024,0,0.431652778
+ORDX200039,Books,Supplier A,East,668.38,Email,Not Returned,,09-06-2024,0,0.46531168
+ORDX200040,Books,Supplier D,South,716.55,Organic,Not Returned,,11-03-2024,0,0.449736694
+ORDX200041,Clothing,Supplier D,West,428.15,Ads,Not Returned,,13-03-2024,0,0.44448618
+ORDX200046,Books,Supplier A,South,423.26,Ads,Returned,Changed Mind,12-03-2024,1,0.437711251
+ORDX200047,Toys,Supplier D,West,542.71,Ads,Returned,Product Not as Described,28-06-2024,1,0.420029669
+ORDX200049,Beauty,Supplier A,West,556.43,Ads,Not Returned,,25-06-2024,0,0.463009638
+ORDX200050,Electronics,Supplier C,West,470.98,Social Media,Returned,Damaged on Arrival,26-06-2024,1,0.430714354
+ORDX200051,Electronics,Supplier A,South,198.7,Ads,Not Returned,,23-05-2024,0,0.418628416
+ORDX200052,Electronics,Supplier A,South,75.21,Email,Not Returned,,13-03-2024,0,0.428492148
+ORDX200056,Beauty,Supplier D,East,361.79,Email,Not Returned,,25-04-2024,0,0.454617986
+ORDX200057,Electronics,Supplier C,South,391.59,Ads,Not Returned,,02-03-2024,0,0.424258244
+ORDX200060,Clothing,Supplier C,East,20.09,Email,Not Returned,,19-05-2024,0,0.415397743
+ORDX200062,Books,Supplier A,South,120.33,Email,Returned,Product Not as Described,21-06-2024,1,0.434841071
+ORDX200064,Clothing,Supplier D,North,380.83,Ads,Not Returned,,23-06-2024,0,0.401951806
+ORDX200067,Beauty,Supplier C,West,80.17,Ads,Returned,Better Price Elsewhere,01-03-2024,1,0.42084135
+ORDX200069,Clothing,Supplier C,West,619.25,Ads,Returned,Defective Item,11-04-2024,1,0.451290354
+ORDX200070,Beauty,Supplier D,South,275.68,Email,Not Returned,,20-03-2024,0,0.45732149
+ORDX200072,Books,Supplier A,North,599.8,Ads,Not Returned,,14-03-2024,0,0.414075784
+ORDX200074,Beauty,Supplier D,North,681.98,Organic,Not Returned,,27-03-2024,0,0.423402881
+ORDX200078,Electronics,Supplier D,North,256.74,Email,Not Returned,,19-04-2024,0,0.404153314
+ORDX200079,Electronics,Supplier C,East,196.71,Email,Not Returned,,07-04-2024,0,0.42030558
+ORDX200081,Electronics,Supplier C,West,441.34,Social Media,Returned,Wrong Size,18-03-2024,1,0.428606637
+ORDX200082,Clothing,Supplier D,North,676.64,Email,Returned,Defective Item,30-03-2024,1,0.441453875
+ORDX200083,Books,Supplier D,West,470.27,Organic,Not Returned,,01-03-2024,0,0.435244907
+ORDX200084,Books,Supplier D,West,658.81,Ads,Returned,Other,12-04-2024,1,0.456527423
+ORDX200085,Beauty,Supplier A,West,706.46,Email,Returned,Changed Mind,17-03-2024,1,0.492885463
+ORDX200088,Electronics,Supplier D,North,598.4,Social Media,Returned,Incorrect Item,23-03-2024,1,0.407416374
+ORDX200089,Clothing,Supplier B,East,732.56,Email,Not Returned,,09-05-2024,0,0.427355931
+ORDX200091,Books,Supplier C,South,358.51,Organic,Returned,Defective Item,01-06-2024,1,0.417371956
+ORDX200092,Beauty,Supplier D,North,273.58,Ads,Not Returned,,05-03-2024,0,0.402300145
+ORDX200095,Books,Supplier C,South,260.48,Organic,Not Returned,,23-05-2024,0,0.410471133
+ORDX200098,Clothing,Supplier D,South,552.86,Organic,Not Returned,,30-03-2024,0,0.442519025
+ORDX200101,Electronics,Supplier A,East,642.36,Email,Returned,Product Not as Described,02-06-2024,1,0.46025567
+ORDX200102,Toys,Supplier C,West,357.75,Email,Not Returned,,24-03-2024,0,0.418720721
+ORDX200105,Electronics,Supplier A,West,364.35,Organic,Not Returned,,22-03-2024,0,0.425787266
+ORDX200108,Clothing,Supplier A,West,462.78,Email,Not Returned,,13-05-2024,0,0.467111601
+ORDX200109,Beauty,Supplier A,South,553.61,Ads,Not Returned,,13-06-2024,0,0.45964575
+ORDX200110,Books,Supplier A,West,567.1,Organic,Not Returned,,23-03-2024,0,0.443384172
+ORDX200111,Clothing,Supplier D,East,533.49,Ads,Returned,Damaged on Arrival,19-05-2024,1,0.440037204
+ORDX200113,Beauty,Supplier A,East,349.77,Email,Not Returned,,18-03-2024,0,0.454979481
+ORDX200116,Electronics,Supplier C,South,668.1,Email,Returned,Wrong Size,16-03-2024,1,0.462858049
+ORDX200117,Clothing,Supplier A,West,34.6,Organic,Not Returned,,28-04-2024,0,0.410070876
+ORDX200118,Clothing,Supplier C,East,512.96,Ads,Returned,Changed Mind,09-05-2024,1,0.431702822
+ORDX200119,Clothing,Supplier A,South,488.85,Ads,Not Returned,,23-03-2024,0,0.446917645
+ORDX200120,Toys,Supplier D,South,734.62,Ads,Returned,Better Price Elsewhere,09-05-2024,1,0.430532153
+ORDX200121,Electronics,Supplier C,South,17.61,Email,Returned,Product Not as Described,07-06-2024,1,0.416391393
+ORDX200123,Books,Supplier D,North,602.71,Email,Not Returned,,05-03-2024,0,0.431678229
+ORDX200124,Beauty,Supplier C,East,291.48,Ads,Not Returned,,06-04-2024,0,0.42394337
+ORDX200126,Electronics,Supplier A,West,83.06,Ads,Returned,Other,04-03-2024,1,0.41356546
+ORDX200128,Clothing,Supplier D,North,358.44,Ads,Not Returned,,01-05-2024,0,0.400390952
+ORDX200129,Toys,Supplier D,South,362.63,Email,Returned,Damaged on Arrival,18-06-2024,1,0.422775283
+ORDX200131,Beauty,Supplier C,East,663.92,Organic,Not Returned,,19-05-2024,0,0.44275942
+ORDX200133,Beauty,Supplier A,South,139.1,Organic,Returned,Better Price Elsewhere,03-03-2024,1,0.422261892
+ORDX200137,Beauty,Supplier C,South,420.6,Social Media,Returned,Changed Mind,01-06-2024,1,0.439639003
+ORDX200139,Electronics,Supplier C,East,498.59,Social Media,Not Returned,,25-05-2024,0,0.420790323
+ORDX200140,Home & Kitchen,Supplier A,West,683.59,Ads,Returned,Defective Item,07-05-2024,1,0.400681739
+ORDX200142,Clothing,Supplier D,North,565.81,Email,Returned,Other,19-05-2024,1,0.433539376
+ORDX200143,Electronics,Supplier C,South,604.6,Organic,Returned,Other,26-04-2024,1,0.431693356
+ORDX200144,Toys,Supplier D,South,474.14,Email,Not Returned,,16-03-2024,0,0.43069105
+ORDX200145,Electronics,Supplier D,East,656.86,Ads,Not Returned,,08-03-2024,0,0.441201488
+ORDX200146,Beauty,Supplier B,West,221.63,Email,Returned,Defective Item,31-03-2024,1,0.411023542
+ORDX200152,Clothing,Supplier A,East,451.55,Email,Not Returned,,08-04-2024,0,0.454226691
+ORDX200156,Electronics,Supplier D,East,434.3,Ads,Returned,Damaged on Arrival,04-04-2024,1,0.425344564
+ORDX200157,Electronics,Supplier B,South,713.18,Email,Not Returned,,24-05-2024,0,0.427156787
+ORDX200158,Beauty,Supplier C,East,256.63,Organic,Returned,Wrong Size,07-03-2024,1,0.413828624
+ORDX200159,Clothing,Supplier A,North,203.35,Email,Not Returned,,02-04-2024,0,0.409106633
+ORDX200161,Clothing,Supplier A,North,520.1,Social Media,Returned,Wrong Size,25-04-2024,1,0.410631484
+ORDX200165,Clothing,Supplier D,East,591.61,Ads,Returned,Changed Mind,28-04-2024,1,0.44419707
+ORDX200167,Beauty,Supplier B,West,368.55,Email,Returned,Defective Item,01-04-2024,1,0.421382264
+ORDX200168,Beauty,Supplier A,North,609.94,Email,Not Returned,,27-05-2024,0,0.445936724
+ORDX200171,Books,Supplier A,East,171.23,Ads,Returned,Late Delivery,09-04-2024,1,0.411085929
+ORDX200173,Books,Supplier C,South,221.27,Organic,Not Returned,,07-04-2024,0,0.40772062
+ORDX200174,Books,Supplier D,East,646.46,Email,Not Returned,,16-06-2024,0,0.462499719
+ORDX200176,Books,Supplier A,West,59.21,Ads,Returned,Wrong Size,07-04-2024,1,0.41498869
+ORDX200177,Clothing,Supplier A,West,580.44,Organic,Returned,Wrong Size,14-05-2024,1,0.448860102
+ORDX200179,Beauty,Supplier D,East,624.72,Social Media,Returned,Other,14-04-2024,1,0.452309776
+ORDX200180,Clothing,Supplier C,West,716.3,Email,Returned,Damaged on Arrival,04-03-2024,1,0.477250637
+ORDX200184,Beauty,Supplier C,West,80.8,Organic,Returned,Damaged on Arrival,04-05-2024,1,0.413242044
+ORDX200185,Electronics,Supplier D,East,543.44,Ads,Returned,Wrong Size,25-04-2024,1,0.433103462
+ORDX200190,Beauty,Supplier D,West,352.89,Organic,Not Returned,,09-05-2024,0,0.439378734
+ORDX200192,Books,Supplier D,South,432.36,Social Media,Not Returned,,05-03-2024,0,0.434838284
+ORDX200193,Books,Supplier A,South,424.75,Organic,Not Returned,,23-06-2024,0,0.430094677
+ORDX200194,Clothing,Supplier D,East,100.23,Organic,Returned,Damaged on Arrival,03-03-2024,1,0.401750141
+ORDX200197,Clothing,Supplier A,North,679.58,Ads,Returned,Late Delivery,02-05-2024,1,0.424164609
+ORDX200199,Electronics,Supplier D,East,396.13,Ads,Not Returned,,08-04-2024,0,0.422639464
+ORDX200201,Books,Supplier D,East,529.75,Email,Not Returned,,17-06-2024,0,0.454091934
+ORDX200203,Beauty,Supplier C,West,535.41,Ads,Returned,Late Delivery,12-05-2024,1,0.453332136
+ORDX200204,Electronics,Supplier A,North,578.63,Organic,Returned,Incorrect Item,04-04-2024,1,0.401910222
+ORDX200205,Beauty,Supplier A,South,58.15,Email,Returned,Product Not as Described,06-04-2024,1,0.442922728
+ORDX200206,Beauty,Supplier A,East,395.03,Ads,Returned,Other,04-05-2024,1,0.439381406
+ORDX200208,Books,Supplier D,West,334.26,Email,Returned,Other,14-03-2024,1,0.452078892
+ORDX200209,Clothing,Supplier D,East,488.39,Social Media,Not Returned,,03-04-2024,0,0.434509703
+ORDX200210,Beauty,Supplier C,East,722.82,Ads,Returned,Changed Mind,13-04-2024,1,0.454764682
+ORDX200211,Toys,Supplier C,West,456.14,Ads,Returned,Better Price Elsewhere,28-06-2024,1,0.407161661
+ORDX200212,Books,Supplier C,South,170.34,Ads,Returned,Damaged on Arrival,10-06-2024,1,0.411750348
+ORDX200215,Books,Supplier D,West,348.57,Ads,Returned,Changed Mind,13-05-2024,1,0.434292793
+ORDX200216,Clothing,Supplier A,East,461.49,Organic,Not Returned,,16-04-2024,0,0.428395689
+ORDX200217,Beauty,Supplier B,West,656.53,Ads,Not Returned,,14-03-2024,0,0.42317098
+ORDX200218,Toys,Supplier A,West,327.01,Ads,Not Returned,,12-06-2024,0,0.406054849
+ORDX200219,Electronics,Supplier D,South,49.93,Ads,Not Returned,,26-06-2024,0,0.406965713
+ORDX200224,Electronics,Supplier D,South,628.4,Social Media,Not Returned,,30-05-2024,0,0.445705933
+ORDX200225,Toys,Supplier C,West,690.01,Social Media,Not Returned,,11-04-2024,0,0.421352887
+ORDX200227,Beauty,Supplier A,East,186.47,Organic,Not Returned,,24-04-2024,0,0.416870103
+ORDX200231,Books,Supplier A,South,294.74,Organic,Not Returned,,26-06-2024,0,0.420872694
+ORDX200232,Books,Supplier B,South,548.01,Ads,Returned,Incorrect Item,29-04-2024,1,0.400149965
+ORDX200233,Beauty,Supplier C,East,705.34,Organic,Not Returned,,02-03-2024,0,0.445726917
+ORDX200234,Toys,Supplier C,East,671.66,Email,Not Returned,,03-03-2024,0,0.429096178
+ORDX200235,Beauty,Supplier D,East,503.45,Ads,Returned,Damaged on Arrival,17-04-2024,1,0.445923104
+ORDX200237,Books,Supplier A,South,448.45,Email,Returned,Defective Item,19-03-2024,1,0.458368948
+ORDX200239,Electronics,Supplier C,South,625.3,Social Media,Not Returned,,06-04-2024,0,0.438593063
+ORDX200240,Clothing,Supplier D,East,533.43,Social Media,Returned,Incorrect Item,29-06-2024,1,0.437723843
+ORDX200241,Beauty,Supplier D,East,597.68,Organic,Returned,Late Delivery,18-03-2024,1,0.44491106
+ORDX200242,Toys,Supplier A,East,498.72,Social Media,Returned,Damaged on Arrival,29-06-2024,1,0.404089989
+ORDX200245,Clothing,Supplier A,South,24.8,Organic,Returned,Defective Item,26-06-2024,1,0.406311547
+ORDX200248,Electronics,Supplier D,East,252.94,Organic,Returned,Changed Mind,10-06-2024,1,0.404935905
+ORDX200249,Clothing,Supplier D,East,518.72,Email,Returned,Incorrect Item,07-06-2024,1,0.457835016
+ORDX200251,Books,Supplier D,East,383.08,Social Media,Returned,Wrong Size,14-03-2024,1,0.422547452
+ORDX200253,Beauty,Supplier D,East,357.61,Organic,Not Returned,,10-04-2024,0,0.427778934
+ORDX200260,Electronics,Supplier A,East,284.04,Social Media,Returned,Better Price Elsewhere,02-06-2024,1,0.413648019
+ORDX200261,Clothing,Supplier D,South,368.34,Ads,Returned,Better Price Elsewhere,21-06-2024,1,0.437073231
+ORDX200264,Books,Supplier A,South,427.31,Social Media,Not Returned,,25-03-2024,0,0.435693821
+ORDX200266,Clothing,Supplier B,West,722.68,Ads,Not Returned,,28-03-2024,0,0.419909455
+ORDX200269,Books,Supplier D,East,481.8,Email,Not Returned,,12-03-2024,0,0.450644915
+ORDX200270,Books,Supplier A,South,677.96,Organic,Not Returned,,22-05-2024,0,0.448189896
+ORDX200271,Books,Supplier A,West,526.43,Email,Returned,Other,02-03-2024,1,0.467156438
+ORDX200275,Beauty,Supplier B,West,734.84,Email,Not Returned,,15-05-2024,0,0.447491938
+ORDX200281,Toys,Supplier C,West,668.1,Email,Returned,Changed Mind,16-06-2024,1,0.440787159
+ORDX200282,Clothing,Supplier A,East,653.72,Email,Returned,Changed Mind,01-06-2024,1,0.468805453
+ORDX200284,Books,Supplier A,East,583.71,Social Media,Not Returned,,20-05-2024,0,0.438030601
+ORDX200285,Clothing,Supplier A,North,158.49,Email,Not Returned,,31-05-2024,0,0.405963511
+ORDX200286,Beauty,Supplier A,South,71.32,Organic,Not Returned,,03-03-2024,0,0.417471037
+ORDX200287,Toys,Supplier C,South,297.26,Email,Not Returned,,18-06-2024,0,0.411371451
+ORDX200288,Electronics,Supplier D,South,385.88,Social Media,Returned,Late Delivery,29-03-2024,1,0.428392728
+ORDX200290,Clothing,Supplier C,North,684.16,Organic,Returned,Damaged on Arrival,23-06-2024,1,0.408855964
+ORDX200293,Beauty,Supplier A,West,559.54,Social Media,Returned,Changed Mind,21-05-2024,1,0.46090342
+ORDX200294,Electronics,Supplier A,South,557.41,Organic,Not Returned,,02-06-2024,0,0.436407483
+ORDX200295,Beauty,Supplier B,West,716.24,Email,Returned,Defective Item,10-06-2024,1,0.446157837
+ORDX200296,Toys,Supplier A,West,396.38,Organic,Not Returned,,21-05-2024,0,0.403329846
+ORDX200297,Beauty,Supplier D,North,176.3,Email,Returned,Product Not as Described,09-05-2024,1,0.413895665
+ORDX200299,Books,Supplier D,East,208.5,Social Media,Not Returned,,29-05-2024,0,0.41023714
+ORDX200301,Beauty,Supplier D,North,318.88,Email,Returned,Better Price Elsewhere,07-06-2024,1,0.423967028
+ORDX200303,Beauty,Supplier D,South,567.2,Organic,Not Returned,,12-03-2024,0,0.451598947
+ORDX200304,Electronics,Supplier A,East,264.62,Ads,Returned,Defective Item,01-04-2024,1,0.414555669
+ORDX200306,Clothing,Supplier D,East,260.7,Email,Not Returned,,20-06-2024,0,0.439316815
+ORDX200307,Toys,Supplier C,West,655.57,Organic,Not Returned,,29-03-2024,0,0.413556811
+ORDX200308,Books,Supplier D,South,333.33,Email,Not Returned,,13-06-2024,0,0.448863732
+ORDX200312,Books,Supplier D,North,603.52,Social Media,Returned,Defective Item,04-04-2024,1,0.410866541
+ORDX200313,Beauty,Supplier A,South,460.35,Email,Not Returned,,14-03-2024,0,0.471880718
+ORDX200314,Toys,Supplier C,West,567.82,Social Media,Not Returned,,22-05-2024,0,0.412732699
+ORDX200315,Books,Supplier D,West,515.2,Email,Not Returned,,16-03-2024,0,0.465114671
+ORDX200316,Electronics,Supplier A,East,730.83,Social Media,Not Returned,,09-05-2024,0,0.44540534
+ORDX200317,Clothing,Supplier A,South,503.07,Ads,Not Returned,,30-06-2024,0,0.44793785
+ORDX200318,Electronics,Supplier C,South,684.64,Email,Returned,Incorrect Item,17-04-2024,1,0.464051556
+ORDX200321,Clothing,Supplier A,West,303.96,Ads,Returned,Better Price Elsewhere,13-05-2024,1,0.436822785
+ORDX200323,Beauty,Supplier C,East,173.95,Ads,Not Returned,,12-06-2024,0,0.415636628
+ORDX200324,Electronics,Supplier A,North,739.85,Social Media,Not Returned,,15-06-2024,0,0.418565823
+ORDX200328,Clothing,Supplier A,West,53.75,Ads,Returned,Changed Mind,05-03-2024,1,0.419050078
+ORDX200330,Beauty,Supplier A,East,83.51,Ads,Not Returned,,02-05-2024,0,0.417250266
+ORDX200332,Clothing,Supplier A,West,711.39,Organic,Returned,Other,15-03-2024,1,0.458277845
+ORDX200335,Books,Supplier A,East,472.18,Email,Not Returned,,08-05-2024,0,0.451178309
+ORDX200343,Books,Supplier B,East,623.97,Email,Returned,Damaged on Arrival,05-04-2024,1,0.415214808
+ORDX200344,Beauty,Supplier C,West,568.55,Organic,Not Returned,,17-05-2024,0,0.447929273
+ORDX200345,Clothing,Supplier C,East,170.38,Ads,Returned,Changed Mind,29-03-2024,1,0.407497844
+ORDX200346,Beauty,Supplier C,West,184.15,Organic,Returned,Late Delivery,15-03-2024,1,0.420532402
+ORDX200347,Beauty,Supplier D,North,717.19,Ads,Not Returned,,03-04-2024,0,0.433604202
+ORDX200348,Clothing,Supplier A,North,324.27,Email,Returned,Changed Mind,15-06-2024,1,0.417615318
+ORDX200351,Beauty,Supplier D,East,427.03,Organic,Returned,Other,13-03-2024,1,0.432717052
+ORDX200352,Beauty,Supplier B,South,666.92,Email,Not Returned,,28-04-2024,0,0.439488755
+ORDX200353,Beauty,Supplier A,East,222.07,Email,Returned,Other,12-03-2024,1,0.445806762
+ORDX200356,Electronics,Supplier D,North,671.22,Email,Returned,Other,22-05-2024,1,0.433419542
+ORDX200357,Toys,Supplier A,North,716.61,Email,Not Returned,,29-03-2024,0,0.41298484
+ORDX200361,Electronics,Supplier A,West,54.81,Email,Not Returned,,25-03-2024,0,0.430157805
+ORDX200364,Books,Supplier D,West,45.87,Ads,Not Returned,,08-05-2024,0,0.412849776
+ORDX200367,Books,Supplier D,West,435.52,Email,Not Returned,,19-06-2024,0,0.459367203
+ORDX200370,Books,Supplier C,West,195.51,Organic,Returned,Damaged on Arrival,13-05-2024,1,0.408987351
+ORDX200372,Electronics,Supplier A,West,436.51,Social Media,Returned,Damaged on Arrival,22-05-2024,1,0.436333596
+ORDX200373,Electronics,Supplier A,East,723.81,Email,Returned,Defective Item,18-03-2024,1,0.466132489
+ORDX200374,Beauty,Supplier D,East,162.33,Social Media,Returned,Damaged on Arrival,02-05-2024,1,0.419330701
+ORDX200375,Clothing,Supplier A,North,699.1,Organic,Not Returned,,21-04-2024,0,0.417881288
+ORDX200377,Electronics,Supplier B,South,718,Social Media,Not Returned,,15-06-2024,0,0.406687951
+ORDX200379,Beauty,Supplier C,East,145.03,Organic,Not Returned,,04-05-2024,0,0.405995459
+ORDX200380,Books,Supplier A,East,529.25,Email,Not Returned,,26-04-2024,0,0.455282284
+ORDX200381,Clothing,Supplier C,East,92.68,Email,Returned,Other,31-05-2024,1,0.420522061
+ORDX200382,Clothing,Supplier C,West,683.76,Organic,Returned,Damaged on Arrival,31-05-2024,1,0.4481422
+ORDX200383,Clothing,Supplier A,East,608.66,Email,Returned,Incorrect Item,30-06-2024,1,0.465550609
+ORDX200384,Electronics,Supplier D,West,121.03,Organic,Returned,Better Price Elsewhere,07-05-2024,1,0.407426584
+ORDX200387,Books,Supplier C,East,411.22,Organic,Not Returned,,10-04-2024,0,0.412373528
+ORDX200388,Books,Supplier C,East,416.19,Social Media,Not Returned,,05-05-2024,0,0.418081277
+ORDX200391,Clothing,Supplier A,West,166.14,Social Media,Returned,Incorrect Item,30-04-2024,1,0.424717599
+ORDX200392,Books,Supplier B,East,430.1,Email,Not Returned,,25-03-2024,0,0.401623062
+ORDX200393,Beauty,Supplier D,South,594.33,Email,Returned,Better Price Elsewhere,15-03-2024,1,0.48034444
+ORDX200394,Toys,Supplier D,South,363.29,Social Media,Returned,Late Delivery,23-03-2024,1,0.402078676
+ORDX200397,Toys,Supplier D,South,620.95,Organic,Not Returned,,07-06-2024,0,0.414812202
+ORDX200399,Clothing,Supplier B,South,279.5,Email,Not Returned,,23-03-2024,0,0.40414293
+ORDX200400,Beauty,Supplier A,South,559.64,Ads,Returned,Wrong Size,29-05-2024,1,0.460080386
+ORDX200401,Books,Supplier D,South,721.58,Organic,Not Returned,,13-03-2024,0,0.450097942
+ORDX200402,Books,Supplier D,East,228.68,Organic,Not Returned,,23-04-2024,0,0.406321315
+ORDX200403,Electronics,Supplier A,West,734.77,Organic,Returned,Damaged on Arrival,29-05-2024,1,0.452253555
+ORDX200404,Books,Supplier A,South,350.32,Ads,Returned,Late Delivery,22-04-2024,1,0.43250889
+ORDX200406,Toys,Supplier D,South,668.79,Ads,Not Returned,,28-06-2024,0,0.425854957
+ORDX200407,Electronics,Supplier A,East,434.29,Ads,Returned,Changed Mind,18-04-2024,1,0.426553214
+ORDX200408,Beauty,Supplier D,West,125.38,Social Media,Not Returned,,30-03-2024,0,0.428581932
+ORDX200411,Clothing,Supplier A,East,276.39,Email,Not Returned,,10-04-2024,0,0.441657903
+ORDX200413,Toys,Supplier A,South,433.62,Organic,Not Returned,,28-03-2024,0,0.402869862
+ORDX200414,Electronics,Supplier A,North,460.73,Ads,Not Returned,,05-03-2024,0,0.401244148
+ORDX200416,Beauty,Supplier A,West,41.02,Organic,Not Returned,,05-04-2024,0,0.418426015
+ORDX200417,Beauty,Supplier A,North,444.29,Ads,Returned,Defective Item,02-06-2024,1,0.415467803
+ORDX200418,Books,Supplier C,West,238.54,Social Media,Returned,Product Not as Described,29-04-2024,1,0.417364529
+ORDX200419,Beauty,Supplier A,North,118.7,Email,Returned,Changed Mind,19-06-2024,1,0.411043648
+ORDX200420,Beauty,Supplier C,East,318.62,Email,Returned,Damaged on Arrival,22-06-2024,1,0.444604636
+ORDX200421,Beauty,Supplier A,South,673.37,Ads,Not Returned,,27-06-2024,0,0.468288568
+ORDX200426,Electronics,Supplier D,South,142.86,Ads,Not Returned,,11-06-2024,0,0.413490017
+ORDX200427,Toys,Supplier D,West,453.15,Social Media,Returned,Other,03-05-2024,1,0.411439666
+ORDX200429,Electronics,Supplier A,South,659.96,Social Media,Returned,Late Delivery,19-04-2024,1,0.449193016
+ORDX200430,Home & Kitchen,Supplier D,East,613.44,Email,Returned,Late Delivery,18-05-2024,1,0.40124102
+ORDX200432,Clothing,Supplier C,North,245.06,Email,Not Returned,,18-05-2024,0,0.40409278
+ORDX200434,Home & Kitchen,Supplier D,East,616.04,Email,Not Returned,,11-04-2024,0,0.401422296
+ORDX200436,Books,Supplier A,North,593.62,Ads,Returned,Other,08-05-2024,1,0.413640755
+ORDX200438,Books,Supplier A,West,273.44,Social Media,Returned,Damaged on Arrival,08-06-2024,1,0.42785947
+ORDX200439,Toys,Supplier C,West,364.93,Ads,Returned,Incorrect Item,14-03-2024,1,0.400788857
+ORDX200440,Books,Supplier D,South,445.66,Social Media,Returned,Product Not as Described,15-06-2024,1,0.435787001
+ORDX200442,Beauty,Supplier B,West,116.13,Email,Returned,Incorrect Item,04-03-2024,1,0.403632973
+ORDX200443,Beauty,Supplier D,West,530.56,Email,Not Returned,,11-04-2024,0,0.478900122
+ORDX200445,Beauty,Supplier C,West,615,Organic,Not Returned,,02-05-2024,0,0.451264798
+ORDX200452,Books,Supplier B,South,738.47,Organic,Returned,Better Price Elsewhere,20-03-2024,1,0.405882664
+ORDX200453,Books,Supplier C,West,371.86,Email,Returned,Defective Item,06-03-2024,1,0.447864665
+ORDX200455,Books,Supplier A,East,188.57,Organic,Not Returned,,14-03-2024,0,0.404707717
+ORDX200456,Clothing,Supplier A,South,404.94,Ads,Returned,Late Delivery,21-04-2024,1,0.44090695
+ORDX200457,Electronics,Supplier A,South,630.44,Ads,Not Returned,,08-05-2024,0,0.449393467
+ORDX200458,Electronics,Supplier C,West,647.96,Ads,Not Returned,,10-05-2024,0,0.44566449
+ORDX200459,Clothing,Supplier C,East,241.16,Ads,Returned,Incorrect Item,03-05-2024,1,0.412466198
+ORDX200460,Electronics,Supplier C,South,250.89,Organic,Not Returned,,09-05-2024,0,0.406708962
+ORDX200462,Clothing,Supplier B,West,669.25,Organic,Not Returned,,14-06-2024,0,0.408519052
+ORDX200463,Electronics,Supplier D,East,608.08,Email,Not Returned,,20-04-2024,0,0.456558079
+ORDX200464,Electronics,Supplier D,West,624,Email,Returned,Product Not as Described,16-06-2024,1,0.469791224
+ORDX200465,Books,Supplier D,East,621.3,Social Media,Not Returned,,04-05-2024,0,0.439498781
+ORDX200467,Beauty,Supplier A,South,91.56,Email,Returned,Damaged on Arrival,06-03-2024,1,0.445316225
+ORDX200470,Electronics,Supplier D,West,710.44,Email,Not Returned,,18-06-2024,0,0.476043657
+ORDX200476,Clothing,Supplier A,North,540.02,Email,Not Returned,,23-06-2024,0,0.432916202
+ORDX200480,Books,Supplier D,North,693.37,Social Media,Not Returned,,11-06-2024,0,0.417192034
+ORDX200481,Books,Supplier D,West,127.17,Social Media,Not Returned,,02-04-2024,0,0.416299942
+ORDX200482,Beauty,Supplier B,East,598.53,Social Media,Not Returned,,29-05-2024,0,0.405022374
+ORDX200485,Clothing,Supplier B,South,328.56,Email,Not Returned,,22-04-2024,0,0.407575872
+ORDX200488,Clothing,Supplier D,East,631.04,Organic,Not Returned,,25-03-2024,0,0.439265221
+ORDX200489,Electronics,Supplier A,North,540.01,Social Media,Not Returned,,14-06-2024,0,0.404522962
+ORDX200491,Clothing,Supplier A,East,697.45,Organic,Not Returned,,25-03-2024,0,0.445238675
+ORDX200494,Books,Supplier A,East,478,Organic,Not Returned,,07-05-2024,0,0.425093337
+ORDX200497,Clothing,Supplier C,East,611.1,Ads,Not Returned,,22-06-2024,0,0.438702832
+ORDX200499,Clothing,Supplier A,West,503.69,Organic,Returned,Other,01-05-2024,1,0.443356906
+ORDX200500,Beauty,Supplier A,North,301.44,Social Media,Returned,Late Delivery,04-04-2024,1,0.403179099
+ORDX200501,Beauty,Supplier D,South,687.26,Email,Returned,Wrong Size,26-03-2024,1,0.487078923
+ORDX200502,Clothing,Supplier B,West,537.3,Email,Not Returned,,21-06-2024,0,0.425385374
+ORDX200503,Books,Supplier A,South,317.52,Email,Not Returned,,04-06-2024,0,0.44895232
+ORDX200506,Electronics,Supplier D,West,674.35,Email,Not Returned,,17-06-2024,0,0.473432146
+ORDX200507,Books,Supplier B,West,693.45,Social Media,Not Returned,,01-03-2024,0,0.411130518
+ORDX200510,Beauty,Supplier A,West,207.22,Social Media,Returned,Product Not as Described,08-04-2024,1,0.435623202
+ORDX200511,Books,Supplier C,South,591.84,Social Media,Not Returned,,28-06-2024,0,0.439350765
+ORDX200512,Books,Supplier D,South,495.18,Organic,Returned,Better Price Elsewhere,19-04-2024,1,0.433895976
+ORDX200514,Clothing,Supplier A,East,629.24,Organic,Not Returned,,10-03-2024,0,0.440355093
+ORDX200515,Books,Supplier A,East,54.57,Email,Returned,Damaged on Arrival,31-05-2024,1,0.421383775
+ORDX200517,Toys,Supplier A,East,627.48,Social Media,Returned,Wrong Size,25-04-2024,1,0.413118668
+ORDX200519,Clothing,Supplier A,West,347.28,Ads,Returned,Product Not as Described,24-04-2024,1,0.439917739
+ORDX200528,Books,Supplier A,South,630.09,Social Media,Not Returned,,04-04-2024,0,0.450212199
+ORDX200529,Toys,Supplier A,East,482.86,Ads,Returned,Defective Item,05-04-2024,1,0.405240117
+ORDX200530,Beauty,Supplier D,South,467.52,Social Media,Not Returned,,14-05-2024,0,0.449900358
+ORDX200532,Clothing,Supplier A,North,565.92,Organic,Returned,Product Not as Described,28-06-2024,1,0.408511073
+ORDX200535,Clothing,Supplier B,West,398.61,Email,Not Returned,,31-05-2024,0,0.415578744
+ORDX200546,Electronics,Supplier A,East,302.67,Email,Returned,Late Delivery,17-06-2024,1,0.435883296
+ORDX200547,Clothing,Supplier D,East,466.28,Social Media,Not Returned,,25-03-2024,0,0.432933887
+ORDX200550,Books,Supplier D,West,149.62,Organic,Not Returned,,20-05-2024,0,0.41252634
+ORDX200552,Electronics,Supplier C,West,451.48,Social Media,Not Returned,,05-04-2024,0,0.42932741
+ORDX200554,Clothing,Supplier D,North,442.45,Social Media,Not Returned,,02-06-2024,0,0.403997946
+ORDX200555,Electronics,Supplier A,North,469.93,Ads,Not Returned,,22-03-2024,0,0.401885707
+ORDX200556,Clothing,Supplier A,West,555.99,Organic,Not Returned,,07-04-2024,0,0.447105542
+ORDX200558,Toys,Supplier D,West,439.71,Ads,Not Returned,,10-05-2024,0,0.412766437
+ORDX200559,Beauty,Supplier D,North,550.93,Social Media,Not Returned,,04-04-2024,0,0.419510372
+ORDX200560,Electronics,Supplier C,West,236.08,Social Media,Not Returned,,22-03-2024,0,0.414085396
+ORDX200562,Home & Kitchen,Supplier A,West,421.19,Email,Returned,Damaged on Arrival,18-05-2024,1,0.40070357
+ORDX200563,Books,Supplier D,South,743.09,Social Media,Not Returned,,20-04-2024,0,0.457113563
+ORDX200564,Beauty,Supplier D,South,586,Social Media,Not Returned,,26-03-2024,0,0.458423205
+ORDX200566,Beauty,Supplier D,West,60.1,Email,Returned,Wrong Size,05-04-2024,1,0.444981079
+ORDX200569,Home & Kitchen,Supplier D,South,580.83,Email,Returned,Damaged on Arrival,07-05-2024,1,0.407605414
+ORDX200572,Toys,Supplier D,South,443.06,Organic,Not Returned,,15-04-2024,0,0.402339149
+ORDX200574,Clothing,Supplier B,West,383.86,Email,Returned,Better Price Elsewhere,27-06-2024,1,0.414539566
+ORDX200575,Clothing,Supplier D,East,224.72,Email,Returned,Late Delivery,17-04-2024,1,0.436746695
+ORDX200576,Electronics,Supplier D,South,157.94,Ads,Not Returned,,09-03-2024,0,0.414551667
+ORDX200577,Home & Kitchen,Supplier D,South,582.84,Email,Returned,Changed Mind,13-03-2024,1,0.407746261
+ORDX200580,Books,Supplier D,West,601.64,Social Media,Returned,Wrong Size,22-04-2024,1,0.450092537
+ORDX200582,Electronics,Supplier B,East,609.31,Email,Returned,Better Price Elsewhere,21-05-2024,1,0.411083278
+ORDX200584,Clothing,Supplier D,West,426.07,Ads,Not Returned,,27-06-2024,0,0.444337149
+ORDX200586,Books,Supplier D,North,508.35,Ads,Not Returned,,03-04-2024,0,0.406458607
+ORDX200588,Beauty,Supplier C,East,178.06,Organic,Not Returned,,24-06-2024,0,0.408309035
+ORDX200590,Clothing,Supplier A,West,275.33,Organic,Not Returned,,05-06-2024,0,0.42706991
+ORDX200591,Beauty,Supplier D,East,210.66,Email,Not Returned,,20-06-2024,0,0.4437677
+ORDX200592,Books,Supplier A,South,273.41,Social Media,Not Returned,,14-03-2024,0,0.424746863
+ORDX200593,Beauty,Supplier B,East,739.67,Email,Not Returned,,23-05-2024,0,0.435852314
+ORDX200594,Electronics,Supplier A,West,353.53,Organic,Returned,Other,07-06-2024,1,0.425019785
+ORDX200601,Books,Supplier D,North,235.53,Email,Returned,Incorrect Item,02-03-2024,1,0.405751258
+ORDX200603,Clothing,Supplier C,East,286.67,Social Media,Returned,Changed Mind,07-06-2024,1,0.413394646
+ORDX200605,Beauty,Supplier B,South,549.7,Organic,Not Returned,,02-06-2024,0,0.404938491
+ORDX200606,Electronics,Supplier C,West,731.64,Social Media,Not Returned,,29-03-2024,0,0.449349979
+ORDX200609,Books,Supplier C,South,580.53,Social Media,Not Returned,,04-04-2024,0,0.438542499
+ORDX200611,Beauty,Supplier C,East,429.78,Organic,Returned,Defective Item,07-06-2024,1,0.426067355
+ORDX200612,Beauty,Supplier C,East,378.84,Organic,Returned,Incorrect Item,10-03-2024,1,0.422456651
+ORDX200614,Home & Kitchen,Supplier D,West,700.22,Ads,Returned,Better Price Elsewhere,20-06-2024,1,0.40065289
+ORDX200616,Electronics,Supplier D,North,306.4,Email,Not Returned,,06-03-2024,0,0.407628325
+ORDX200617,Electronics,Supplier A,West,19.37,Email,Returned,Product Not as Described,05-05-2024,1,0.427638757
+ORDX200618,Beauty,Supplier D,East,651.95,Organic,Returned,Other,08-05-2024,1,0.448803659
+ORDX200619,Toys,Supplier A,North,648.41,Email,Returned,Incorrect Item,26-03-2024,1,0.408195425
+ORDX200620,Clothing,Supplier A,West,606.92,Ads,Returned,Changed Mind,17-05-2024,1,0.458557274
+ORDX200622,Beauty,Supplier A,East,620.53,Organic,Returned,Other,29-05-2024,1,0.447771888
+ORDX200625,Books,Supplier A,West,60.55,Social Media,Returned,Late Delivery,03-06-2024,1,0.412808431
+ORDX200626,Electronics,Supplier C,West,674.69,Ads,Not Returned,,21-06-2024,0,0.447581554
+ORDX200627,Beauty,Supplier B,West,722.44,Social Media,Returned,Better Price Elsewhere,18-05-2024,1,0.425552626
+ORDX200628,Books,Supplier D,North,162.5,Email,Not Returned,,08-04-2024,0,0.400651816
+ORDX200629,Books,Supplier C,East,209.96,Ads,Returned,Damaged on Arrival,13-03-2024,1,0.405855948
+ORDX200631,Books,Supplier D,South,375,Social Media,Returned,Better Price Elsewhere,10-03-2024,1,0.430752222
+ORDX200632,Home & Kitchen,Supplier C,South,690.84,Email,Not Returned,,03-03-2024,0,0.408567967
+ORDX200633,Books,Supplier B,East,713.55,Email,Not Returned,,26-06-2024,0,0.421540238
+ORDX200636,Home & Kitchen,Supplier A,West,585.61,Email,Returned,Wrong Size,22-04-2024,1,0.412213569
+ORDX200638,Beauty,Supplier A,West,191.23,Ads,Returned,Changed Mind,01-04-2024,1,0.436788013
+ORDX200640,Books,Supplier C,East,721.15,Organic,Returned,Defective Item,29-05-2024,1,0.434325475
+ORDX200641,Clothing,Supplier D,South,371.01,Email,Not Returned,,26-04-2024,0,0.456103715
+ORDX200642,Clothing,Supplier D,North,639.82,Organic,Returned,Wrong Size,18-06-2024,1,0.412503609
+ORDX200643,Clothing,Supplier D,North,708.83,Ads,Not Returned,,07-05-2024,0,0.425029972
+ORDX200645,Toys,Supplier D,South,496.7,Social Media,Not Returned,,10-06-2024,0,0.411420132
+ORDX200647,Books,Supplier A,East,425.22,Organic,Not Returned,,18-06-2024,0,0.421354637
+ORDX200648,Beauty,Supplier C,East,573.99,Social Media,Returned,Defective Item,28-06-2024,1,0.441764955
+ORDX200653,Books,Supplier A,East,359.03,Organic,Not Returned,,04-06-2024,0,0.416678795
+ORDX200655,Clothing,Supplier B,West,278.9,Email,Returned,Other,20-03-2024,1,0.407167301
+ORDX200657,Electronics,Supplier C,East,578.28,Ads,Not Returned,,28-06-2024,0,0.428731479
+ORDX200658,Clothing,Supplier C,West,166.91,Ads,Not Returned,,14-03-2024,0,0.419038642
+ORDX200660,Clothing,Supplier D,South,597.4,Email,Returned,Damaged on Arrival,13-03-2024,1,0.472442156
+ORDX200662,Books,Supplier C,North,711.8,Ads,Not Returned,,24-06-2024,0,0.413982722
+ORDX200663,Clothing,Supplier C,South,702.34,Organic,Not Returned,,17-03-2024,0,0.446330947
+ORDX200665,Beauty,Supplier D,West,404.38,Social Media,Not Returned,,29-03-2024,0,0.4485138
+ORDX200666,Toys,Supplier B,West,747.32,Email,Returned,Product Not as Described,23-04-2024,1,0.407893591
+ORDX200667,Clothing,Supplier C,North,682.68,Organic,Returned,Incorrect Item,09-03-2024,1,0.408752167
+ORDX200668,Electronics,Supplier C,South,518.99,Ads,Returned,Wrong Size,01-04-2024,1,0.433312894
+ORDX200670,Books,Supplier B,West,632.18,Social Media,Returned,Defective Item,30-06-2024,1,0.406832922
+ORDX200671,Books,Supplier C,South,241.29,Email,Not Returned,,05-05-2024,0,0.435385858
+ORDX200672,Books,Supplier C,North,671.84,Social Media,Returned,Incorrect Item,02-05-2024,1,0.408904183
+ORDX200674,Clothing,Supplier C,East,524.47,Social Media,Not Returned,,31-05-2024,0,0.430222498
+ORDX200675,Beauty,Supplier C,East,147.41,Organic,Not Returned,,21-04-2024,0,0.406162028
+ORDX200676,Books,Supplier C,East,350.87,Organic,Not Returned,,05-06-2024,0,0.40813643
+ORDX200677,Clothing,Supplier A,North,328.67,Email,Returned,Wrong Size,09-03-2024,1,0.417925889
+ORDX200678,Books,Supplier A,East,45.55,Social Media,Returned,Late Delivery,27-04-2024,1,0.400033632
+ORDX200683,Electronics,Supplier A,East,717.46,Email,Not Returned,,09-06-2024,0,0.465673961
+ORDX200684,Books,Supplier C,South,389.75,Ads,Not Returned,,12-04-2024,0,0.427253776
+ORDX200687,Beauty,Supplier A,South,534.79,Organic,Not Returned,,18-05-2024,0,0.450494885
+ORDX200688,Books,Supplier D,North,182.81,Email,Returned,Better Price Elsewhere,02-05-2024,1,0.402067888
+ORDX200690,Beauty,Supplier C,West,44.34,Ads,Returned,Incorrect Item,26-06-2024,1,0.418309269
+ORDX200693,Books,Supplier A,West,118.39,Organic,Not Returned,,24-03-2024,0,0.411529056
+ORDX200695,Toys,Supplier D,West,351.97,Ads,Not Returned,,11-06-2024,0,0.406608971
+ORDX200697,Beauty,Supplier A,West,370.45,Social Media,Not Returned,,31-03-2024,0,0.447302079
+ORDX200698,Books,Supplier C,East,636.54,Email,Not Returned,,10-04-2024,0,0.454848228
+ORDX200699,Toys,Supplier A,South,294.85,Ads,Returned,Damaged on Arrival,02-06-2024,1,0.400748011
+ORDX200700,Beauty,Supplier D,South,589.32,Email,Not Returned,,22-06-2024,0,0.479981554
+ORDX200702,Clothing,Supplier B,South,556.14,Ads,Not Returned,,04-03-2024,0,0.405116505
+ORDX200703,Electronics,Supplier A,North,489.15,Social Media,Not Returned,,20-03-2024,0,0.400972857
+ORDX200705,Beauty,Supplier A,North,156.4,Email,Returned,Better Price Elsewhere,24-06-2024,1,0.413694631
+ORDX200706,Books,Supplier C,East,633.14,Social Media,Not Returned,,13-05-2024,0,0.433472041
+ORDX200707,Electronics,Supplier C,East,354.17,Social Media,Not Returned,,25-06-2024,0,0.410611389
+ORDX200708,Clothing,Supplier C,East,549.43,Organic,Returned,Defective Item,01-04-2024,1,0.426593047
+ORDX200709,Clothing,Supplier A,South,593.39,Social Media,Not Returned,,10-03-2024,0,0.452104065
+ORDX200710,Toys,Supplier C,South,381.36,Email,Not Returned,,22-03-2024,0,0.417293422
+ORDX200711,Toys,Supplier A,West,385.12,Ads,Not Returned,,19-05-2024,0,0.410128053
+ORDX200713,Books,Supplier C,South,642.47,Organic,Not Returned,,20-06-2024,0,0.437535534
+ORDX200714,Books,Supplier D,East,53.31,Email,Not Returned,,24-04-2024,0,0.420089256
+ORDX200716,Clothing,Supplier C,West,732.97,Email,Returned,Product Not as Described,11-05-2024,1,0.478457613
+ORDX200717,Clothing,Supplier C,North,648.72,Social Media,Returned,Defective Item,11-04-2024,1,0.411706278
+ORDX200718,Books,Supplier D,North,719.97,Email,Not Returned,,03-06-2024,0,0.440044833
+ORDX200720,Beauty,Supplier A,North,487.25,Email,Not Returned,,11-06-2024,0,0.437157889
+ORDX200721,Beauty,Supplier C,East,732.39,Email,Returned,Damaged on Arrival,12-04-2024,1,0.4744162
+ORDX200722,Books,Supplier A,West,492.09,Ads,Returned,Changed Mind,14-05-2024,1,0.445773045
+ORDX200724,Electronics,Supplier A,North,446.08,Email,Returned,Other,02-06-2024,1,0.418654461
+ORDX200725,Electronics,Supplier A,South,277.52,Ads,Not Returned,,18-06-2024,0,0.424205216
+ORDX200726,Books,Supplier A,West,422.43,Organic,Returned,Incorrect Item,08-04-2024,1,0.433049525
+ORDX200728,Clothing,Supplier C,East,454.34,Email,Not Returned,,15-05-2024,0,0.446287538
+ORDX200729,Clothing,Supplier B,West,744.44,Ads,Not Returned,,08-05-2024,0,0.421448335
+ORDX200730,Clothing,Supplier D,West,197.59,Email,Returned,Other,09-03-2024,1,0.44679121
+ORDX200732,Books,Supplier A,West,351.02,Email,Returned,Wrong Size,18-04-2024,1,0.454509848
+ORDX200733,Books,Supplier C,East,646.38,Ads,Returned,Late Delivery,20-05-2024,1,0.436720965
+ORDX200734,Beauty,Supplier C,West,360.13,Organic,Not Returned,,16-06-2024,0,0.433024612
+ORDX200735,Clothing,Supplier C,East,368.7,Email,Not Returned,,17-06-2024,0,0.44015486
+ORDX200737,Toys,Supplier C,East,597.67,Ads,Not Returned,,01-04-2024,0,0.405344201
+ORDX200738,Books,Supplier D,North,667.89,Ads,Not Returned,,29-06-2024,0,0.41767414
+ORDX200743,Electronics,Supplier A,North,244.69,Email,Not Returned,,25-05-2024,0,0.404502347
+ORDX200744,Electronics,Supplier D,North,687.69,Social Media,Not Returned,,24-06-2024,0,0.413686636
+ORDX200748,Books,Supplier D,South,42.74,Organic,Returned,Product Not as Described,04-05-2024,1,0.401969712
+ORDX200751,Beauty,Supplier C,North,734.2,Email,Returned,Incorrect Item,17-06-2024,1,0.446721103
+ORDX200752,Clothing,Supplier C,North,699.05,Ads,Not Returned,,16-06-2024,0,0.417526736
+ORDX200753,Electronics,Supplier C,West,458.75,Email,Returned,Damaged on Arrival,19-04-2024,1,0.450939833
+ORDX200754,Clothing,Supplier A,South,287.24,Email,Not Returned,,02-04-2024,0,0.451304522
+ORDX200756,Beauty,Supplier B,East,422.34,Email,Not Returned,,21-06-2024,0,0.413358838
+ORDX200757,Clothing,Supplier D,East,532.37,Ads,Returned,Better Price Elsewhere,17-06-2024,1,0.439957123
+ORDX200758,Electronics,Supplier A,South,614.16,Social Media,Not Returned,,30-05-2024,0,0.445906964
+ORDX200759,Clothing,Supplier B,South,639.58,Ads,Returned,Product Not as Described,28-05-2024,1,0.410964943
+ORDX200760,Books,Supplier C,South,501.82,Ads,Returned,Product Not as Described,28-04-2024,1,0.435230119
+ORDX200761,Books,Supplier B,South,304.62,Email,Not Returned,,17-05-2024,0,0.401496646
+ORDX200762,Clothing,Supplier A,East,205.77,Social Media,Returned,Other,26-03-2024,1,0.415678013
+ORDX200765,Books,Supplier D,West,566.3,Ads,Not Returned,,16-03-2024,0,0.449875049
+ORDX200766,Beauty,Supplier C,South,552.27,Social Media,Returned,Damaged on Arrival,07-05-2024,1,0.449072589
+ORDX200767,Clothing,Supplier C,North,592.66,Ads,Not Returned,,06-03-2024,0,0.410038175
+ORDX200768,Books,Supplier C,West,79.26,Email,Returned,Better Price Elsewhere,13-03-2024,1,0.426973397
+ORDX200770,Clothing,Supplier C,North,650.94,Ads,Returned,Changed Mind,14-06-2024,1,0.414135446
+ORDX200771,Beauty,Supplier D,South,492.22,Organic,Returned,Incorrect Item,02-06-2024,1,0.446216269
+ORDX200774,Clothing,Supplier D,East,648.18,Organic,Not Returned,,10-03-2024,0,0.440490688
+ORDX200777,Clothing,Supplier A,South,572.75,Ads,Returned,Other,07-05-2024,1,0.452943177
+ORDX200779,Clothing,Supplier D,East,370.07,Social Media,Returned,Product Not as Described,05-06-2024,1,0.426093023
+ORDX200780,Electronics,Supplier A,North,456.55,Ads,Not Returned,,27-03-2024,0,0.400952769
+ORDX200781,Books,Supplier A,South,305.71,Organic,Returned,Incorrect Item,02-03-2024,1,0.421648792
+ORDX200783,Electronics,Supplier A,West,27.49,Organic,Not Returned,,15-04-2024,0,0.402078516
+ORDX200787,Beauty,Supplier C,West,256.76,Email,Returned,Other,04-06-2024,1,0.452186306
+ORDX200790,Beauty,Supplier B,South,412.31,Social Media,Returned,Wrong Size,18-04-2024,1,0.400655782
+ORDX200792,Toys,Supplier C,South,141.93,Email,Not Returned,,10-05-2024,0,0.400502137
+ORDX200794,Books,Supplier C,South,475.79,Social Media,Returned,Defective Item,05-04-2024,1,0.431073312
+ORDX200795,Electronics,Supplier D,West,45.35,Organic,Not Returned,,02-04-2024,0,0.402135444
+ORDX200797,Books,Supplier A,West,190.27,Social Media,Not Returned,,19-05-2024,0,0.421961941
+ORDX200800,Clothing,Supplier D,West,696.6,Organic,Not Returned,,01-05-2024,0,0.455985382
+ORDX200805,Electronics,Supplier A,East,573.91,Organic,Returned,Product Not as Described,10-03-2024,1,0.428774359
+ORDX200808,Books,Supplier A,South,487.94,Social Media,Not Returned,,02-05-2024,0,0.440024343
+ORDX200812,Clothing,Supplier D,East,348.76,Organic,Returned,Damaged on Arrival,02-06-2024,1,0.419200013
+ORDX200813,Electronics,Supplier C,South,725.56,Email,Not Returned,,24-03-2024,0,0.467006037
+ORDX200815,Books,Supplier C,East,267.32,Organic,Returned,Changed Mind,17-04-2024,1,0.402293078
+ORDX200816,Clothing,Supplier C,East,523.32,Social Media,Not Returned,,13-03-2024,0,0.430140697
+ORDX200819,Beauty,Supplier D,East,426.09,Social Media,Not Returned,,11-06-2024,0,0.438074045
+ORDX200820,Electronics,Supplier C,West,132.82,Organic,Returned,Changed Mind,11-03-2024,1,0.401521098
+ORDX200821,Beauty,Supplier C,East,337.62,Social Media,Returned,Late Delivery,18-03-2024,1,0.424923643
+ORDX200822,Beauty,Supplier A,West,244.49,Social Media,Returned,Better Price Elsewhere,27-03-2024,1,0.438284012
+ORDX200824,Books,Supplier A,East,565.31,Ads,Not Returned,,10-03-2024,0,0.439024596
+ORDX200826,Books,Supplier C,East,244.64,Social Media,Not Returned,,17-06-2024,0,0.406021673
+ORDX200827,Clothing,Supplier A,North,138.65,Email,Returned,Wrong Size,07-05-2024,1,0.404575855
+ORDX200828,Books,Supplier C,East,252.51,Email,Not Returned,,21-03-2024,0,0.427382033
+ORDX200832,Electronics,Supplier C,East,294.55,Ads,Returned,Defective Item,24-06-2024,1,0.408694962
+ORDX200834,Books,Supplier D,West,223.86,Social Media,Not Returned,,08-03-2024,0,0.42313349
+ORDX200836,Beauty,Supplier C,South,148.59,Organic,Returned,Better Price Elsewhere,31-05-2024,1,0.414929075
+ORDX200837,Electronics,Supplier D,West,289.83,Social Media,Not Returned,,16-05-2024,0,0.424686005
+ORDX200838,Books,Supplier A,East,242.18,Organic,Returned,Wrong Size,09-06-2024,1,0.408461154
+ORDX200840,Toys,Supplier A,North,544.57,Email,Not Returned,,21-03-2024,0,0.400936795
+ORDX200841,Clothing,Supplier A,West,196.06,Ads,Not Returned,,29-05-2024,0,0.429135833
+ORDX200843,Clothing,Supplier C,South,443.03,Ads,Returned,Damaged on Arrival,16-05-2024,1,0.435532527
+ORDX200847,Electronics,Supplier B,East,729.5,Ads,Not Returned,,14-04-2024,0,0.40110881
+ORDX200848,Electronics,Supplier A,West,312.16,Social Media,Not Returned,,04-03-2024,0,0.427480014
+ORDX200849,Clothing,Supplier D,South,239.72,Email,Not Returned,,12-03-2024,0,0.446669425
+ORDX200852,Electronics,Supplier A,West,516.91,Social Media,Not Returned,,18-04-2024,0,0.442080035
+ORDX200854,Electronics,Supplier A,West,172.88,Organic,Not Returned,,18-04-2024,0,0.412262058
+ORDX200858,Beauty,Supplier C,South,384.86,Social Media,Not Returned,,27-05-2024,0,0.437085601
+ORDX200859,Books,Supplier A,West,399.68,Organic,Returned,Product Not as Described,10-03-2024,1,0.431429407
+ORDX200860,Clothing,Supplier A,East,141.97,Organic,Not Returned,,29-03-2024,0,0.40585683
+ORDX200861,Clothing,Supplier D,West,600.01,Social Media,Returned,Changed Mind,17-03-2024,1,0.454506265
+ORDX200862,Electronics,Supplier A,West,292.95,Ads,Not Returned,,15-04-2024,0,0.428410762
+ORDX200864,Electronics,Supplier A,South,409.74,Email,Not Returned,,09-03-2024,0,0.452411983
+ORDX200865,Electronics,Supplier D,South,401.37,Email,Not Returned,,08-06-2024,0,0.450585638
+ORDX200868,Beauty,Supplier C,West,469.3,Organic,Not Returned,,16-05-2024,0,0.440818285
+ORDX200869,Electronics,Supplier D,South,374.02,Ads,Not Returned,,10-05-2024,0,0.429846615
+ORDX200870,Toys,Supplier C,East,464.94,Email,Not Returned,,06-04-2024,0,0.414467563
+ORDX200873,Books,Supplier D,West,648.46,Organic,Not Returned,,30-03-2024,0,0.447994983
+ORDX200875,Books,Supplier D,North,293.13,Email,Returned,Other,14-03-2024,1,0.409787724
+ORDX200877,Books,Supplier A,East,524.6,Ads,Not Returned,,17-06-2024,0,0.436117281
+ORDX200889,Toys,Supplier C,East,661.78,Organic,Returned,Better Price Elsewhere,01-06-2024,1,0.40225367
+ORDX200896,Toys,Supplier D,West,49.81,Email,Returned,Defective Item,04-04-2024,1,0.403850071
+ORDX200897,Books,Supplier A,West,673.97,Organic,Returned,Product Not as Described,03-06-2024,1,0.451050651
+ORDX200901,Clothing,Supplier D,South,124.5,Ads,Returned,Wrong Size,22-04-2024,1,0.419748069
+ORDX200902,Books,Supplier D,West,51.69,Email,Not Returned,,11-06-2024,0,0.431858532
+ORDX200903,Books,Supplier D,West,58.03,Ads,Returned,Other,27-06-2024,1,0.413705402
+ORDX200904,Electronics,Supplier D,West,476.46,Organic,Not Returned,,08-03-2024,0,0.432545437
+ORDX200906,Clothing,Supplier C,South,641.63,Organic,Returned,Product Not as Described,25-04-2024,1,0.441981622
+ORDX200907,Clothing,Supplier C,West,71.16,Ads,Returned,Incorrect Item,14-06-2024,1,0.412290062
+ORDX200908,Beauty,Supplier D,North,685.15,Organic,Not Returned,,26-04-2024,0,0.423627472
+ORDX200909,Clothing,Supplier D,East,136.15,Email,Not Returned,,26-06-2024,0,0.430434698
+ORDX200912,Beauty,Supplier A,South,235.52,Ads,Returned,Changed Mind,17-06-2024,1,0.436820995
+ORDX200913,Clothing,Supplier A,East,561.41,Social Media,Not Returned,,10-06-2024,0,0.440942075
+ORDX200917,Toys,Supplier C,West,641.24,Ads,Not Returned,,15-04-2024,0,0.420188882
+ORDX200918,Electronics,Supplier A,South,366.99,Email,Returned,Incorrect Item,27-06-2024,1,0.449340569
+ORDX200919,Toys,Supplier D,South,378.23,Social Media,Not Returned,,28-03-2024,0,0.403121391
+ORDX200921,Books,Supplier D,North,613.89,Ads,Returned,Late Delivery,26-03-2024,1,0.413867826
+ORDX200922,Books,Supplier A,South,688.48,Email,Not Returned,,06-03-2024,0,0.47570481
+ORDX200923,Books,Supplier A,West,364.47,Social Media,Not Returned,,18-06-2024,0,0.434337867
+ORDX200925,Toys,Supplier A,South,442.2,Email,Not Returned,,12-04-2024,0,0.429631483
+ORDX200928,Electronics,Supplier A,South,342.05,Email,Returned,Other,16-03-2024,1,0.447550499
+ORDX200929,Toys,Supplier A,East,546.84,Organic,Not Returned,,20-06-2024,0,0.402140772
+ORDX200931,Clothing,Supplier A,South,196.06,Ads,Not Returned,,21-03-2024,0,0.426022984
+ORDX200933,Books,Supplier D,East,535.54,Social Media,Not Returned,,04-03-2024,0,0.433377825
+ORDX200937,Books,Supplier D,North,576.01,Email,Returned,Wrong Size,10-04-2024,1,0.429778421
+ORDX200939,Electronics,Supplier A,East,713.49,Ads,Returned,Product Not as Described,07-05-2024,1,0.446478793
+ORDX200940,Beauty,Supplier A,North,518.56,Organic,Not Returned,,24-06-2024,0,0.413068216
+ORDX200943,Clothing,Supplier A,South,198.7,Social Media,Not Returned,,18-03-2024,0,0.423918875
+ORDX200946,Clothing,Supplier B,South,350.43,Email,Not Returned,,06-04-2024,0,0.409109144
+ORDX200947,Books,Supplier A,West,522,Email,Not Returned,,20-05-2024,0,0.466836457
+ORDX200948,Beauty,Supplier A,South,77.2,Social Media,Not Returned,,30-03-2024,0,0.42326299
+ORDX200949,Beauty,Supplier D,East,65.13,Social Media,Not Returned,,27-05-2024,0,0.412478785
+ORDX200951,Beauty,Supplier C,South,397.61,Email,Not Returned,,09-05-2024,0,0.45916948
+ORDX200956,Toys,Supplier D,West,403.31,Ads,Not Returned,,05-05-2024,0,0.410208507
+ORDX200958,Beauty,Supplier B,South,681.56,Ads,Returned,Wrong Size,22-05-2024,1,0.421840012
+ORDX200960,Electronics,Supplier A,West,638.4,Social Media,Not Returned,,12-04-2024,0,0.450792319
+ORDX200961,Beauty,Supplier D,North,475.21,Organic,Not Returned,,04-05-2024,0,0.408825861
+ORDX200962,Clothing,Supplier C,South,30.66,Social Media,Returned,Late Delivery,09-04-2024,1,0.404113704
+ORDX200964,Electronics,Supplier A,West,166.22,Social Media,Not Returned,,30-04-2024,0,0.417148585
+ORDX200965,Beauty,Supplier A,South,674.72,Organic,Not Returned,,02-03-2024,0,0.460565653
+ORDX200967,Books,Supplier C,West,593.16,Ads,Returned,Incorrect Item,27-03-2024,1,0.44489484
+ORDX200971,Clothing,Supplier C,South,148.8,Email,Returned,Damaged on Arrival,30-06-2024,1,0.433285452
+ORDX200975,Electronics,Supplier B,West,502.46,Email,Not Returned,,31-05-2024,0,0.4153503
+ORDX200976,Books,Supplier C,South,397.95,Email,Not Returned,,01-06-2024,0,0.446592172
+ORDX200978,Clothing,Supplier B,South,743.99,Ads,Returned,Wrong Size,29-04-2024,1,0.418318608
+ORDX200979,Books,Supplier A,West,376.31,Ads,Not Returned,,24-05-2024,0,0.437488288
+ORDX200980,Toys,Supplier A,West,547.52,Ads,Returned,Other,15-05-2024,1,0.421575321
+ORDX200981,Books,Supplier D,East,428.19,Ads,Not Returned,,31-05-2024,0,0.428038676
+ORDX200983,Books,Supplier D,East,707.81,Organic,Not Returned,,05-05-2024,0,0.44024759
+ORDX200985,Beauty,Supplier B,South,558.96,Email,Not Returned,,27-06-2024,0,0.431786586
+ORDX200986,Electronics,Supplier D,East,724.49,Social Media,Returned,Incorrect Item,03-04-2024,1,0.443729766
+ORDX200987,Beauty,Supplier A,North,19.48,Email,Returned,Incorrect Item,11-03-2024,1,0.404091717
+ORDX200988,Beauty,Supplier D,North,566.67,Organic,Returned,Damaged on Arrival,27-04-2024,1,0.415255516
+ORDX200989,Beauty,Supplier A,West,465.21,Email,Returned,Changed Mind,15-05-2024,1,0.475403027
+ORDX200991,Beauty,Supplier B,East,717.69,Organic,Not Returned,,30-04-2024,0,0.408041476
+ORDX200993,Electronics,Supplier D,East,214.81,Social Media,Not Returned,,16-05-2024,0,0.407589244
+ORDX200994,Beauty,Supplier A,South,622.68,Organic,Returned,Defective Item,09-04-2024,1,0.456816125
+ORDX200997,Electronics,Supplier B,West,392.17,Email,Not Returned,,14-05-2024,0,0.407600143
+ORDX200998,Toys,Supplier C,South,592.97,Organic,Returned,Other,23-05-2024,1,0.406087153
+ORDX200999,Beauty,Supplier D,South,609.79,Organic,Not Returned,,25-05-2024,0,0.45466154
+ORDX200001,Clothing,Supplier D,South,272.4,Organic,Not Returned,,25-11-2024,0,0.422546015
+ORDX200002,Beauty,Supplier C,North,517.87,Email,Returned,Defective Item,13-08-2024,1,0.431262112
+ORDX200005,Books,Supplier C,North,734.83,Email,Returned,Changed Mind,21-05-2024,1,0.434231689
+ORDX200008,Books,Supplier D,West,19.2,Social Media,Returned,Wrong Size,15-03-2024,1,0.408707134
+ORDX200009,Clothing,Supplier C,East,479.33,Ads,Not Returned,,26-07-2024,0,0.42931022
+ORDX200011,Clothing,Supplier D,West,101.89,Social Media,Not Returned,,10-11-2024,0,0.418964191
+ORDX200012,Toys,Supplier D,South,529.34,Social Media,Not Returned,,02-05-2024,0,0.413715638
+ORDX200013,Electronics,Supplier C,North,747.1,Email,Returned,Incorrect Item,28-10-2024,1,0.431966566
+ORDX200014,Toys,Supplier D,West,310.62,Social Media,Not Returned,,19-10-2024,0,0.401461978
+ORDX200015,Clothing,Supplier B,South,656.98,Ads,Not Returned,,05-08-2024,0,0.412187771
+ORDX200016,Electronics,Supplier D,West,665.45,Ads,Not Returned,,21-04-2024,0,0.453834388
+ORDX200020,Clothing,Supplier D,North,654.46,Social Media,Not Returned,,27-10-2024,0,0.418894787
+ORDX200021,Books,Supplier C,West,229.07,Email,Not Returned,,19-07-2024,0,0.437641932
+ORDX200022,Books,Supplier D,West,450.96,Organic,Returned,Defective Item,21-09-2024,1,0.433868035
+ORDX200023,Clothing,Supplier C,South,142.3,Organic,Not Returned,,14-12-2024,0,0.406604047
+ORDX200024,Toys,Supplier D,East,408.72,Email,Not Returned,,05-12-2024,0,0.417291353
+ORDX200025,Beauty,Supplier B,East,729.04,Organic,Returned,Wrong Size,23-11-2024,1,0.408837267
+ORDX200030,Books,Supplier D,East,93.18,Social Media,Returned,Late Delivery,20-05-2024,1,0.402165718
+ORDX200031,Books,Supplier A,East,499.09,Email,Not Returned,,14-07-2024,0,0.453112648
+ORDX200032,Toys,Supplier C,South,331.4,Email,Returned,Incorrect Item,15-11-2024,1,0.413772455
+ORDX200033,Clothing,Supplier D,East,669.22,Social Media,Returned,Better Price Elsewhere,06-05-2024,1,0.447444697
+ORDX200035,Books,Supplier A,West,215.54,Organic,Not Returned,,13-12-2024,0,0.4183729
+ORDX200036,Electronics,Supplier C,East,403.31,Email,Returned,Product Not as Described,23-03-2024,1,0.434978614
+ORDX200039,Books,Supplier C,West,167.28,Social Media,Not Returned,,31-08-2024,0,0.412344833
+ORDX200040,Books,Supplier C,West,114.66,Social Media,Not Returned,,31-08-2024,0,0.40864978
+ORDX200042,Electronics,Supplier C,West,320.08,Social Media,Returned,Damaged on Arrival,05-09-2024,1,0.420011489
+ORDX200045,Electronics,Supplier A,West,134.85,Email,Not Returned,,27-10-2024,0,0.435860118
+ORDX200049,Books,Supplier D,North,584.97,Organic,Not Returned,,03-04-2024,0,0.404239304
+ORDX200050,Beauty,Supplier D,East,223.89,Social Media,Returned,Better Price Elsewhere,05-06-2024,1,0.423686571
+ORDX200052,Beauty,Supplier C,East,495.53,Organic,Not Returned,,27-10-2024,0,0.430739441
+ORDX200056,Books,Supplier C,West,667.67,Email,Returned,Late Delivery,18-12-2024,1,0.469173585
+ORDX200059,Toys,Supplier A,West,319.6,Social Media,Returned,Late Delivery,06-08-2024,1,0.403277943
+ORDX200060,Clothing,Supplier C,North,731.98,Organic,Not Returned,,22-09-2024,0,0.412214051
+ORDX200064,Toys,Supplier D,West,463.86,Ads,Not Returned,,23-07-2024,0,0.414466137
+ORDX200068,Toys,Supplier D,East,611.64,Email,Returned,Changed Mind,26-10-2024,1,0.431675562
+ORDX200070,Beauty,Supplier D,West,725.53,Ads,Not Returned,,27-06-2024,0,0.473996532
+ORDX200071,Toys,Supplier C,West,593.89,Email,Not Returned,,28-07-2024,0,0.435485957
+ORDX200075,Electronics,Supplier C,East,539.35,Ads,Not Returned,,22-11-2024,0,0.425966881
+ORDX200078,Books,Supplier B,East,739.11,Social Media,Not Returned,,17-04-2024,0,0.402598731
+ORDX200079,Beauty,Supplier A,South,719.93,Organic,Returned,Late Delivery,18-07-2024,1,0.463826717
+ORDX200080,Beauty,Supplier A,West,190.47,Email,Not Returned,,08-05-2024,0,0.455569254
+ORDX200081,Electronics,Supplier C,South,603.19,Ads,Returned,Product Not as Described,17-08-2024,1,0.439322136
+ORDX200082,Toys,Supplier C,South,576.87,Organic,Returned,Product Not as Described,20-12-2024,1,0.404960857
+ORDX200084,Toys,Supplier D,West,470.24,Email,Returned,Wrong Size,10-06-2024,1,0.433534276
+ORDX200085,Beauty,Supplier B,East,745.88,Social Media,Not Returned,,14-05-2024,0,0.415366808
+ORDX200086,Books,Supplier C,West,167.07,Social Media,Not Returned,,20-10-2024,0,0.412330067
+ORDX200087,Beauty,Supplier B,South,569.32,Email,Not Returned,,12-05-2024,0,0.432524329
+ORDX200089,Beauty,Supplier A,South,103.74,Email,Returned,Late Delivery,24-04-2024,1,0.446189439
+ORDX200094,Beauty,Supplier A,West,613.71,Email,Returned,Incorrect Item,14-05-2024,1,0.486159838
+ORDX200097,Clothing,Supplier D,West,25.03,Social Media,Not Returned,,01-05-2024,0,0.413544755
+ORDX200098,Beauty,Supplier D,West,694.52,Email,Not Returned,,15-06-2024,0,0.490783341
+ORDX200099,Books,Supplier B,West,332.01,Email,Returned,Product Not as Described,26-07-2024,1,0.406472685
+ORDX200100,Books,Supplier A,South,335.4,Organic,Not Returned,,12-03-2024,0,0.423751211
+ORDX200101,Electronics,Supplier A,East,109.99,Ads,Not Returned,,25-10-2024,0,0.403708816
+ORDX200102,Electronics,Supplier D,North,513.16,Email,Not Returned,,10-03-2024,0,0.422192432
+ORDX200103,Beauty,Supplier C,West,341.65,Social Media,Returned,Defective Item,04-12-2024,1,0.437129725
+ORDX200105,Beauty,Supplier A,South,245.02,Email,Not Returned,,02-11-2024,0,0.456341062
+ORDX200106,Toys,Supplier D,West,449.1,Social Media,Returned,Wrong Size,03-10-2024,1,0.4111551
+ORDX200108,Books,Supplier B,West,665.83,Email,Not Returned,,27-11-2024,0,0.430037855
+ORDX200113,Electronics,Supplier C,South,334.65,Email,Returned,Defective Item,28-12-2024,1,0.438905696
+ORDX200114,Clothing,Supplier D,South,481.31,Ads,Returned,Wrong Size,31-07-2024,1,0.445154939
+ORDX200115,Toys,Supplier A,West,598.93,Organic,Not Returned,,06-08-2024,0,0.41755156
+ORDX200116,Books,Supplier C,West,584.41,Social Media,Returned,Late Delivery,29-11-2024,1,0.441954102
+ORDX200118,Electronics,Supplier C,East,334.42,Ads,Not Returned,,18-05-2024,0,0.411493861
+ORDX200119,Clothing,Supplier D,East,166.71,Email,Not Returned,,08-11-2024,0,0.432610129
+ORDX200120,Beauty,Supplier C,West,88.16,Organic,Returned,Changed Mind,01-04-2024,1,0.413760006
+ORDX200121,Clothing,Supplier D,East,367.06,Organic,Not Returned,,06-10-2024,0,0.420493495
+ORDX200122,Beauty,Supplier C,West,545.16,Email,Not Returned,,09-09-2024,0,0.47298847
+ORDX200123,Books,Supplier D,West,535.75,Organic,Not Returned,,23-03-2024,0,0.439921183
+ORDX200126,Books,Supplier D,South,357.8,Social Media,Returned,Other,26-11-2024,1,0.429528783
+ORDX200127,Clothing,Supplier B,West,522.83,Email,Not Returned,,09-10-2024,0,0.424359327
+ORDX200128,Clothing,Supplier D,North,355.06,Ads,Not Returned,,12-03-2024,0,0.4001555
+ORDX200130,Beauty,Supplier A,East,64.28,Email,Not Returned,,05-10-2024,0,0.434524105
+ORDX200131,Electronics,Supplier C,East,728.05,Organic,Returned,Damaged on Arrival,19-12-2024,1,0.431677895
+ORDX200132,Toys,Supplier D,West,542.32,Email,Returned,Late Delivery,08-03-2024,1,0.438677983
+ORDX200134,Beauty,Supplier C,East,310.65,Ads,Returned,Product Not as Described,01-12-2024,1,0.425302478
+ORDX200135,Beauty,Supplier D,East,683.13,Ads,Not Returned,,14-07-2024,0,0.458839264
+ORDX200136,Toys,Supplier C,West,477.19,Ads,Not Returned,,23-10-2024,0,0.408636947
+ORDX200137,Clothing,Supplier A,East,518.29,Ads,Returned,Damaged on Arrival,10-08-2024,1,0.440169061
+ORDX200143,Electronics,Supplier A,North,559.62,Organic,Not Returned,,15-04-2024,0,0.400584912
+ORDX200144,Books,Supplier D,South,417.88,Social Media,Returned,Defective Item,24-06-2024,1,0.433805937
+ORDX200146,Clothing,Supplier A,South,741.77,Email,Not Returned,,11-05-2024,0,0.484129544
+ORDX200147,Toys,Supplier A,South,473.26,Email,Not Returned,,26-09-2024,0,0.431841531
+ORDX200149,Books,Supplier D,East,428.93,Social Media,Not Returned,,11-11-2024,0,0.425797192
+ORDX200151,Books,Supplier C,West,410.19,Email,Not Returned,,22-04-2024,0,0.450616704
+ORDX200153,Books,Supplier B,South,452.24,Email,Not Returned,,13-08-2024,0,0.411832337
+ORDX200155,Books,Supplier C,South,59.96,Ads,Returned,Better Price Elsewhere,30-10-2024,1,0.404014656
+ORDX200157,Books,Supplier A,West,615.79,Organic,Not Returned,,04-10-2024,0,0.446873902
+ORDX200159,Clothing,Supplier D,East,382.93,Email,Not Returned,,19-06-2024,0,0.448071477
+ORDX200160,Clothing,Supplier A,West,495.88,Ads,Not Returned,,26-07-2024,0,0.450568419
+ORDX200162,Books,Supplier A,West,402.15,Social Media,Not Returned,,26-09-2024,0,0.437026177
+ORDX200163,Electronics,Supplier A,South,686.75,Ads,Returned,Changed Mind,10-04-2024,1,0.453439965
+ORDX200164,Electronics,Supplier D,West,80.14,Organic,Not Returned,,31-07-2024,0,0.404565025
+ORDX200167,Clothing,Supplier D,South,270.37,Social Media,Not Returned,,28-06-2024,0,0.427794634
+ORDX200168,Clothing,Supplier C,East,272.33,Email,Returned,Other,12-09-2024,1,0.433275678
+ORDX200169,Home & Kitchen,Supplier D,South,561.54,Email,Not Returned,,11-03-2024,0,0.406254482
+ORDX200170,Clothing,Supplier D,East,498.61,Email,Not Returned,,25-05-2024,0,0.456386842
+ORDX200171,Electronics,Supplier B,West,494.7,Email,Not Returned,,09-12-2024,0,0.41480358
+ORDX200172,Books,Supplier C,East,440.01,Ads,Not Returned,,05-07-2024,0,0.422049337
+ORDX200173,Beauty,Supplier B,North,723.03,Email,Returned,Damaged on Arrival,09-10-2024,1,0.407364873
+ORDX200174,Clothing,Supplier D,South,462.15,Email,Returned,Other,04-12-2024,1,0.462671878
+ORDX200176,Books,Supplier D,North,603.63,Email,Returned,Product Not as Described,23-09-2024,1,0.431743727
+ORDX200178,Books,Supplier B,East,517.9,Email,Not Returned,,20-12-2024,0,0.407761112
+ORDX200179,Clothing,Supplier D,East,373.23,Organic,Returned,Damaged on Arrival,25-11-2024,1,0.42092985
+ORDX200181,Toys,Supplier D,East,701.56,Organic,Not Returned,,14-12-2024,0,0.411782494
+ORDX200183,Books,Supplier D,East,364.63,Ads,Returned,Late Delivery,04-07-2024,1,0.42352925
+ORDX200184,Clothing,Supplier B,West,520.18,Email,Not Returned,,18-11-2024,0,0.42417149
+ORDX200186,Clothing,Supplier A,West,92.18,Ads,Returned,Damaged on Arrival,24-06-2024,1,0.421767385
+ORDX200188,Books,Supplier C,East,321.61,Social Media,Returned,Incorrect Item,31-03-2024,1,0.411419411
+ORDX200189,Books,Supplier D,West,141.14,Email,Returned,Defective Item,15-08-2024,1,0.43823821
+ORDX200191,Electronics,Supplier A,East,745.43,Organic,Not Returned,,14-06-2024,0,0.441005859
+ORDX200194,Clothing,Supplier A,West,150.24,Organic,Returned,Damaged on Arrival,02-08-2024,1,0.418212566
+ORDX200195,Clothing,Supplier C,West,117.78,Ads,Not Returned,,12-11-2024,0,0.415571946
+ORDX200197,Beauty,Supplier D,East,280.95,Organic,Not Returned,,27-10-2024,0,0.422342513
+ORDX200198,Clothing,Supplier D,South,691.2,Ads,Not Returned,,29-06-2024,0,0.460244243
+ORDX200199,Electronics,Supplier D,West,587.54,Organic,Not Returned,,23-09-2024,0,0.440473779
+ORDX200200,Clothing,Supplier D,East,368.62,Organic,Returned,Changed Mind,15-10-2024,1,0.42060381
+ORDX200203,Electronics,Supplier C,East,639.66,Social Media,Not Returned,,27-07-2024,0,0.430798661
+ORDX200207,Beauty,Supplier B,South,643.72,Organic,Not Returned,,12-05-2024,0,0.411529442
+ORDX200209,Beauty,Supplier B,West,304.8,Email,Returned,Changed Mind,02-05-2024,1,0.416878448
+ORDX200212,Electronics,Supplier C,South,219.55,Ads,Not Returned,,06-10-2024,0,0.412112208
+ORDX200214,Electronics,Supplier C,South,387.69,Email,Not Returned,,03-11-2024,0,0.442699603
+ORDX200215,Beauty,Supplier A,South,644.45,Ads,Returned,Other,01-10-2024,1,0.466199533
+ORDX200216,Beauty,Supplier D,West,616.07,Organic,Returned,Changed Mind,24-03-2024,1,0.458269121
+ORDX200217,Books,Supplier C,West,318.48,Organic,Not Returned,,05-05-2024,0,0.417639986
+ORDX200218,Clothing,Supplier C,South,442.22,Organic,Returned,Damaged on Arrival,14-08-2024,1,0.427761631
+ORDX200221,Books,Supplier D,South,81.71,Ads,Not Returned,,27-06-2024,0,0.412287995
+ORDX200224,Beauty,Supplier D,North,618.55,Email,Not Returned,,06-03-2024,0,0.445332101
+ORDX200227,Clothing,Supplier C,West,725.99,Organic,Not Returned,,16-08-2024,0,0.451174769
+ORDX200228,Clothing,Supplier C,South,390.02,Ads,Returned,Changed Mind,07-11-2024,1,0.431754593
+ORDX200229,Books,Supplier C,South,183.06,Ads,Not Returned,,01-03-2024,0,0.412644682
+ORDX200231,Clothing,Supplier C,West,439.13,Ads,Returned,Damaged on Arrival,15-05-2024,1,0.438383103
+ORDX200232,Electronics,Supplier A,South,88.23,Organic,Not Returned,,25-11-2024,0,0.40325893
+ORDX200233,Clothing,Supplier A,North,598.12,Social Media,Not Returned,,16-07-2024,0,0.416121609
+ORDX200234,Clothing,Supplier A,West,238.66,Organic,Not Returned,,20-05-2024,0,0.424468274
+ORDX200240,Beauty,Supplier C,West,653.07,Organic,Returned,Better Price Elsewhere,27-03-2024,1,0.454001848
+ORDX200243,Home & Kitchen,Supplier A,West,687.15,Ads,Not Returned,,16-11-2024,0,0.40092984
+ORDX200244,Beauty,Supplier A,East,313.45,Email,Returned,Other,16-03-2024,1,0.45236722
+ORDX200245,Beauty,Supplier A,East,131.57,Social Media,Returned,Better Price Elsewhere,16-11-2024,1,0.418361869
+ORDX200246,Electronics,Supplier A,West,63.13,Social Media,Not Returned,,28-05-2024,0,0.409893645
+ORDX200247,Clothing,Supplier A,North,132.63,Email,Not Returned,,14-07-2024,0,0.404155103
+ORDX200249,Books,Supplier A,East,438.89,Email,Returned,Product Not as Described,27-07-2024,1,0.44878741
+ORDX200252,Beauty,Supplier C,West,744.12,Email,Not Returned,,29-10-2024,0,0.487398653
+ORDX200253,Electronics,Supplier A,East,282.62,Email,Returned,Incorrect Item,05-03-2024,1,0.434453196
+ORDX200255,Toys,Supplier A,East,650.74,Organic,Returned,Late Delivery,27-05-2024,1,0.409410513
+ORDX200256,Books,Supplier B,West,583.28,Email,Returned,Better Price Elsewhere,19-11-2024,1,0.424176503
+ORDX200257,Beauty,Supplier A,West,286.87,Ads,Returned,Wrong Size,21-03-2024,1,0.443627017
+ORDX200258,Toys,Supplier D,West,306.74,Ads,Not Returned,,03-11-2024,0,0.403446094
+ORDX200259,Beauty,Supplier A,East,47.57,Social Media,Not Returned,,20-10-2024,0,0.412442499
+ORDX200260,Books,Supplier A,South,78.52,Organic,Not Returned,,11-08-2024,0,0.40566007
+ORDX200264,Toys,Supplier A,West,744.84,Organic,Returned,Changed Mind,16-06-2024,1,0.427883512
+ORDX200266,Beauty,Supplier C,West,174.74,Ads,Not Returned,,09-09-2024,0,0.427544247
+ORDX200268,Clothing,Supplier C,East,701.5,Email,Returned,Changed Mind,15-07-2024,1,0.464072083
+ORDX200269,Beauty,Supplier A,North,307.04,Ads,Not Returned,,24-04-2024,0,0.405829129
+ORDX200270,Beauty,Supplier C,South,179.5,Ads,Returned,Changed Mind,23-04-2024,1,0.424771828
+ORDX200271,Beauty,Supplier D,West,278.18,Organic,Not Returned,,30-05-2024,0,0.43404568
+ORDX200273,Beauty,Supplier A,North,260.96,Email,Returned,Better Price Elsewhere,22-05-2024,1,0.421072837
+ORDX200275,Beauty,Supplier B,West,483.24,Organic,Returned,Damaged on Arrival,08-12-2024,1,0.403356961
+ORDX200277,Clothing,Supplier C,East,55.84,Email,Not Returned,,11-09-2024,0,0.417919215
+ORDX200278,Books,Supplier C,West,42.12,Social Media,Returned,Other,11-03-2024,1,0.403572872
+ORDX200280,Books,Supplier C,South,59.8,Email,Not Returned,,04-10-2024,0,0.422486163
+ORDX200281,Beauty,Supplier A,South,504.87,Email,Not Returned,,08-06-2024,0,0.475101395
+ORDX200282,Beauty,Supplier D,North,155.48,Email,Not Returned,,16-09-2024,0,0.412430807
+ORDX200286,Toys,Supplier A,West,683.42,Ads,Returned,Damaged on Arrival,27-03-2024,1,0.431220412
+ORDX200289,Books,Supplier D,South,32.41,Organic,Not Returned,,10-05-2024,0,0.401249326
+ORDX200290,Clothing,Supplier D,South,91.88,Ads,Returned,Late Delivery,05-10-2024,1,0.417444336
+ORDX200294,Books,Supplier A,East,680.39,Social Media,Not Returned,,12-06-2024,0,0.444948225
+ORDX200295,Beauty,Supplier B,West,718.71,Social Media,Returned,Late Delivery,11-04-2024,1,0.425288048
+ORDX200298,Toys,Supplier C,South,562.73,Ads,Returned,Damaged on Arrival,19-10-2024,1,0.41156517
+ORDX200300,Beauty,Supplier D,East,605.04,Ads,Returned,Incorrect Item,23-03-2024,1,0.453217988
+ORDX200302,Clothing,Supplier A,North,519.99,Social Media,Not Returned,,24-11-2024,0,0.410623759
+ORDX200303,Beauty,Supplier C,East,385.47,Email,Returned,Other,16-10-2024,1,0.449399839
+ORDX200304,Clothing,Supplier D,East,119.92,Social Media,Not Returned,,30-10-2024,0,0.408444468
+ORDX200307,Books,Supplier A,North,552.55,Organic,Returned,Late Delivery,10-11-2024,1,0.403165208
+ORDX200313,Electronics,Supplier A,West,577.15,Social Media,Not Returned,,27-05-2024,0,0.446395848
+ORDX200314,Toys,Supplier C,South,239.7,Email,Returned,Damaged on Arrival,26-03-2024,1,0.407332953
+ORDX200315,Books,Supplier A,East,656.64,Organic,Not Returned,,03-11-2024,0,0.437808691
+ORDX200316,Electronics,Supplier C,South,21.16,Email,Not Returned,,12-10-2024,0,0.416641753
+ORDX200319,Books,Supplier A,South,19.4,Organic,Returned,Late Delivery,15-11-2024,1,0.401530596
+ORDX200320,Books,Supplier A,East,430.18,Social Media,Returned,Better Price Elsewhere,21-09-2024,1,0.427095635
+ORDX200321,Electronics,Supplier C,East,506.24,Organic,Returned,Incorrect Item,21-12-2024,1,0.415961367
+ORDX200322,Clothing,Supplier D,South,128.89,Ads,Not Returned,,04-07-2024,0,0.420058375
+ORDX200327,Books,Supplier A,North,269.79,Email,Not Returned,,21-10-2024,0,0.409345913
+ORDX200331,Electronics,Supplier D,North,736.43,Social Media,Returned,Other,14-05-2024,1,0.417121315
+ORDX200332,Beauty,Supplier A,West,301.76,Social Media,Not Returned,,02-07-2024,0,0.442379553
+ORDX200334,Books,Supplier D,West,352.96,Organic,Returned,Incorrect Item,17-11-2024,1,0.426896438
+ORDX200337,Books,Supplier C,East,680.62,Email,Returned,Late Delivery,13-09-2024,1,0.458021786
+ORDX200338,Toys,Supplier A,West,675.03,Social Media,Not Returned,,23-04-2024,0,0.428325901
+ORDX200343,Beauty,Supplier A,East,463.24,Organic,Returned,Changed Mind,08-04-2024,1,0.436514355
+ORDX200344,Electronics,Supplier C,North,307.45,Email,Returned,Better Price Elsewhere,07-06-2024,1,0.40097308
+ORDX200345,Electronics,Supplier B,West,372.31,Email,Returned,Better Price Elsewhere,01-11-2024,1,0.406209319
+ORDX200348,Clothing,Supplier C,South,608.8,Organic,Not Returned,,12-06-2024,0,0.439633307
+ORDX200349,Books,Supplier D,East,629.43,Social Media,Not Returned,,19-06-2024,0,0.440080031
+ORDX200350,Clothing,Supplier B,West,649.04,Email,Not Returned,,22-06-2024,0,0.433329713
+ORDX200351,Books,Supplier D,South,741.24,Ads,Not Returned,,28-12-2024,0,0.459308016
+ORDX200353,Beauty,Supplier C,North,336.9,Email,Not Returned,,16-03-2024,0,0.418430779
+ORDX200354,Beauty,Supplier B,East,541.94,Email,Returned,Wrong Size,17-12-2024,1,0.421799396
+ORDX200358,Books,Supplier C,East,640.72,Email,Not Returned,,11-10-2024,0,0.455149015
+ORDX200360,Beauty,Supplier D,South,233.2,Ads,Not Returned,,09-08-2024,0,0.435439129
+ORDX200365,Books,Supplier A,North,626.36,Ads,Not Returned,,06-04-2024,0,0.415946944
+ORDX200366,Electronics,Supplier A,East,599.27,Ads,Not Returned,,24-04-2024,0,0.438302737
+ORDX200368,Beauty,Supplier D,West,144.8,Organic,Not Returned,,06-07-2024,0,0.424563193
+ORDX200372,Beauty,Supplier C,North,339.49,Ads,Not Returned,,09-12-2024,0,0.400183017
+ORDX200373,Books,Supplier D,West,69.02,Organic,Not Returned,,07-10-2024,0,0.406869892
+ORDX200375,Electronics,Supplier D,West,359.99,Social Media,Returned,Late Delivery,01-09-2024,1,0.429667847
+ORDX200377,Beauty,Supplier C,South,169.55,Ads,Not Returned,,16-10-2024,0,0.424066485
+ORDX200379,Beauty,Supplier C,East,689.15,Ads,Not Returned,,12-11-2024,0,0.452343126
+ORDX200380,Clothing,Supplier D,East,274.02,Ads,Not Returned,,14-10-2024,0,0.421576375
+ORDX200382,Electronics,Supplier A,East,237.96,Social Media,Not Returned,,18-12-2024,0,0.410408577
+ORDX200383,Books,Supplier D,West,96.76,Email,Not Returned,,25-12-2024,0,0.435070288
+ORDX200387,Electronics,Supplier D,South,396.33,Ads,Returned,Product Not as Described,15-10-2024,1,0.431433979
+ORDX200389,Beauty,Supplier D,South,83.88,Organic,Not Returned,,13-05-2024,0,0.417154635
+ORDX200390,Books,Supplier D,West,699.3,Organic,Not Returned,,18-06-2024,0,0.451646078
+ORDX200395,Clothing,Supplier A,West,418.1,Organic,Returned,Defective Item,14-10-2024,1,0.43723627
+ORDX200396,Clothing,Supplier C,East,479.18,Organic,Returned,Changed Mind,27-10-2024,1,0.421614133
+ORDX200397,Beauty,Supplier D,North,288.33,Email,Returned,Late Delivery,08-10-2024,1,0.421803457
+ORDX200398,Clothing,Supplier A,North,746.02,Social Media,Not Returned,,08-05-2024,0,0.426585332
+ORDX200403,Electronics,Supplier B,South,687.44,Ads,Returned,Incorrect Item,12-12-2024,1,0.406810616
+ORDX200404,Electronics,Supplier C,West,730.77,Ads,Not Returned,,28-08-2024,0,0.451608589
+ORDX200406,Beauty,Supplier C,East,78.79,Social Media,Not Returned,,05-05-2024,0,0.40668124
+ORDX200408,Books,Supplier A,South,264.79,Ads,Not Returned,,26-04-2024,0,0.426427547
+ORDX200410,Books,Supplier C,South,600.93,Social Media,Not Returned,,13-10-2024,0,0.440000613
+ORDX200411,Books,Supplier C,West,542.32,Organic,Returned,Changed Mind,26-07-2024,1,0.433517536
+ORDX200413,Books,Supplier D,East,294.37,Ads,Returned,Damaged on Arrival,15-06-2024,1,0.418559285
+ORDX200414,Clothing,Supplier D,West,365.36,Email,Returned,Better Price Elsewhere,19-07-2024,1,0.458853354
+ORDX200417,Beauty,Supplier A,West,215.64,Organic,Not Returned,,26-08-2024,0,0.430805406
+ORDX200419,Clothing,Supplier D,West,367.97,Email,Returned,Incorrect Item,30-08-2024,1,0.459041424
+ORDX200420,Clothing,Supplier A,West,715.55,Ads,Returned,Defective Item,11-09-2024,1,0.466393441
+ORDX200421,Electronics,Supplier D,South,153.98,Social Media,Returned,Late Delivery,12-06-2024,1,0.411999449
+ORDX200422,Books,Supplier A,East,601.31,Social Media,Not Returned,,09-06-2024,0,0.4392882
+ORDX200423,Books,Supplier D,South,46.63,Ads,Not Returned,,07-06-2024,0,0.409823604
+ORDX200424,Toys,Supplier D,West,684.48,Organic,Not Returned,,26-09-2024,0,0.422394068
+ORDX200425,Books,Supplier A,North,235.28,Email,Not Returned,,11-04-2024,0,0.406926852
+ORDX200426,Clothing,Supplier D,East,190.8,Organic,Returned,Defective Item,09-10-2024,1,0.408082957
+ORDX200428,Books,Supplier D,West,386.08,Organic,Returned,Changed Mind,08-08-2024,1,0.429249449
+ORDX200429,Clothing,Supplier A,West,84.91,Ads,Returned,Other,25-11-2024,1,0.42125297
+ORDX200430,Clothing,Supplier A,East,57.25,Email,Not Returned,,04-03-2024,0,0.426039737
+ORDX200431,Beauty,Supplier D,East,120.14,Ads,Not Returned,,14-06-2024,0,0.418632888
+ORDX200435,Clothing,Supplier C,West,68.36,Email,Not Returned,,24-03-2024,0,0.430678541
+ORDX200438,Toys,Supplier D,West,321.44,Ads,Not Returned,,13-07-2024,0,0.40447318
+ORDX200443,Beauty,Supplier D,South,374.8,Organic,Not Returned,,30-08-2024,0,0.437812645
+ORDX200444,Beauty,Supplier C,West,550.93,Organic,Not Returned,,26-12-2024,0,0.446665207
+ORDX200446,Toys,Supplier A,South,328.27,Email,Returned,Late Delivery,28-08-2024,1,0.421549514
+ORDX200448,Beauty,Supplier A,South,520.95,Email,Returned,Product Not as Described,31-08-2024,1,0.476265182
+ORDX200449,Electronics,Supplier A,East,480.68,Organic,Not Returned,,20-09-2024,0,0.42216125
+ORDX200450,Books,Supplier C,West,134.24,Organic,Not Returned,,23-09-2024,0,0.404696762
+ORDX200455,Clothing,Supplier B,South,695.42,Social Media,Not Returned,,22-08-2024,0,0.412618706
+ORDX200456,Books,Supplier A,North,733.66,Ads,Not Returned,,04-06-2024,0,0.423530431
+ORDX200459,Beauty,Supplier A,South,689.49,Social Media,Returned,Late Delivery,13-04-2024,1,0.467118813
+ORDX200460,Clothing,Supplier A,East,442.12,Email,Not Returned,,26-08-2024,0,0.453548397
+ORDX200461,Clothing,Supplier D,West,611.48,Organic,Returned,Defective Item,24-07-2024,1,0.449865047
+ORDX200462,Clothing,Supplier D,South,402.94,Email,Returned,Changed Mind,30-04-2024,1,0.458403188
+ORDX200467,Beauty,Supplier C,West,178.73,Organic,Not Returned,,26-09-2024,0,0.420149181
+ORDX200469,Books,Supplier D,West,577.33,Email,Returned,Other,22-11-2024,1,0.469602741
+ORDX200470,Beauty,Supplier D,East,194.87,Email,Not Returned,,30-08-2024,0,0.442636973
+ORDX200472,Clothing,Supplier A,West,199.19,Email,Returned,Damaged on Arrival,14-04-2024,1,0.44812883
+ORDX200473,Beauty,Supplier B,South,427.25,Ads,Not Returned,,17-10-2024,0,0.403952845
+ORDX200475,Books,Supplier D,East,598.59,Ads,Returned,Late Delivery,19-09-2024,1,0.440185273
+ORDX200478,Clothing,Supplier C,South,90.27,Email,Not Returned,,24-09-2024,0,0.429119726
+ORDX200484,Clothing,Supplier D,East,432.48,Organic,Returned,Defective Item,14-04-2024,1,0.425126333
+ORDX200487,Electronics,Supplier A,West,534.12,Email,Not Returned,,26-10-2024,0,0.464530076
+ORDX200490,Toys,Supplier C,South,715.67,Organic,Returned,Product Not as Described,19-10-2024,1,0.414702469
+ORDX200492,Beauty,Supplier C,East,701.23,Ads,Not Returned,,29-09-2024,0,0.45321167
+ORDX200495,Toys,Supplier D,South,556.43,Email,Not Returned,,25-04-2024,0,0.436555613
+ORDX200498,Clothing,Supplier A,West,552.36,Ads,Not Returned,,08-12-2024,0,0.454628993
+ORDX200501,Beauty,Supplier A,East,270.57,Email,Not Returned,,18-07-2024,0,0.449286527
+ORDX200502,Beauty,Supplier B,West,659.75,Email,Not Returned,,13-12-2024,0,0.442110874
+ORDX200504,Books,Supplier C,West,587.32,Ads,Not Returned,,02-05-2024,0,0.444476354
+ORDX200505,Books,Supplier D,East,130.17,Social Media,Not Returned,,19-03-2024,0,0.404749158
+ORDX200506,Beauty,Supplier C,North,316.34,Email,Returned,Late Delivery,14-12-2024,1,0.416979631
+ORDX200511,Clothing,Supplier D,South,69.45,Social Media,Not Returned,,03-11-2024,0,0.41358642
+ORDX200512,Toys,Supplier D,West,475.24,Email,Returned,Late Delivery,10-12-2024,1,0.433890633
+ORDX200513,Clothing,Supplier D,South,717.33,Email,Returned,Incorrect Item,14-06-2024,1,0.481123669
+ORDX200514,Books,Supplier A,North,628.53,Organic,Not Returned,,25-05-2024,0,0.408481674
+ORDX200517,Electronics,Supplier A,North,685.13,Social Media,Returned,Other,01-05-2024,1,0.414706455
+ORDX200518,Clothing,Supplier C,South,169.23,Organic,Returned,Defective Item,06-05-2024,1,0.408490923
+ORDX200520,Books,Supplier D,North,600.48,Email,Returned,Better Price Elsewhere,12-11-2024,1,0.431519478
+ORDX200522,Books,Supplier D,South,296.23,Email,Returned,Damaged on Arrival,19-08-2024,1,0.446201902
+ORDX200525,Books,Supplier D,East,455.17,Email,Returned,Other,20-03-2024,1,0.448732566
+ORDX200526,Books,Supplier D,South,625.38,Organic,Returned,Wrong Size,03-12-2024,1,0.443198551
+ORDX200527,Clothing,Supplier A,North,612.24,Social Media,Not Returned,,28-03-2024,0,0.417117477
+ORDX200530,Electronics,Supplier D,South,530.12,Ads,Returned,Product Not as Described,26-06-2024,1,0.44098166
+ORDX200531,Toys,Supplier C,South,520.14,Organic,Not Returned,,27-06-2024,0,0.401000278
+ORDX200537,Toys,Supplier D,West,708.63,Organic,Not Returned,,30-06-2024,0,0.424104781
+ORDX200538,Beauty,Supplier C,East,315.84,Social Media,Returned,Wrong Size,16-08-2024,1,0.423379944
+ORDX200539,Beauty,Supplier D,South,345.8,Email,Not Returned,,15-04-2024,0,0.462375598
+ORDX200540,Beauty,Supplier A,East,268.12,Organic,Returned,Better Price Elsewhere,02-11-2024,1,0.422640878
+ORDX200545,Toys,Supplier A,West,552.73,Ads,Not Returned,,05-11-2024,0,0.421944033
